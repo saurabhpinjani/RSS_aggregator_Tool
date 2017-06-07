@@ -35,10 +35,18 @@ li a.active {
 </head>
 <body>
 <center>
+<?php
+    session_start();
+    $user_data = $_SESSION["User_details"];
+    $user_name = $user_data['_source']['username'];
+?>
 <ul>
   <li><a href="userdata_journals.php">Journals</a></li>
   <li><a class="active" href="userdata_compounds.php">Compounds</a></li>
   <li><a href="userdata_properties.php">Properties</a></li>
+  <li style="float:right"><a href="">
+      <?php echo $user_name ?>
+  </a></li>
 </ul>
 
 
@@ -79,43 +87,7 @@ li a.active {
     if (sizeof($compounds_choice)==0) {
         $compounds_choice = array();
     }
-    // asort($compounds);
-
-    // if(!$submitted)
-    // {
-    // echo "<h2> Pick the compounds </h2>";
-    // echo '<table border="7" cellpadding="10">';
-    // echo '<tr>';
-    // echo "<th colspan=".'8'.">Compounds</th>";
-    // echo "</tr>";
-    // $i = 0;
-    // echo '<tr>';
-    // foreach ($compounds as $key => $value) {
-    //     echo '<td>';
-    //     echo "<input type=checkbox name=".$key.">".$value."<br>";
-    //     echo '</td>';
-    //     $i++;
-    //     if($i==8) { echo "</tr> <tr>"; $i=0;};
-    // }
-    // echo '</tr>';
-    // echo '</table>';
-    // echo '<br>';
-    // echo "<input type=".'"submit"'." name=".'"submit_name"'." value=".'"SUBMIT"'." style=".'"height:80px; width:160px; font-size: 200%"'." >";
-    // echo '</form>';
-    // }
-    // else
-    // {
-    //     foreach ($compounds as $key => $value) {
-    //         $compounds[$key] = array($value, $_POST[$key]);
-    //         if ($_POST[$key]=="on") {
-    //             echo $value;
-    //             echo '<br>';
-    //         }
-    //     }
-    //     echo "Submitted";
-        
-    // }
-    ////////////////////////////////////////////////////////////////////////////
+    
     echo '<br>';
     echo "Search for: <input type=".'"text"'."name=".'"search_text"'.">";
     echo '<br>';
@@ -136,32 +108,14 @@ li a.active {
         echo '<br>';
     }
     $_SESSION["compounds_choice"] = $compounds_choice;
-    echo "your choices are:";
-    echo '<br>';
+    echo "<h3>Your choices till now are:</h3>";
     foreach ($compounds_choice as $key => $value) {
         echo $value;
         echo '<br>';
     }
+    echo "<a href=".'"userdata_properties.php"'.">NEXT </a>";
 ?>
-<form action="userdata_compounds.php" method="post">
 
-<?php
-    echo '<br>';
-    echo '<br>';
-    if ($_POST["submit_name"] == "SUBMIT") {
-        echo "Pushed to server!!";
-        //submit here
-
-    }
-    else 
-    {
-        echo "Submit into the server";
-        echo '<br>';
-        echo "<input type=".'"submit"'." name=".'"submit_name"'." value=".'"SUBMIT"'." style=".'"height:40px; width:80px;"'." >";
-    }
-    
-    echo '</form>';
-?>
 </center>
 </body>
 </html>

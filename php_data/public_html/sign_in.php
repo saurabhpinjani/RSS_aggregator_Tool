@@ -1,7 +1,3 @@
-<?php
-session_start();
-?>
-
 <html>
 <body>
 
@@ -18,12 +14,12 @@ Password: <input type ="password" name="sign_in_password"><br>
 <input type="submit" value="Log in" name="sign_in_click">
 </form>
 
-<h2> Sign Up</h2>h2>
+<h2> Sign Up</h2>
 
 <form action="sign_in.php" method="post">
 Select Username: <input type="text" name="sign_up_username"><br>
 Password: <input type ="password" name="sign_up_password"><br>
-Confirm Password: <input type="password" name ="sign_up_password2"><br>#
+Confirm Password: <input type="password" name ="sign_up_password2"><br>
 <input type ="hidden" name= "action" value="sign_up"><br>
 <input type="submit" value="Sign up" name="sign_up_click">
 </form>
@@ -31,23 +27,33 @@ Confirm Password: <input type="password" name ="sign_up_password2"><br>#
 <?php
     
     
+   session_start();
 
-	require 'vendor/autoload.php';
-	$clientBuilder = Elasticsearch\ClientBuilder::create();   // Instantiate a new ClientBuilder
-	$clientBuilder->setHosts(['http://localhost:9200']);           // Set the hosts
-	$client = $clientBuilder->build();          // Build the client object
+    require 'vendor/autoload.php';
+    $clientBuilder = Elasticsearch\ClientBuilder::create();   // Instantiate a new ClientBuilder
+    $clientBuilder->setHosts(['http://localhost:9200']);           // Set the hosts
+    $client = $clientBuilder->build();          // Build the client object
+    // $search_text = $_POST['search_text_1'];
+    // $params['size'] = 1000;
+    // $params['body']['query']['match']['_all']['query'] = "the";
+    // $params['body']['query']['match']['_all']['operator'] = "and";
+    // $result = $client->search($params);
+    
+    // echo "searched outside";
+    // echo '<br>';
     if(isset($_POST['action']))
     {
         if($_POST['action']=="sign_in")
         {
             $search_username = $_POST['sign_in_username'];
             $params['size'] = 1;
-
-            $params['index']="Users";
+            $params['index']="users";
             $params['type']="user_data";
             $params['body']['query']['match']['username']['query'] = $search_username;
-            $params['body']['query']['match']['_all']['operator'] = "and";
+            $params['body']['query']['match']['username']['operator'] = "and";
             $result = $client->search($params);
+            // echo "searched outside";
+            // echo '<br>';
             $hits = $result['hits']['total'];
             $data = $result['hits']['hits'];
             if($hits==0){
@@ -71,12 +77,12 @@ Confirm Password: <input type="password" name ="sign_up_password2"><br>#
         elseif($_POST['action']=="sign_up")
         {
             $search_username = $_POST['sign_up_username'];
+            $params = array();
             $params['size'] = 10;
-
-            $params['index']="users";
-            $params['type']="user_data";
-            $params['body']['query']['match']['username']['query'] = $search_username;
-            $params['body']['query']['match']['_all']['operator'] = "and";
+            // $params['index']='users';
+            // $params['type']='user_data';
+            $params['body']['query']['match']['username'] = $search_username;
+            $params['body']['query']['match']['username']['operator'] = "and";
             if($_POST['sign_up_password']==$_POST['sign_up_password2'])
             {
                 $result = $client->search($params);
@@ -84,7 +90,7 @@ Confirm Password: <input type="password" name ="sign_up_password2"><br>#
                 $data = $result['hits']['hits'];
                 if($hits==0)
                 {
-                    
+                    $params = array();
                     $params['index']="users";
                     $params['type']="metadata";
                     $params['id'] = 0;
@@ -104,14 +110,14 @@ Confirm Password: <input type="password" name ="sign_up_password2"><br>#
                     $params['body']['count'] =$user_count+1;
                     $res = $client->index($params);
 
-                     $params2['index']="users";
+                    $params2['index']="users";
                     $params2['type']="user_data";
-                    $params2['id'] = $user_count+1;
+                    $params2['id'] = $user_count;
                     $response = $client->get($params2);
-                    $_SESSION['User_details']=$response['_source'];
+                    $_SESSION['User_details']=$response;
 
                     echo "<script type='text/javascript'>alert('Successful Sign Up')</script>";
-                    header('Location:search_server.php');
+                    header('Location:userdata_journals.php');
                       
                 }
                 else{
