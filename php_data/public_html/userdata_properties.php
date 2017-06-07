@@ -37,7 +37,7 @@ li a.active {
 <center>
 <?php
     session_start();
-    $user_data = $_SESSION["User_details"];
+    $user_data = $_SESSION["user_details"];
     $user_name = $user_data['_source']['username'];
 ?>
 <ul>
@@ -58,7 +58,7 @@ li a.active {
     $clientBuilder->setHosts(['http://localhost:9200']);           // Set the hosts
     $client = $clientBuilder->build();          // Build the client object
 
-    $user_data = $_SESSION["User_details"];
+    $user_data = $_SESSION["user_details"];
     $journal_choice = $_SESSION["journal_choice"];
     $compounds_choice = $_SESSION["compounds_choice"];
     $property_choice  = $_SESSION["property_choice"];
@@ -156,12 +156,14 @@ li a.active {
         $params['id'] = $user_data['_id'];
         $params['body'] = array('username' => $user_data['_source']['username'],
                                 'password' => $user_data['_source']['password'],
-                                'jounals' => $journal_choice,
+                                'journals' => $journal_choice,
                                 'compounds' => $compounds_choice,
                                 'properties' => $property_choice );
 
         // print_r($params);
         $result = $client->index($params);
+        $_SESSION['user_details']=$params['body'];
+
         if ($result['_shards']['successful']) 
         {
             echo "<h2>Everything pushed to server</h2>";

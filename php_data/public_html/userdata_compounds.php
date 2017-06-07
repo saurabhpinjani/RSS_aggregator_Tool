@@ -37,7 +37,7 @@ li a.active {
 <center>
 <?php
     session_start();
-    $user_data = $_SESSION["User_details"];
+    $user_data = $_SESSION["user_details"];
     $user_name = $user_data['_source']['username'];
 ?>
 <ul>

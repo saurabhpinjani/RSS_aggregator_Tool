@@ -63,10 +63,14 @@ $file = fopen("../../RSS_urls/journals.txt","r");
     $x++;
   }
 
-
+  $selected_journals=array();
+  $user_details=$_SESSION['user_details'];
+  $selected_journals=$user_details['journals'];
+  $selected_materials =$user_details['compounds'];
   $count_array=array();
   $results_array=array();
-  foreach($journal_list as $journal)
+
+  foreach($selected_journals as $journal)
   {
     $string = file_get_contents("materials/"+$journal+"material_table_counts.json");
     $count_array[$journal] = json_decode($string, true);
@@ -78,14 +82,20 @@ $file = fopen("../../RSS_urls/journals.txt","r");
   } 
   
 
-  $selected_journals=array();
+  
   $net_results_array=array();
   $net_count_array=array();
   $cnt=0;
-
-  foreach ($material_array as $material)
+  $empty_row=array();
+  for($a=0;$a<9;$a++)
   {
-    $sum_row=array_fill(0,10, 0);
+    $empty_row[$a][0]=0;
+    $empty_row[$a][1]=0;
+  }
+  $empty_row[9]=0;
+  foreach ($selected_materials as $material)
+  {
+    $sum_row=$empty_row;
     
     
     foreach($selected_journals as $journal)
@@ -113,7 +123,7 @@ $file = fopen("../../RSS_urls/journals.txt","r");
   }
 
   $_SESSION['query_result'] = $net_results_array;
-  $_SESSION['jounal_list']=$selected_journals; 
+ 
   echo '<table border="1" cellpadding="10">' ;
   echo '<tr>' ;
   $property_array['Others']='';
@@ -126,7 +136,7 @@ $file = fopen("../../RSS_urls/journals.txt","r");
   }
   echo '</tr>';
   $j = 0;
-  for ($i = 0; $i < count($material_array); $i++) {
+  for ($i = 0; $i < count($net_count_array); $i++) {
     echo '<tr>';
     $j=0;
     foreach ($property_array as $property) 
