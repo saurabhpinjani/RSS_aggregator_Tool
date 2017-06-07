@@ -1,0 +1,1956 @@
+High-predation habitats affect the social dynamics of collective exploration in a shoaling fish|72
+Perovskite solar cells: Shedding light on film crystallization|2
+Effect of dipolar interactions and DC magnetic field on the specific absorption rate of an array of magnetic nanoparticles|15
+Experimental quantum tomography of a homodyne detector|8
+Benzyl viologen-assisted simultaneous exfoliation and n-doping of MoS2 nanosheets via a solution process|82
+Surface Engineering of Spherical Metal Nanoparticles with Polymers toward Selective Asymmetric Synthesis of Nanobowls and Janus-Type Dimers|67
+Erratum: Modeling semiflexible polymer networks [Rev. Mod. Phys. <b>86</b>, 995 (2014)]|41
+Mixed protonic and electronic conductors hybrid oxide synaptic transistors|40
+Crystal Structure Induced Preferential Surface Alloying of Sb on Wurtzite/Zinc Blende GaAs Nanowires|5
+On-Chip Microwave Quantum Hall Circulator|69
+Origin of cooperativity in hydrogen bonding|11
+Wannier-Bloch Approach to Localization in High-Harmonics Generation in Solids|17
+Robust nanogenerators based on graft copolymers via control of dielectrics for remarkable output power enhancement|13
+Future threats to biodiversity and pathways to their prevention|28
+Understanding the Capacitance of PEDOT:PSS|48
+Performance Study of Acoustophoretic Microfluidic Silicon-Glass Devices by Characterization of Material- and Geometry-Dependent Frequency Spectra|1
+Phase-plate cryo-EM structure of a class B GPCR–G-protein complex|45
+Colorimetric Sensor Array for Amines based on Responsive Lanthanide Complex Entrapment|6
+Valence and spin-state transition in cobaltates revisited by x-ray magnetic circular dichroism|26
+2D Film of Carbon Nanofibers Elastically Astricted MnO Microparticles: A Flexible Binder-Free Anode for Highly Reversible Lithium Ion Storage|81
+Substrate Doping Effect and Unusually Large Angle van Hove Singularity Evolution in Twisted Bi- and Multilayer Graphene|58
+Pipe-Wire TiO2–Sn@Carbon Nanofibers Paper Anodes for Lithium and Sodium Ion Batteries|55
+Metal-Organic Framework-Derived Non-Precious Metal Nanocatalysts for Oxygen Reduction Reaction|23
+High-Performance Near-IR Photodetector Using Low-Bandgap MA0.5FA0.5Pb0.5Sn0.5I3 Perovskite|41
+Simulated Sunlight-Mediated Photodynamic Therapy for Melanoma Skin Cancer by Titanium-Dioxide-Nanoparticle–Gold-Nanocluster–Graphene Heterogeneous Nanocomposites|79
+Multichromophoric hybrid species made of perylene bisimide derivatives and Ru(II) and Os(II) polypyridine subunits|92
+Magnetic subunits within a single molecule–surface hybrid|5
+High-Performance Triboelectric Nanogenerators Based on Solid Polymer Electrolytes with Asymmetric Pairing of Ions|45
+Anion Doping: A New Strategy for Developing High-Performance Perovskite-Type Cathode Materials of Solid Oxide Fuel Cells|27
+Electron-Doped 1T-MoS2 via Interface Engineering for Enhanced Electrocatalytic Hydrogen Evolution|39
+Small is Powerful: Recent Progress in Solution-Processed Small Molecule Solar Cells|69
+Universality of Coherent Raman Gain Suppression in Gas-Filled Broadband-Guiding Photonic Crystal Fibers|82
+Preparation and Evaluation of Copper–Manganese Oxide as a High-Efficiency Catalyst for CO Oxidation and NO Reduction by CO|4
+Ultrathin Co3O4 Layers with Large Contact Area on Carbon Fibers as High-Performance Electrode for Flexible Zinc–Air Battery Integrated with Flexible Display|21
+Fast label-free multilayered histology-like imaging of human breast cancer by photoacoustic microscopy|38
+Defect Chemistry of Nonprecious-Metal Electrocatalysts for Oxygen Reactions|34
+UV-curable hybrid organic-inorganic composite inks with a high refractive index for printing interference images and holograms|38
+Self-Powered, Flexible, and Solution-Processable Perovskite Photodetector Based on Low-Cost Carbon Cloth|13
+Biophysics: A toehold in cell surface dynamics|6
+Properties of B_{4} C in the shocked state for pressures up to 1.5 TPa|4
+Edge dominated electronic properties of MoS2/graphene hybrid 2D materials: edge state, electron coupling and work function|65
+Implementation of Pairwise Longitudinal Coupling in a Three-Qubit Superconducting Circuit|4
+Inherent Simple Cubic Lattice Being Responsible for Ultrafast Solid-Phase Change of Ge2Sb2Te5|13
+A metal/Ba0.6Sr0.4TiO3/SiO2/Si single film device for charge trapping memory towards a large memory window|36
+Basic Mechanisms of Al Interaction with the ZnO Surface|2
+Influence of particle size and dielectric environment on the dispersion behaviour and surface plasmon in nickel nanoparticles|98
+1 cm2 CH3NH3PbI3 mesoporous solar cells with 17.8% steady-state efficiency by tailoring front FTO electrodes|40
+Mechanochromism and electroluminescence in positional isomers of tetraphenylethylene substituted phenanthroimidazoles|67
+Topological Defects in a Living Nematic Ensnare Swimming Bacteria|46
+Soft Ultraviolet (UV) Photopatterning and Metallization of Self-Assembled Monolayers (SAMs) Formed from the Lipoic Acid Ester of α-Hydroxy-1-acetylpyrene: The Generality of Acid-Catalyzed Removal of Thiol-on-Gold SAMs using Soft UV Light|18
+Antiarrhythmics cure brain arrhythmia: The imperativeness of subthalamic ERG K+ channels in parkinsonian discharges|52
+Modeling of the multilevel conduction characteristics and fatigue profile of Ag/La1/3Ca2/3MnO3/Pt structures using a compact memristive approach|41
+Light fields in complex media: Mesoscopic scattering meets wave control|11
+Dendrimers as Powerful Building Blocks in Central Nervous System Disease: Headed for Successful Nanomedicine|5
+Surface-bound states in nanodiamonds|59
+Fabrication of Highly Stable Metal Oxide Hollow Nanospheres and Their Catalytic Activity toward 4-Nitrophenol Reduction|51
+Aqueous metal-organic solutions for YSZ thin film inkjet deposition|74
+Setting the pace of microswimmers: when increasing viscosity speeds up self-propulsion|3
+Ni-Fe Nitride Nanoplates on Nitrogen-Doped Graphene as a Synergistic Catalyst for Reversible Oxygen Evolution Reaction and Rechargeable Zn-Air Battery|45
+In vivo mapping of tissue- and subcellular-specific proteomes in Caenorhabditis elegans|54
+Correction|32
+In Situ Observation of Crystallization of Methylammonium Lead Iodide Perovskite from Microdroplets|43
+Breakdown of Optical Phonons’ Splitting in Two-Dimensional Materials|25
+Nobel Lecture: Fascinated journeys into blue light|75
+Ultrafast Carbon Dioxide Sorption Kinetics Using Lithium Silicate Nanowires|17
+Chiral Floquet Phases of Many-Body Localized Bosons|78
+Statistical Mechanics of Thin Spherical Shells|75
+Two-Dimensional Holey Co3O4 Nanosheets for High-Rate Alkali-Ion Batteries: From Rational Synthesis to in Situ Probing|2
+Effect of nanostructures orientation on electroosmotic flow in a microfluidic channel|6
+Polymer-Cement Composites with Self-Healing Ability for Geothermal and Fossil Energy Applications|29
+Carbon Nanoforms in Perovskite-Based Solar Cells|79
+Lanthanide “Chameleon” Multistage Anti-Counterfeit Materials|67
+Oriented Built-in Electric Field Introduced by Surface Gradient Diffusion Doping for Enhanced Photocatalytic H2 Evolution in CdS Nanorods|3
+Energy Storage: Integrated Design of MnO2@Carbon Hollow Nanoboxes to Synergistically Encapsulate Polysulfides for Empowering Lithium Sulfur Batteries (Small 20/2017)|63
+Synergistic Effects of Carbon Nanotubes on Negative Dielectric Properties of Graphene-Phenolic Resin Composites|19
+Dendrite-Free Lithium Deposition with Self-Aligned Columnar Structure in a Carbonate–Ether Mixed Electrolyte|27
+Inertial Microfluidic Cell Stretcher (iMCS): Fully Automated, High-Throughput, and Near Real-Time Cell Mechanotyping|25
+Quantum Critical Higgs|96
+Band Alignment and Charge Transfer in Complex Oxide Interfaces|51
+Improving Thermoelectric Performance of α-MgAgSb by Theoretical Band Engineering Design|12
+Function Follows Form: Correlation between the Growth and Local Emission of Perovskite Structures and the Performance of Solar Cells|36
+Direct Magneto-Optical Compression of an Effusive Atomic Beam for Application in a High-Resolution Focused Ion Beam|15
+Subtle Roles of Sb and S in Regulating the Thermoelectric Properties of N-Type PbTe to High Performance|19
+Rational Design and Synthesis of Extremely Efficient Macroporous CoSe2–CNT Composite Microspheres for Hydrogen Evolution Reaction|7
+<i>Colloquium</i>: Nanoplasmas generated by intense radiation|64
+Collimated Propagation of Fast Electron Beams Accelerated by High-Contrast Laser Pulses in Highly Resistive Shocked Carbon|64
+<i>Colloquium</i>: Non-Markovian dynamics in open quantum systems|53
+Engineering the Thermoelectric Transport in Half-Heusler Materials through a Bottom-Up Nanostructure Synthesis|24
+Atomic-scale sensing of the magnetic dipolar field from single atoms|10
+Synthesis and characterization of Cu0.3Zn0.5Mg0.2Fe2O4 nanoparticles as a magnetic drug delivery system|44
+Achieving Stable Radiation Pressure Acceleration of Heavy Ions via Successive Electron Replenishment from Ionization of a High-Z Material Coating|82
+Symmetry-Enforced Line Nodes in Unconventional Superconductors|84
+Coulomb drag|50
+Gilbert Damping Parameter in MgO-Based Magnetic Tunnel Junctions from First Principles|96
+Modeling the absorption spectrum of the permanganate ion in vacuum and in aqueous solution|18
+Nighttime temperature and human sleep loss in a changing climate|10
+Quantum effects: Heat flow in atomic bottlenecks|4
+General Strategy for Controlled Synthesis of NixPy/Carbon and Its Evaluation as a Counter Electrode Material in Dye-Sensitized Solar Cells|40
+High-Visible-Light Photoactivity of Plasma-Promoted Vanadium Clusters on Nanozeolites for Partial Photooxidation of Methanol|6
+Contents: (Small 20/2017)|65
+Atomic-Scale Mechanisms of Defect-Induced Retention Failure in Ferroelectrics|50
+Self-Supplying O2 through the Catalase-Like Activity of Gold Nanoclusters for Photodynamic Therapy against Hypoxic Cancer Cells|46
+Fabry-Pérot interferometer for sensing polar liquids at terahertz frequencies|25
+Interdiffusion Reaction-Assisted Hybridization of Two-Dimensional Metal–Organic Frameworks and Ti3C2Tx Nanosheets for Electrocatalytic Oxygen Evolution|32
+Density functional theory: Its origins, rise to prominence, and future|82
+Nonequilibrium Thermodynamics of Chemical Reaction Networks: Wisdom from Stochastic Thermodynamics|85
+Phonon thermal transport in silicene-germanene superlattice: a molecular dynamics study|2
+Molecular Engineered Hole-Extraction Materials to Enable Dopant-Free, Efficient p-i-n Perovskite Solar Cells|34
+Triboelectric nanogenerators for sensitive nano-coulomb molecular mass spectrometry|20
+Dynamic Self-Assembly of Homogenous Microcyclic Structures Controlled by a Silver-Coated Nanopore|58
+Progress on bioinspired, biomimetic, and bioreplication routes to harvest           solar energy|3
+Structural and functional synthetic model of mono-iron hydrogenase featuring an anthracene scaffold|11
+Ultrafast magnetic switching of GdFeCo with electronic heat currents|34
+Gapped excitations in the high-pressure antiferromagnetic phase of URu_{2} Si_{2}|9
+Flexible and Highly Photosensitive Electrolyte-Gated Organic Transistors with Ionogel/Silver Nanowire Membranes|48
+Oxygen Reduction Reaction in Conducting Polymer PEDOT: Density Functional Theory Study|36
+Temperature-dependent performance of all-NbN DC-SQUID magnetometers|23
+Phthalocyanines and Subphthalocyanines: Perfect Partners for Fullerenes and Carbon Nanotubes in Molecular Photovoltaics|78
+E2 decay strength of the M1 scissors mode of ^{156} Gd and its first excited rotational state|23
+Enhanced Afterglow Performance of Persistent Luminescence Implants for Efficient Repeatable Photodynamic Therapy|15
+Measurement of the impact force of a nonequilibrium atmospheric pressure plasma jet on various substrates|12
+Dyadic Green's function formalism for photoinduced forces in tip-sample nanojunctions|15
+Quantum and Information Thermodynamics: A Unifying Framework Based on Repeated Interactions|33
+FeNbSb p-type half-Heusler Compound: Beneficial Thermomechanical Properties and High-temperature Stability for Thermoelectrics|11
+DNA probes for monitoring dynamic and transient molecular encounters on live cell membranes|16
+Optimizing Variational Quantum Algorithms Using Pontryagin’s Minimum Principle|9
+Magnetoelectric write and read operations in a stress-mediated multiferroic memory cell|14
+Quantum Monte Carlo methods for nuclear physics|78
+Dielectric Response: Answer to Many Questions in the Methylammonium Lead Halide Solar Cell Absorbers|1
+Superior selectivity and sensitivity of blue phosphorus nanotubes in gas sensing applications|85
+Catalytic enantioselective synthesis of atropisomeric biaryls by a cation-directed O-alkylation|12
+NMR Spectroscopic Analysis of the Local Structure of Porous-Type Amorphous Alumina Prepared by Anodization|68
+A Hierarchical Phosphorus Nanobarbed Nanowire Hybrid: Its Structure and Electrochemical Properties|15
+Thermal conductivity of phononic membranes with aligned and staggered lattices of holes at room and low temperatures|70
+Iodine-Mediated Chemical Vapor Deposition Growth of Metastable Transition Metal Dichalcogenides|19
+Anodically Grown Binder-Free Nickel Hexacyanoferrate Film: Toward Efficient Water Reduction and Hexacyanoferrate Film Based Full Device for Overall Water Splitting|64
+Interaction studies of carbon nanomaterials and plasma activated carbon nanomaterials solution with telomere binding protein|1
+Quantifying the Hierarchical Order in Self-Aligned Carbon Nanotubes from Atomic to Micrometer Scale|73
+Bright and efficient light-emitting diodes based on MA/Cs double cation perovskite nanocrystals|21
+Scheme for Detection of Single-Molecule Radical Pair Reaction Using Spin in Diamond|59
+Brownian yet Non-Gaussian Diffusion: From Superstatistics to Subordination of Diffusing Diffusivities|36
+Defect motion in a quantum solid with spin: hcp ^{3} He|30
+Call for Papers: Call for Papers|1
+Eu3+ based mesoporous hybrid material with tunable multicolor emission modulated by fluoride ion: application for selective sensing toward fluoride ion|79
+Functionalized Bimetallic Hydroxides Derived from Metal–Organic Frameworks for High-Performance Hybrid Supercapacitor with Exceptional Cycling Stability|31
+Polypyrrole-interface-functionalized nano-magnetite epoxy nanocomposites as electromagnetic wave absorbers with enhanced flame retardancy|83
+New n-type semiconducting molecule with asymmetric indenothiophene core for high-performing non-fullerene type organic solar cell|13
+In Operando Quantification of Three-Dimensional Water Distribution in Nanoporous Carbon-Based Layers in Polymer Electrolyte Membrane Fuel Cells|14
+Evaluating Charge Carrier Transport and Surface States in CuFeO2 Photocathodes|11
+Editorial board (first issue)|34
+Biomedical applications of nanodiamond (Review)|7
+CMOS nanoelectrode array for all-electrical intracellular electrophysiological imaging|17
+Topological Phases Protected by Point Group Symmetry|56
+Thermal Stability of Metal Nanocrystals: An Investigation of the Surface and Bulk Reconstructions of Pd Concave Icosahedra|79
+Construction of 2D lateral pseudoheterostructures by strain engineering|6
+Publisher’s Note: Metallic quantum ferromagnets [Rev. Mod. Phys. <b>88</b>, 25006 (2016)]|43
+Experimental evidence of hourglass fermion in the candidate nonsymmorphic topological insulator KHgSb|62
+Anisotropic Percolation of SiC–Carbon Nanotube Hybrids: A New Route toward Thermally Conductive High-k Polymer Composites|33
+A two-dimensional conjugated aromatic polymer via C–C coupling reaction|13
+Photophysical properties and the NO photorelease mechanism of a ruthenium nitrosyl model complex investigated using the CASSCF-in-DFT embedding approach|82
+Tuning the Adsorption of Polysulfides in Lithium–Sulfur Batteries with Metal–Organic Frameworks|37
+Light penetration structures the deep acoustic scattering layers in the global ocean|2
+Tuning Adsorption Duration To Control the Diffusion of a Nanoparticle in Adsorbing Polymers|2
+Semiclassical quantization of highly excited scar states|5
+Physical properties of low-dimensional sp^{2} -based carbon nanostructures|48
+Thermodynamics of Computational Copying in Biochemical Systems|34
+Correction to Sequence of Silicon Monolayer Structures Grown on a Ru Surface: from a Herringbone Structure to Silicene|26
+Fast Batch Production of High-Quality Graphene Films in a Sealed Thermal Molecular Movement System|22
+An All-Plastic Field-Effect Nanofluidic Diode Gated by a Conducting Polymer Layer|26
+Does basic energy access generate socioeconomic benefits? A field experiment with off-grid solar power in India|37
+Multifunctional Molecular Beacon Micelles for Intracellular mRNA Imaging and Synergistic Therapy in Multidrug-Resistant Cancer Cells|6
+Neutron stars set to open their heavy hearts|9
+The mechanism of ammonium bisulfate formation and decomposition over V/WTi catalysts for NH3-selective catalytic reduction at various temperatures|79
+Kinetic Modeling of Spillover and Temperature-Programmed Oxidation of Oxy-Carbon Surface Species on Pt/Al2O3|58
+Thermoelectric Properties of Highly Conductive Poly(3,4-ethylenedioxythiophene) Polystyrene Sulfonate Printed Thin Films|69
+Optochemically Responsive 2D Nanosheets of a 3D Metal–Organic Framework Material|47
+Pressure-Sensitive and Conductive Carbon Aerogels from Poplars Catkins for Selective Oil Absorption and Oil/Water Separation|43
+Improving Interfacial Charge Recombination in Planar Heterojunction Perovskite Photovoltaics with Small Molecule as Electron Transport Layer|31
+Improved Superresolution Imaging Using Telegraph Noise in Organic Semiconductor Nanoparticles|7
+Activating Room Temperature Long Afterglow of Carbon Dots via Covalent Fixation|36
+Solving Systems of Linear Equations with a Superconducting Quantum Processor|19
+Critical Role of Molecular Symmetry for Charge Transport Properties: A Paradigm Learned from Quinoidal Bithieno[3,4-b]thiophenes|17
+Inducing superconductivity in Weyl semimetal microstructures by selective ion sputtering|25
+Direct Measurement of the Surface Energy of Graphene|41
+Effect of Transition Metal Cations on Stability Enhancement for Molybdate-Based Hybrid Supercapacitor|42
+Non-crystallographic symmetry of liquid metal, flat crystallographic faults and polymorph transformation of the M7C3 carbide|1
+Nobel Lecture: Discovery of atmospheric neutrino oscillations|44
+Capacitance–voltage characteristics of sub-nanometric Al 2 O 3  / TiO 2 laminates: dielectric and interface charge densities|1
+Technology as a driver of climate and energy politics|1
+High seismic attenuation at a mid-ocean ridge reveals the distribution of deep melt|24
+Electrochemical Energy Storage with a Reversible Nonaqueous Room-Temperature Aluminum–Sulfur Chemistry|9
+Study of the carrier transfer across the GaNP nanowire electrolyte interface by electron paramagnetic spin trapping|12
+Finite temperature properties of NiTi from first principles simulations: Structure, mechanics, and thermodynamics|31
+Magnetocaloric effect in itinerant magnets around a metamagnetic transition|7
+Nature of the Enhanced Self-Heating Ability of Imperfect Energetic Crystals Relative to Perfect Ones|34
+High-sensitivity plasmonic refractive index sensing using graphene|5
+Hydrophobic hydration and anomalous diffusion of elastin in an ethanolic solution|86
+Electronic, magnetic, and magnetocrystalline anisotropy properties of light lanthanides|11
+Excitonic Linewidth Approaching the Homogeneous Limit in MoS_{2} -Based van der Waals Heterostructures|8
+Nonlinear waves in PT-symmetric systems|39
+Light-Fueled, Spatiotemporal Modulation of Mechanical Properties and Rapid Self-Healing of Graphene-Doped Supramolecular Elastomers|59
+2D MoS2 Neuromorphic Devices for Brain-Like Computational Systems|5
+Tuning the magnetoresistance symmetry of Pt on magnetic insulators with temperature and magnetic doping|15
+Soluble graphene composite with aggregation-induced emission feature: the non-covalent functionalization and application in explosive detection|73
+Majorana Quasiparticles Protected by Z_{2} Angular Momentum Conservation|61
+Charge-transfer complexes of dinuclear ruthenium compounds/polyoxometalates for multistate electrochromism covering ultraviolet, visible, and near-infrared region|23
+Effect of one-dimensional superlattice potentials on the band gap of two-dimensional materials|19
+Defect-Engineered Ultrathin δ-MnO2 Nanosheet Arrays as Bifunctional Electrodes for Efficient Overall Water Splitting|37
+Emergence and Evolution of the k Gap in Spectra of Liquid and Supercritical States|30
+High-Temperature Treatment of Li-Rich Cathode Materials with Ammonia: Improved Capacity and Mean Voltage Stability during Cycling|20
+Multianchored Glycoconjugate-Functionalized Magnetic Nanoparticles: A Tool for Selective Killing of Targeted Bacteria via Alternating Magnetic Fields|45
+Tuning Plasmon Resonance of In2O3 Nanocrystals throughout the Mid-Infrared Region by Competition between Electron Activation and Trapping|7
+Smooth 2D manifold extraction from 3D image stack|1
+Enhancing Ion Migration in Grain Boundaries of Hybrid Organic–Inorganic Perovskites by Chlorine|23
+Quasiclassical theory of magnetoelectric effects in superconducting heterostructures in the presence of spin-orbit coupling|100
+Catalytic “MOF-Cloth” Formed via Directed Supramolecular Assembly of UiO-66-NH2 Crystals on Atomic Layer Deposition-Coated Textiles for Rapid Degradation of Chemical Warfare Agent Simulants|21
+Attosecond chronoscopy of photoemission|85
+Editorial: From the APS Editor in Chief|15
+Scattering Manipulation and Camouflage of Electrically Small Objects through Metasurfaces|73
+Towards Efficient Spectral Converters through Materials Design for Luminescent Solar Devices|18
+Nontrivial Critical Fixed Point for Replica-Symmetry-Breaking Transitions|31
+Direct laser write process for 3D conductive carbon circuits in polyimide|47
+Spin Hall effects|71
+Distinguishing Lead and Molecule States in Graphene-Based Single-Electron Transistors|75
+Covalently Adaptable Elastin-Like Protein–Hyaluronic Acid (ELP–HA) Hybrid Hydrogels with Secondary Thermoresponsive Crosslinking for Injectable Stem Cell Delivery|35
+Generating end modes in a superconducting wire by periodic driving of the hopping|1
+H-bond Assisted Mechanoluminescence of Borylated Aryl Amines: Tunable Emission and Polymorphism|31
+Cubic Crystal-Structured SnTe for Superior Li- and Na-Ion Battery Anodes|62
+Oxidized Quasi-Carbon Nitride Quantum Dots Inhibit Ice Growth|31
+Preparation and characterization of a calcium-phosphate-silicon coating on a Mg-Zn-Ca alloy via two-step micro-arc oxidation|34
+In Situ Probing of Ion Ordering at an Electrified Ionic Liquid/Au Interface|39
+Oligolysine-based coating protects DNA nanostructures from low-salt denaturation and nuclease degradation|4
+In-situ observation of the particle microstructure of magnetorheological elastomers in presence of mechanical strain and magnetic fields|12
+Kinetics of high pressure argon-helium pulsed gas discharge|8
+Tuning Phase Transitions in 1T-TaS2 via the Substrate|72
+Contribution of Cations and Anions of Aqueous Electrolytes to the Charge Stored at the Electric Electrolyte/Electrode Interface of Carbon-Based Supercapacitors|67
+Using Coordination Assembly as the Microencapsulation Strategy to Promote the Efficacy and Environmental Safety of Pyraclostrobin|18
+Combinatorial Library Based on Restriction Enzyme-mediated Modular Assembly|9
+Red-light emission and dielectric reversible duple opto-electronic switches in a hybrid multifunctional material: (2-methylimidazolium)MnCl3(H2O)|32
+Barium content study and properties characterization of lead zirconate stannate titanate antiferroelectric ceramics using thermally stimulated depolarization current technique|17
+Prediction of the critical point of pressure-induced deformation-related phase transitions in aligned single-walled carbon nanotubes on the basis of extreme-low-frequency-shift Raman spectroscopy|87
+Contents: (Adv. Funct. Mater. 20/2017)|66
+Impact of Next-to-Leading Order Contributions to Cosmic Microwave Background Lensing|54
+Complex semiclassical analysis of the Loschmidt amplitude and dynamical quantum phase transitions|21
+News: 2015 Outstanding Reviewers for Solar Energy Materials and Solar Cells|2
+Mo2C/CNT: An Efficient Catalyst for Rechargeable Li–CO2 Batteries|39
+Superlubricity between MoS2 Monolayers|40
+3-wave mixing Josephson dipole element|22
+Characterization methodology for lead zirconate titanate thin films with interdigitated electrode structures|16
+Flexible Nonvolatile Transistor Memory with Solution-Processed Transition Metal Dichalcogenides|66
+Direct observation of mono-layer, bi-layer, and tri-layer charge density waves in 1T-TaS<sub>2</sub> by transmission electron microscopy without a substrate|5
+Fullerene Derivatives for the Applications as Acceptor and Cathode Buffer Layer Materials for Organic and Perovskite Solar Cells|74
+Solution synthesis of lead seeded germanium nanowires and branched nanowire networks and their application as Li-ion battery anodes|1
+Reimagining physics|22
+Stochastic and Macroscopic Thermodynamics of Strongly Coupled Systems|70
+Quantum criticality in the coupled two-leg spin ladder Ba_{2} CuTeO_{6}|38
+A DFT study of the adsorption of glycine in the interlayer space of montmorillonite|40
+Nobel Lecture: Growth of GaN on sapphire via low-temperature deposited buffer layer and realization of p-type GaN by Mg doping followed by low-energy electron beam irradiation|76
+Ferromagnetic Exchange Coupling in a Family of MnIII Salen-Type Schiff-Base Out-of-Plane Dimers|14
+Achieving net-zero emissions through the reframing of UK national targets in the post-Paris Agreement era|5
+Bring behaviour into the digital transformation|2
+Material Witness: Plastics on the menu|5
+Intertwined Orders in Heavy-Fermion Superconductor CeCoIn_{5}|88
+High performance MIIM diode based on cobalt oxide/titanium oxide|39
+Magnetic domain wall depinning assisted by spin wave bursts|18
+Casimir free energy of dielectric films: classical limit, low-temperature behavior and control|3
+Piezoelectrically and triboelectrically hybridized self-powered sensor with applications to smart window and human motion detection|15
+Our choice from the recent literature|3
+Bactericidal Effect of Gold–Chitosan Nanocomposites in Coculture Models of Pathogenic Bacteria and Human Macrophages|83
+Bolometric detection of ferromagnetic resonance in YIG slab|42
+Prethermal Phases of Matter Protected by Time-Translation Symmetry|47
+Dimensional Crossover in a Charge Density Wave Material Probed by Angle-Resolved Photoemission Spectroscopy|83
+Spin blockade in hole quantum dots: Tuning exchange electrically and probing Zeeman interactions|81
+Analytical plasmon dispersion in subwavelength closely spaced Au nanorod arrays from planar metal-insulator-metal waveguides|30
+Materials Research at Wuhan University of Technology|67
+High-Throughput Investigation of a Lead-Free AlN-Based Piezoelectric Material, (Mg,Hf)xAl1–xN|5
+Electric-field control of tri-state phase transformation with a selective dual-ion switch|46
+Multiphoton Direct Laser Writing and 3D Imaging of Polymeric Freestanding Architectures for Cell Colonization|6
+Broadband solid cloak for underwater acoustics|31
+Noninvasively Imaging Subcutaneous Tumor Xenograft by a Handheld Raman Detector, with the Assistance of an Optical Clearing Agent|33
+Fast iodide-SAD phasing for high-throughput membrane protein structure determination|49
+Resistive switching phenomena induced by the heterostructure composite of ZnSnO3 nanocubes interspersed ZnO nanowires|20
+Dominance of Metric Correlations in Two-Dimensional Neuronal Cultures Described through a Random Field Ising Model|86
+Perovskite Tandem Solar Cells|30
+Research Update: Enhancement of figure of merit for energy-harvesters based on free-standing epitaxial Pb(Zr0.52Ti0.48)0.99Nb0.01O3 thin-film cantilevers|14
+Ink-Free Reversible Optical Writing in Monolayers by Polymerization of a Trifunctional Monomer: Toward Rewritable “Molecular Paper”|56
+Sub-Micron Polymeric Stomatocytes as Promising Templates for Confined Crystallization and Diffraction Experiments|9
+Announcement: Towards greater reproducibility for life-sciences research in Nature|3
+Shape tailoring to enhance and tune the properties of graphene nanomechanical resonators|7
+Perovskite Solar Cells: Effect of the Microstructure of the Functional Layers on the Efficiency of Perovskite Solar Cells (Adv. Mater. 20/2017)|79
+Hydrogen Evolution Reaction Activity of Graphene–MoS2 van der Waals Heterostructures|19
+Molecular dynamics study of solvated aniline and ethylene glycol monomers confined in calcium silicate nanochannels: a case study of tobermorite|39
+Experiments on the Parallel Hall Effect in Three-Dimensional Metamaterials|62
+Binary Synergistic Sensitivity Strengthening of Bioinspired Hierarchical Architectures based on Fragmentized Reduced Graphene Oxide Sponge and Silver Nanoparticles for Strain Sensors and Beyond|4
+Nanocomposites: High-Energy-Density Dielectric Polymer Nanocomposites with Trilayered Architecture (Adv. Funct. Mater. 20/2017)|64
+Training: Lure young surgeons on to research tracks|19
+Highly Conductive, Lightweight, Low-Tortuosity Carbon Frameworks as Ultrathick 3D Current Collectors|56
+Specific heat and entropy of fractional quantum Hall states in the second Landau level|64
+Patterning Superconductivity in a Topological Insulator|3
+<i>Colloquium</i>: Status of α-particle condensate structure of the Hoyle state|17
+Charge–Discharge Behavior of Bismuth in a Liquid Electrolyte for Rechargeable Batteries Based on a Fluoride Shuttle|3
+Cooling a Harmonic Oscillator by Optomechanical Modification of Its Bath|5
+Design of new photochromic polymers incorporating covalently or ionically linked spiropyran/polyoxometalate hybrids|88
+“Supertrap” at Work: Extremely Efficient Nonradiative Recombination Channels in MAPbI3 Perovskites Revealed by Luminescence Super-Resolution Imaging and Spectroscopy|55
+Computing: Memristive Devices with Highly Repeatable Analog States Boosted by Graphene Quantum Dots (Small 20/2017)|62
+Effective fabrication of flexible negative refractive index metamaterials using a simple screen printing method|80
+Resonant laser printing of structural colors on high-index dielectric metasurfaces|63
+Smooth anti-reflective three-dimensional textures for liquid phase crystallized silicon thin-film solar cells on glass|3
+Heteroaggregation of oppositely charged particles in the presence of multivalent ions|55
+Understanding Heterogeneous Electrocatalysis of Lithium Polysulfide Redox on Pt and WS2 Surfaces|6
+Google matrix analysis of directed networks|70
+Morphological and Chemical Tuning of High-Energy-Density Metal Oxides for Lithium Ion Battery Electrode Applications|1
+Analysis of the recombination mechanisms of a silicon solar cell with low bandgap-voltage offset|51
+Novel water insoluble and sustainable (NaxAg2-x)MoO4 (0 [less-than-or-equal] x [less-than-or-equal] 2) microwave dielectric ceramics with spinel structure sintered at 410 degrees|1
+Floquet topological phases protected by time glide symmetry|76
+Development of a High-Throughput Ion-Exchange Resin Characterization Workflow|4
+A low-frequency sound absorbing material with subwavelength thickness|9
+Embedded Metal Electrode for Organic–Inorganic Hybrid Nanowire Solar Cells|22
+Phase purification of GaAs nanowires by prolonging the growth duration in MBE|95
+Masthead: (Adv. Mater. 20/2017)|65
+Crystal-electric-field excitations and spin dynamics in Ce_{3} Co_{4} Sn_{13} semimetallic chiral-lattice phase|77
+Masthead: (Adv. Energy Mater. 10/2017)|63
+Anti-Counterfeiting: Lanthanide “Chameleon” Multistage Anti-Counterfeit Materials (Adv. Funct. Mater. 20/2017)|61
+First-Principles Study of the Charge Distributions in Water Confined between Dissimilar Surfaces and Implications in Regard to Contact Electrification|32
+All-Manganese-Based Binder-Free Stretchable Lithium-Ion Batteries|14
+Jerusalem lectures on black holes and quantum information|63
+Fibulin-4 is essential for maintaining arterial wall integrity in conduit but not muscular arteries|70
+Holographic encoding of universality in corner spectra|8
+Point defect segregation and its role in the detrimental nature of Frank partials in Cu(In,Ga)Se_{2} thin-film absorbers|80
+Erratum: Multiple-Stage Structure Transformation of Organic-Inorganic Hybrid Perovskite CH_{3} NH_{3} PbI_{3} [Phys. Rev. X <b>6</b>, 031042 (2016)]|54
+Optimizing the Efficiency of Solar Photon Upconversion|20
+Thermodynamic analysis of alkali metal complex formation of polymer-bonded crown ether|3
+Realizing Stable p-Type Transporting in Two-Dimensional WS2 Films|72
+Crosslinked Semiconductor Polymers for Photovoltaic Applications|7
+Surface-induced assembly of sophorolipids|5
+Phase Transition of Thin Water Films on Graphite Probed by Interactions with LiCl Additives|9
+Molecular Design of Mesoporous NiCo2O4 and NiCo2S4 with Sub-Micrometer-Polyhedron Architectures for Efficient Pseudocapacitive Energy Storage|43
+Identifying the Real Minority Carrier Lifetime in Nonideal Semiconductors: A Case Study of Kesterite Materials|15
+Bulk moduli and equations of state of ice VII and ice VIII|20
+3,4-Donor- and 2,5-acceptor-functionalized dipolar siloles: synthesis, structure, photoluminescence and electroluminescence|49
+The ground truth about metadata and community detection in networks|71
+Spin-Orbit Dimers and Noncollinear Phases in d^{1} Cubic Double Perovskites|34
+Atomic Resolution Structural and Chemical Imaging Revealing the Sequential Migration of Ni, Co, and Mn upon the Battery Cycling of Layered Cathode|48
+Beyond pairwise mechanisms of species coexistence in complex communities|26
+Exactly soluble local bosonic cocycle models, statistical transmutation, and simplest time-reversal symmetric topological orders in 3+1 dimensions|65
+<i>Colloquium</i>: Topological band theory|46
+Flexible and Stretchable 3ω Sensors for Thermal Characterization of Human Skin|53
+Molybdenum Carbamate Nanosheets as a New Class of Potential Phase Change Materials|30
+Primordial Black Holes: Still missing|5
+Surface nanobubbles and nanodroplets|81
+Organic Photovoltaics: Charge Transfer Processes in OPV Materials as Revealed by EPR Spectroscopy (Adv. Energy Mater. 10/2017)|62
+Scanning Quantum Cryogenic Atom Microscope|76
+Fabrication and Characterization of Three-Dimensional (3D) Core–Shell Structure Nanofibers Designed for 3D Dynamic Cell Culture|55
+Photodoping-Driven Crossover in the Low-Frequency Noise of MoS_{2} Transistors|64
+The preparation, and structural and multiferroic properties of B-site ordered double-perovskite Bi2FeMnO6|28
+Waveform control of enhanced THz radiation from femtosecond laser filament in air|2
+Simultaneous Imaging of Endogenous Survivin mRNA and On-Demand Drug Release in Live Cells by Using a Mesoporous Silica Nanoquencher|24
+Synthesis of Bioinspired Curcuminoid Small Molecules for Solution-Processed Organic Solar Cells with High Open-Circuit Voltage|26
+Ultraviolet-enhanced Electroluminescence from Individual ZnO Microwire/p-Si Light Emitting Diode by Reverse Tunneling Effect|29
+Pressure-induced elastic anomaly in a polyamorphous metallic glass|8
+Quantum Entanglement in Neural Network States|14
+Delayed-choice gedanken experiments and their realizations|59
+Energy Dissipation in Monolayer MoS2 Electronics|81
+Spin-Polarized Tunneling through Chemical Vapor Deposited Multilayer Molybdenum Disulfide|13
+On the Penrose and Taylor–Socolar hexagonal tilings|6
+Magnetooptical determination of a topological index|1
+Photoresponse of Natural van der Waals Heterostructures|60
+Highly Oriented Atomically Thin Ambipolar MoSe2 Grown by Molecular Beam Epitaxy|18
+CODATA recommended values of the fundamental physical constants: 2014|30
+Wafer-Scale Single-Crystalline Ferroelectric Perovskite Nanorod Arrays|20
+Self-Organization of Electroactive Suspensions in Discharging Slurry Batteries: A Mesoscale Modeling Investigation|7
+Origin of Granular Capillarity Revealed by Particle-Based Simulations|57
+Theoretical study of enhancing the piezoelectric nanogenerator’s output power by optimizing the external force’s shape|5
+Experimental soft-matter science|5
+The physics of x-ray free-electron lasers|57
+Photostrictive Two-Dimensional Materials in the Monochalcogenide Family|17
+Reduced Transition Probabilities for the Gamma Decay of the 7.8 eV Isomer in ^{229} Th|55
+Biomedical research: Premature lambs grown in a bag|41
+Magneto-mechanical modeling of electrical steel sheets|46
+Deposition Methods of Graphene as Electrode Material for Organic Solar Cells|72
+Screening of Nanocomposite Scaffolds Arrays Using Superhydrophobic-Wettable Micropatterns|28
+Imaging Nanoscale Morphology of Semiconducting Polymer Films with Photoemission Electron Microscopy|30
+Silicon doped boron clusters: how to make stable ribbons?|35
+Prominent Role of Spin-Orbit Coupling in FeSe Revealed by Inelastic Neutron Scattering|7
+Pseudohalide-Exchanged Quantum Dot Solids Achieve Record Quantum Efficiency in Infrared Photovoltaics|51
+Capacitance behavior of radio-frequency interdigital capacitor with single- and multi-layer graphenes|30
+In Situ L-Edge XAS Study of a Manganese Oxide Water Oxidation Catalyst|42
+Poly(ethyl α-cyanoacrylate)-Based Artificial Solid Electrolyte Interphase Layer for Enhanced Interface Stability of Li Metal Anodes|23
+High-efficiency quantum dot light-emitting diodes employing lithium salt doped poly(9-vinlycarbazole) as a hole-transporting layer|94
+Transition metals doped and encapsulated ZnO nanotubes: Good materials for the spintronic applications|20
+Rechargeable Zinc Alkaline Anodes for Long-Cycle Energy Storage|20
+Biodiversity|24
+Free-Standing Holey Ni(OH)2 Nanosheets with Enhanced Activity for Water Oxidation|36
+Oxygen-vacancy driven electron localization and itinerancy in rutile-based TiO_{2}|47
+Field-driven quantum phase transitions in S=1/2 spin chains|88
+Smart Asymmetric Vesicles with Triggered Availability of Inner Cell-Penetrating Shells for Specific Intracellular Drug Delivery|32
+Intrinsic Notch Effect Leads to Breakdown of Griffith Criterion in Graphene|49
+Fieldlike and Dampinglike Spin-Transfer Torque in Magnetic Multilayers|22
+Ion-trap measurements of electric-field noise near surfaces|67
+Household Fluorescent Lateral Flow Strip Platform for Sensitive and Quantitative Prognosis of Heart Failure Using Dual-Color Upconversion Nanoparticles|65
+Chemical Vapor Deposition Synthesis and Optical Properties of Nb2O5 Thin Films with Hybrid Functional Theoretical Insight into the Band Structure and Band Gaps|11
+Research Update: Nanogenerators for self-powered autonomous wireless           sensors|3
+Tailoring Biomaterials for Cancer Immunotherapy: Emerging Trends and Future Outlook|11
+Kinetics of the electrochemically-assisted deposition of sol-gel films|9
+Cellulose Nanocrystals/Polyacrylamide Composites of High Sensitivity and Cycling Performance To Gauge Humidity|73
+Broadband Near-Unidirectional Absorption Enabled by Phonon-Polariton Resonances in SiC Micropyramid Arrays|98
+Pronounced Exciton Dynamics in the Vacancy-Ordered Bismuth Halide Perovskite (CH3NH3)3Bi2I9 Observed by Ultrafast UV–vis–NIR Transient Absorption Spectroscopy|45
+Crystal field excitations and magnons: Their roles in oxyselenides Pr_{2} O_{2} M_{2} OSe_{2} (M=Mn,Fe)|22
+Enhanced Kinetics of Electrochemical Hydrogen Uptake and Release by Palladium Powders Modified by Electrochemical Atomic Layer Deposition|80
+High quality factor manganese-doped aluminum lumped-element kinetic inductance detectors sensitive to frequencies below 100 GHz|20
+High Volumetric Capacity of Hollow Structured SnO2@Si Nanospheres for Lithium-Ion Batteries|21
+Charge-Transfer States in Organic Solar Cells: Understanding the Impact of Polarization, Delocalization, and Disorder|46
+Improved Performance and Stability of All-Inorganic Perovskite Light-Emitting Diodes by Antisolvent Vapor Treatment|54
+Engineering Highly Interconnected Neuronal Networks on Nanowire Scaffolds|74
+Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta, Coastal Peru|23
+A nanowire based triboelectric nanogenerator for harvesting water wave energy           and its applications|8
+A Poly(Propyleneimine) Dendrimer-Based Polyplex-System for Single-Chain Antibody-Mediated Targeted Delivery and Cellular Uptake of SiRNA|34
+Carbon dots in zeolites: A new class of thermally activated delayed fluorescence materials with ultralong lifetimes|16
+All-Optical Switching of Magnetic Tunnel Junctions with Single Subpicosecond Laser Pulses|99
+Earth-Abundant Iron Diboride (FeB2) Nanoparticles as Highly Active Bifunctional Electrocatalysts for Overall Water Splitting|57
+Behavior of Germanium and Silicon Nanowire Anodes with Ionic Liquid Electrolytes|19
+Manipulating Coherent Plasmon–Exciton Interaction in a Single Silver Nanorod on Monolayer WSe2|14
+X-ray Phase-Contrast Imaging and Metrology through Unified Modulated Pattern Analysis|81
+Self-Contained Polymer/Metal 3D Printed Electrochemical Platform for Tailored Water Splitting|60
+An Optically Modulated Self-Assembled Resonance Energy Transfer Pass Gate|61
+Colony stimulating factor-1 receptor is a central component of the foreign body response to biomaterial implants in rodents and non-human primates|17
+Enhanced Solar-to-Hydrogen Generation with Broadband Epsilon-Near-Zero Nanostructured Photocatalysts|60
+Ultrafast Multiphoton Thermionic Photoemission from Graphite|74
+Masthead: (Small 20/2017)|64
+Label-Free, Multiplexed, Single-Molecule Analysis of Protein–DNA Complexes with Nanopores|4
+Insight into the temperature dependent properties of the ferromagnetic Kondo lattice YbNiSn|41
+Organic–Inorganic Hybrid Perovskite with Controlled Dopant Modification and Application in Photovoltaic Device|50
+Periodically driving a many-body localized quantum system|20
+Comment on “Economies of scale: The physics basis” [J. Appl. Phys. 121, 044907 (2017)]|54
+Emerging technologies and the role of NGOs|2
+Carbon Nanoforms for Photovoltaics: Carbon Nanoforms in Perovskite-Based Solar Cells (Adv. Energy Mater. 10/2017)|61
+Large-Angle, Multifunctional Metagratings Based on Freeform Multimode Geometries|77
+Fingerprints of Inter- and Intramolecular Hydrogen Bonding in Saligenin-Water Clusters Revealed by Mid- and Far-Infrared Spectroscopy|27
+Plasma sputtering depositions with colloidal masks for fabrication of nanostructured surfaces with enhanced photocatalytic activity|15
+Origin of the Tetragonal Ground State of Heusler Compounds|83
+P Doped MoO3−x Nanosheets as Efficient and Stable Electrocatalysts for Hydrogen Evolution|54
+The local vicinity of spin sums for certain mass-dimension-one spinors|7
+Tuning Unique Peapod-Like Co(SxSe1–x)2 Nanoparticles for Efficient Overall Water Splitting|51
+Photo-induced changes of the surface band bending in GaN: Influence of growth technique, doping and polarity|46
+Quantum Secure Direct Communication with Quantum Memory|2
+Zeeman- and electric-field control of spin- and valley-polarized transport through biased magnetic junctions on WSe 2|3
+Key role of rotated domains in oxygen intercalation at graphene on Ni(1 1 1)|2
+Layer Polarizability and Easy-Axis Quantum Hall Ferromagnetism in Bilayer Graphene|83
+A Single-Molecular AND Gate Operated with Two Orthogonal Switching Mechanisms|33
+Computational Study of Al and Sc NMR Shielding in Metallic ScTT′Al Heusler Phases|35
+Resonant and non-resonant magnetic scatterings with circularly polarized X-rays: magnetic scattering factor and electron density of gadolinium iron garnet|7
+Temperature dependence of Rashba-Edelstein magnetoresistance in Bi/Ag/CoFeB trilayer structures|19
+Molecular Origin of the Vibrational Structure of Ice Ih|10
+Baryon resonances in large N_{c} QCD|97
+Effect of Varying Three-Dimensional Strain on the Emission Properties of Light-Emitting Diodes Based on (In,Ga)N/GaN Nanowires|48
+Stretchable, Transparent, and Stretch-Unresponsive Capacitive Touch Sensor Array with Selectively Patterned Silver Nanowires/Reduced Graphene Oxide Electrodes|65
+Symmetry violations in nuclear and neutron β decay|66
+Insight into the Effect of Ligand-exchange on Colloidal CsPbBr3 Perovskite Quantum Dot/mesoporous-TiO2 Composite-based Photodetectors: Much Faster Electron Injection|69
+Superconductivity Provides Access to the Chiral Magnetic Effect of an Unpaired Weyl Cone|74
+Incoherent Fermi-Pasta-Ulam Recurrences and Unconstrained Thermalization Mediated by Strong Phase Correlations|50
+In vivo high-efficiency targeted photodynamic therapy of ultra-small Fe3O4@polymer-NPO/PEG-Glc@Ce6 nanoprobes based on small size effect|3
+Applying systems-level spectral imaging and analysis to reveal the organelle interactome|55
+Silica Nanotubes with Widely Adjustable Inner Diameter and Ordered Silicas with Ultralarge Cylindrical Mesopores Templated by Swollen Micelles of Mixed Pluronic Triblock Copolymers|30
+Methylmercury uptake and degradation by methanotrophs|9
+Porous MOF with Highly Efficient Selectivity and Chemical Conversion for CO2|41
+Controlling Photon Echo in a Quantum-Dot Semiconductor Optical Amplifier Using Shaped Excitation|23
+Global disparity in the supply of commercial weather and climate information services|22
+Interfacing single photons and single quantum dots with photonic nanostructures|94
+Generation of a planar direct-current glow discharge in atmospheric pressure air using rod array electrode|8
+Photoelectrochemical water splitting in separate oxygen and hydrogen cells|13
+Mechanism of Zn Insertion into Nanostructured δ-MnO2: A Nonaqueous Rechargeable Zn Metal Battery|27
+Frizzled7 Antibody-Functionalized Nanoshells Enable Multivalent Binding for Wnt Signaling Inhibition in Triple Negative Breast Cancer Cells|29
+Particle and nuclear physics instrumentation and its broad connections|21
+Entropy Production in Field Theories without Time-Reversal Symmetry: Quantifying the Non-Equilibrium Character of Active Matter|29
+Additional Sodium Insertion into Polyanionic Cathodes for Higher-Energy Na-Ion Batteries|26
+The Role of Liquid-liquid Transition in Glass Formation of CuZr Alloys|24
+Critical and multicritical behaviors of static and complex magnetic susceptibilities for the mean-field Blume-Capel model with a random crystal field|41
+Mummy DNA unravels ancient Egyptians’ ancestry|8
+A neural circuit architecture for angular integration in Drosophila|42
+Helium Nanobubbles Enhance Superelasticity and Retard Shear Localization in Small-Volume Shape Memory Alloy|58
+Minimal Models for Nonreciprocal Amplification Using Biharmonic Drives|72
+Extreme hydrothermal conditions at an active plate-bounding fault|49
+Complete phase diagram of rare-earth nickelates from first-principles|6
+Single-Site, Heterogeneous Electrocatalytic Reduction of CO2 in Water as the Solvent|14
+Direct Measurement of Pyroelectric and Electrocaloric Effects in Thin Films|67
+Macroscopic fluctuation theory|88
+Bioinspired Composite Microfibers for Skin Adhesion and Signal Amplification of Wearable Sensors|20
+Fe(Co)SiBPCCu nanocrystalline alloys with high Bs above 1.83T|24
+Multifunctional Hybrid Nanoparticles for Traceable Drug Delivery and Intracellular Microenvironment-Controlled Multistage Drug-Release in Neurons|69
+Asymmetry in mechanical polarization switching|26
+Micromachined Integrated Quantum Circuit Containing a Superconducting Qubit|52
+Supramolecular Polymers: Flexible Chirality in Self-Assembled N-Annulated Perylenedicarboxamides (Small 20/2017)|61
+Charge transfer plasmons: Recent theoretical and experimental           developments|4
+Inferring Protonation States of Hydroxamate Adsorbates on TiO2 Surfaces|62
+Nanopore-Based Measurements of Protein Size, Fluctuations, and Conformational Changes|68
+Unsung heroes: Value coordinating roles in research|18
+Holey Carbon Nanotubes from Controlled Air Oxidation|33
+Controllable Synthesis of Ultrafine One-dimensional Small-Molecule Semiconductor Nanocrystals in Surfactant-assisted Wet Chemical Reaction and Confinement Effect|7
+Harnessing low frequency-based energy using a K0.5Na0.5NbO3 (KNN) pigmented piezoelectric paint system|27
+Transmodal Fabry-Pérot Resonance: Theory and Realization with Elastic Metamaterials|66
+Diastereoselective Synthesis of Symmetrical and Unsymmetrical Tetrahydropyridines Catalyzed by Bi(III) Immobilized on Triazine Dendrimer Stabilized Magnetic Nanoparticles|3
+Transparent Semiconductor-Superconductor Interface and Induced Gap in an Epitaxial Heterostructure Josephson Junction|70
+Heterogeneous Integration of Carbon-Nanotube–Graphene for High-Performance, Flexible, and Transparent Photodetectors|20
+Spin-Orbit Coupling Controlled J=3/2 Electronic Ground State in 5d^{3} Oxides|96
+Cold Anisotropically Interacting van der Waals Molecule: TiHe|26
+Why function is catching on in conservation|2
+Collective dehydration of ions in nano-pores|70
+Phase diagram of QCD in a magnetic field|55
+Ultrahigh Thermal Conductive yet Superflexible Graphene Films|38
+Functional electronic inversion layers at ferroelectric domain walls|9
+Ordered Large-Pore Mesoporous Cr2O3 with Ultrathin Framework for Formaldehyde Sensing|70
+Time-resolved measurements of product formation in the low-temperature (550-675 K) oxidation of neopentane: a probe to investigate chain-branching mechanism|91
+Stability, electronic structure, and optical properties of protected gold-doped silver Ag29-xAux (x = 0-5) nanoclusters|81
+Network Glasses Under Pressure: Permanent Densification in Modifier-Free Al_{2} O_{3} −B_{2} O_{3} −P_{2} O_{5} −SiO_{2} Systems|19
+Room-Temperature Superplasticity in an Ultrafine-Grained Magnesium Alloy|2
+Controlled Release of LL-37-Derived Synthetic Antimicrobial and Anti-Biofilm Peptides SAAP-145 and SAAP-276 Prevents Experimental Biomaterial-Associated Staphylococcus aureus Infection|77
+Zwitterionic Silane Copolymer for Ultra-Stable and Bright Biomolecular Probes Based on Fluorescent Quantum Dot Nanoclusters|49
+Solid-State Lithium Metal Batteries Promoted by Nanotechnology: Progress and Prospects|16
+0−π transitions in a Josephson junction of an irradiated Weyl semimetal|62
+Superconducting Optoelectronic Circuits for Neuromorphic Computing|84
+Determination of growth regimes of Pd nanostructures on c-plane sapphire by the control of deposition amount at different annealing temperatures|46
+Hyaluronan Nanoparticles Selectively Target Plaque-Associated Macrophages and Improve Plaque Stability in Atherosclerosis|63
+Ultrahigh-Conductivity Polymer Hydrogels with Arbitrary Structures|29
+Three-dimensional system enabling the maintenance and directed differentiation of pluripotent stem cells under defined conditions|48
+Photoinduced quantum spin/valley Hall effect and its electrical manipulation in silicene|34
+Strong Coupling Cavity QED with Gate-Defined Double Quantum Dots Enabled by a High Impedance Resonator|43
+Sensing by Smell: Nanoparticle–Enzyme Sensors for Rapid and Sensitive Detection of Bacteria with Olfactory Output|74
+Acoustic Tweezing and Patterning of Concentration Fields in Microfluidics|78
+Enhanced piezoluminescence in non-stoichiometric ZnS:Cu microparticle based light emitting elastomers|77
+High Energy Density Polyanion Electrode Material: LiVPO4O1–xFx (x ≈ 0.25) with Tavorite Structure|16
+Rough-Surface-Enabled Capacitive Pressure Sensors with 3D Touch Capability|41
+Auxetic Foam-Based Contact-Mode Triboelectric Nanogenerator with Highly Sensitive Self-Powered Strain Sensing Capabilities to Monitor Human Body Movement|55
+Multistep Photoluminescence Decay Reveals Dissociation of Geminate Charge Pairs in Organolead Trihalide Perovskites|55
+Tuning the Binding Dynamics of a Guest–Octaacid Capsule through Noncovalent Anchoring|11
+Methodology of Resonant Equiangular Composite Quantum Gates|82
+Cryo-EM structure of human adenovirus D26 reveals the conservation of structural organization among human adenoviruses|56
+<i>Colloquium</i>: Herbertsmithite and the search for the quantum spin liquid|22
+Selenium-Containing Medium Bandgap Copolymer for Bulk Heterojunction Polymer Solar Cells with High Efficiency of 9.8%|25
+Emerging Trends in Micro- and Nanoscale Technologies in Medicine: From Basic Discoveries to Translation|38
+Large Magnetovolume Effect Induced by Embedding Ferromagnetic Clusters into Antiferromagnetic Matrix of Cobaltite Perovskite|59
+Programmed Multiresponsive Vesicles for Enhanced Tumor Penetration and Combination Therapy of Triple-Negative Breast Cancer|69
+Unveiling the Molecular Structure of Pulmonary Surfactant Corona on Nanoparticles|2
+Self-Etch Adhesive as a Carrier for ACP Nanoprecursors to Deliver Biomimetic Remineralization|4
+Coherent Magnetic Response at Optical Frequencies Using Atomic Transitions|71
+Advanced materials for magnetic cooling: Fundamentals and practical aspects|9
+Meet the editors|1
+Magnetic properties of (Ga,Mn)As (110) epitaxial films|1
+Synergistic Phase and Disorder Engineering in 1T-MoSe2 Nanosheets for Enhanced Hydrogen-Evolution Reaction|23
+Charge Transfer and Orbital Level Alignment at Inorganic/Organic Interfaces: The Role of Dielectric Interlayers|1
+Multifunctional Gadolinium-Doped Mesoporous TiO2 Nanobeads: Photoluminescence, Enhanced Spin Relaxation, and Reactive Oxygen Species Photogeneration, Beneficial for Cancer Diagnosis and Treatment|73
+Television: Big brains on the small screen|4
+Creating Isolated Liquid Compartments Using Photopatterned Obstacles in Microfluidics|47
+Simultaneously Enhancing Light Emission and Suppressing Efficiency Droop in GaN Microwire-Based Ultraviolet Light-Emitting Diode by the Piezo-Phototronic Effect|42
+Correction to “In Vacuo Porphyrin Metalation on Ag(111) via Chemical Vapor Deposition of Ru3(CO)12: Mechanistic Insights”|57
+Universal Selective Dispersion of Semiconducting Carbon Nanotubes from Commercial Sources Using a Supramolecular Polymer|23
+Antimonene Oxides: Emerging Tunable Direct Bandgap Semiconductor and Novel Topological Insulator|75
+International Tables for Crystallography, Volume A, Space-group symmetry. 6th edition. Edited by Mois I. Aroyo. Wiley, 2016. Pp. xxi + 873. Price GBP 295.00, EUR 354.00 (hardcover). ISBN 978-0-470-97423-0.|9
+Cubic Perovskite Fluoride as Open Framework Cathode for Na-Ion Batteries|13
+CoV2O6–V2O5 Coupled with Porous N-Doped Reduced Graphene Oxide Composite as a Highly Efficient Electrocatalyst for Oxygen Evolution|22
+Blocking FSH induces thermogenic adipose tissue and reduces body fat|43
+Extending the applications for lanthanide ions: efficient emitters in short-wave infrared persistent luminescence|12
+Low-energy structural dynamics of ferroelectric domain walls in hexagonal rare-earth manganites|53
+One-step microwave-assisted synthesis of water-dispersible Fe3O4 magnetic nanoclusters for hyperthermia applications|50
+Highly phosphorescent cyclometalated platinum(II) complexes based on 2-phenylbenzimidazole-containing ligands|70
+The electro-mechanical behaviour of flexural ultrasonic transducers|37
+The long noncoding RNA SPRIGHTLY acts as an intranuclear organizing hub for pre-mRNA molecules|69
+Tunable Gas Sensing Gels by Cooperative Assembly|22
+Temperature and Electrical Poling Effects on Ionic Motion in MAPbI3 Photovoltaic Cells|43
+Cancer Therapy: Programmed Multiresponsive Vesicles for Enhanced Tumor Penetration and Combination Therapy of Triple-Negative Breast Cancer (Adv. Funct. Mater. 20/2017)|62
+Systematic Magnus-Based Approach for Suppressing Leakage and Nonadiabatic Errors in Quantum Dynamics|53
+Charge-Transfer Excitations: A Challenge for Time-Dependent Density Functional Theory That Has Been Met|4
+Subcellular-Scale Drug Transport via Ultrasound-Degradable Mesoporous Nanosilicon to Bypass Cancer Drug Resistance|70
+Superconducting gap structure in the electron doped BiS 2 -based superconductor|6
+Evaluation of Electron Donor Materials for Solution-Processed Organic Solar Cells via a Novel Figure of Merit|44
+Heat transport through atomic contacts|12
+Correction to “Relating Molecular Morphology to Charge Mobility in Semicrystalline Conjugated Polymers”|51
+Recent Progress in the Design of Advanced Cathode Materials and Battery Models for High-Performance Lithium-X (X = O2, S, Se, Te, I2, Br2) Batteries|48
+Microscopic description of insulator-metal transition in high-pressure oxygen|7
+Diffraction-Free Bloch Surface Waves|49
+Smart Contact Lenses with Graphene Coating for Electromagnetic Interference Shielding and Dehydration Protection|78
+Tailoring Organic Cation of 2D Air-Stable Organometal Halide Perovskites for Highly Efficient Planar Solar Cells|29
+Unveiling the Electronic Structure of ZnO–C60 Core–Shell Quantum Dots: The Origin of Efficient Electron Transport|64
+Plasmon Enhanced Fluorescence Based on Porphyrin–Peptoid Hybridized Gold Nanoparticle Platform|42
+Photoexcited Carrier Dynamics in InAs, GaAs, and InSb Probed by Terahertz Excitation Spectroscopy|26
+Superinsulating Polyisocyanate Based Aerogels: A Targeted Search for the Optimum Solvent System|27
+Energetics and optical properties of nitrogen impurities in SrTiO_{3} from hybrid density-functional calculations|66
+Correction to Ultrathin Interface Regime of Core–Shell Magnetic Nanoparticles for Effective Magnetism Tailoring|82
+Antifogging abilities of model nanotextures|15
+Effect of Processing Additives on Organic Photovoltaics: Recent Progress and Future Prospects|76
+Electronic Coupling between Graphene and Topological Insulator Induced Anomalous Magnetotransport Properties|56
+Translational Symmetry and Microscopic Constraints on Symmetry-Enriched Topological Phases: A View from the Surface|79
+Evidence of terbium and oxygen co-segregation in annealed AlN:Tb|13
+Electrostatic Design of 3D Covalent Organic Networks|52
+Gain-Based Mechanism for pH Sensing Based on Random Lasing|97
+On-the-Fly Data Assessment for High-Throughput X-ray Diffraction Measurements|2
+Entropic uncertainty relations and their applications|14
+Improving the Performance of Methanol Biofuel Cells Utilizing an Enzyme Cascade Bioanode with DNA-Bridged Substrate Channeling|8
+Double-sided coaxial circuit QED with out-of-plane wiring|21
+Influence of the nature and environment of manganese in Mn-BEA zeolites on NO conversion in selective catalytic reduction with ammonia|44
+Current-Phase Relation of Ballistic Graphene Josephson Junctions|51
+Improper Ferroelectricity in Stuffed Aluminate Sodalites for Pyroelectric Energy Harvesting|77
+Erratum: Hidden variables and the two theorems of John Bell [Rev. Mod. Phys. <b>65</b>, 803 (1993)]|40
+Membrane-Based Strategy for Efficient Ionic Liquids/Water Separation Assisted by Superwettability|75
+Healing Effect of Controlled Anti-Electromigration on Conventional and High-Tc Superconducting Nanowires|38
+The open-cubane oxo-oxyl coupling mechanism dominates photosynthetic oxygen evolution: a comprehensive DFT investigation on O-O bond formation in the S4 state|94
+Supramolecular thermoplastics and thermoplastic elastomer materials with self-healing ability based on oligomeric charged triblock copolymers|1
+Young’s Modulus of Wurtzite and Zinc Blende InP Nanowires|18
+Anatase (001)-1 x 4 reconstructed surface and its reactivity|26
+Power Spectrum of Long Eigenlevel Sequences in Quantum Chaotic Systems|95
+A new sight on intramolecular conjugation in the design of efficient blue materials: from the control of emission to absorption|71
+Effect of STW defects on mechanical properties and fracture toughness of pristine and hydrogenated graphene|20
+Evolution of Metallicity in Vanadium Dioxide by Creation of Oxygen Vacancies|90
+Luminescence and Charge Trapping in Cs2HfCl6 Single Crystals: Optical and Magnetic Resonance Spectroscopy Study|23
+Fabrication of adhesion-enhanced and high-reliable copper circuits onto flexible substrate via scribing-seeding-plating process|68
+Strong evidence for d-electron spin transport at room temperature at a LaAlO3/SrTiO3 interface|7
+Fully Stable and Homogeneous Lyotropic Liquid Crystal Alignment on Anisotropic Surfaces|42
+High mobility, hole transport materials for highly efficient PEDOT:PSS replacement in inverted perovskite solar cells|60
+Diammonium and Monoammonium Mixed-Organic-Cation Perovskites for High Performance Solar Cells with Improved Stability|11
+Propagating Polaritons in III-Nitride Slab Waveguides|80
+Parametric Instability Rates in Periodically Driven Band Systems|19
+How to choose|31
+Radiation and Internal Loss Engineering of High-Stress Silicon Nitride Nanobeams|85
+Multi-Atomic Layers of Metallic Aluminum for Ultralong Life Lithium Storage with High Volumetric Capacity|50
+From Glass Formation to Icosahedral Ordering by Curving Three-Dimensional Space|29
+Germanium-Assisted Direct Growth of Graphene on Arbitrary Dielectric Substrates for Heating Devices|3
+Spirothiopyran-Based Reversibly Saturable Photoresist|5
+Emergent Eigenstate Solution to Quantum Dynamics Far from Equilibrium|22
+Research Update: Materials design of implantable nanogenerators for biomechanical energy harvesting|1
+Ferroelectric or non-ferroelectric: Why so many materials exhibit “ferroelectricity” on the nanoscale|6
+Statistics of Infima and Stopping Times of Entropy Production and Applications to Active Molecular Processes|55
+Biphasic Supramolecular Self-Assembly of Ferric Ions and Tannic Acid across Interfaces for Nanofilm Formation|21
+Nobel Lecture: Background story of the invention of efficient blue InGaN light emitting diodes|77
+High-Speed Atomic Force Microscopy Reveals Loss of Nuclear Pore Resilience as a Dying Code in Colorectal Cancer Cells|5
+Engineering of Heterojunction-Mediated Biointerface for Photoelectrochemical Aptasensing: Case of Direct Z-Scheme CdTe-Bi2S3 Heterojunction with Improved Visible-Light-Driven Photoelectrical Conversion Efficiency|53
+Imaging and Manipulating Energy Transfer Among Quantum Dots at Individual Dot Resolution|9
+Roll type conducting polymer legs for rigid-flexible thermoelectric generator|10
+High-performance flexible transparent conductive films achieved by cooperation between 1D copper nanowires and 2D graphene materials|16
+Surface-Plasmon-Resonance-Enhanced Photoelectrochemical Water Splitting from Au-Nanoparticle-Decorated 3D TiO2 Nanorod Architectures|65
+Impulsive laser-induced alignment of OCS molecules at FERMI|50
+Nonlocally sensing the magnetic states of nanoscale antiferromagnets with an atomic spin sensor|15
+Vertical Charge Transport via Small Polaron Hopping within TIPS-Pentacene Lamellar Single Crystal|56
+Ultralight Multifunctional Carbon-Based Aerogels by Combining Graphene Oxide and Bacterial Cellulose|53
+Role of internal stresses in the formation of magnetic structure and magnetic properties of iron-based glass coated microwires|36
+Proof of Concept for an Ultrasensitive Technique to Detect and Localize Sources of Elastic Nonlinearity Using Phononic Crystals|27
+Field-induced magnetic instability within a superconducting condensate|28
+Intricate Hollow Structures: Controlled Synthesis and Applications in Energy Storage and Conversion|73
+LHC fires up, Google bot retires and Jupiter up close|5
+Energy as a Detector of Nonlocality of Many-Body Spin Systems|31
+Local structure study of the orbital order/disorder transition in LaMnO_{3}|16
+Strain Multiplexed Metasurface Holograms on a Stretchable Substrate|62
+Color-Convertible, Unimolecular, Micelle-Based, Activatable Fluorescent Probe for Tumor-Specific Detection and Imaging In Vitro and In Vivo|76
+Disruption of the Accidental Dirac Semimetal State in ZrTe_{5} under Hydrostatic Pressure|67
+Assembly of Macrocycle Dye Derivatives into Particles for Fluorescence and Photoacoustic Applications|6
+Fluid simulation of species concentrations in capacitively coupled N2/Ar plasmas: Effect of gas proportion|9
+Carbon Photodetectors: The Versatility of Carbon Allotropes|71
+Detection of glutaraldehyde in aqueous environments based on fluorescence quenching of a conjugated polymer with pendant protonated primary amino groups|56
+Decoupling of microbial carbon, nitrogen, and phosphorus cycling in response to extreme temperature events|73
+Surface spin canting in Fe_{3} O_{4} and CoFe_{2} O_{4} nanoparticles probed by high-resolution electron energy loss spectroscopy|25
+Elastic moduli and Poisson's ratio of 2-dimensional magnetic skyrmion lattice|14
+Deviations from 2|29
+High Performance, Flexible, Solid-State Supercapacitors Based on a Renewable and Biodegradable Mesoporous Cellulose Membrane|16
+Fluctuations and Shape of Cooperative Rearranging Regions in Glass-Forming Liquids|66
+Synthesis and Enhanced Corrosion Protection Performance of Reduced Graphene Oxide Nanosheet/ZnAl Layered Double Hydroxide Composite Films by Hydrothermal Continuous Flow Method|75
+Surface States in Holographic Weyl Semimetals|78
+Side-Chain Influence of Wide-Bandgap Copolymers Based on Naphtho[1,2-b:5,6-b]bispyrazine and Benzo[1,2-b:4,5-b′]dithiophene for Efficient Photovoltaic Applications|15
+Diffuse single-crystal scattering corrected for molecular form factor effects|4
+Porous materials: Designed and then realized|3
+CTCF facilitates DNA double-strand break repair by enhancing homologous recombination repair|18
+Relaxation Decoupling in Metallic Glasses at Low Temperatures|16
+Isomer-dependent fragmentation dynamics of inner-shell photoionized difluoroiodobenzene|63
+Repeated divergent selection on pigmentation genes in a rapid finch radiation|19
+Structure and dynamics of water confined in a graphene nanochannel under gigapascal high pressure: dependence of friction on pressure and confinement|74
+Correlation and squeezing for optical transistor and intensity for router applications in Pr3+:YSO|56
+A carbon nanopore model to quantify structure and kinetics of ion electrosorption with in situ small angle X-ray scattering|21
+Reduced {001}-TiO2-x photocatalysts: noble-metal-free CO2 photoreduction for selective CH4 evolution|99
+Topological Nonsymmorphic Metals from Band Inversion|80
+Colloquium: Atomic quantum gases in periodically driven optical lattices|8
+Effect of the Microstructure of the Functional Layers on the Efficiency of Perovskite Solar Cells|80
+Piezoelectric peptide-based nanogenerator enhanced by single-electrode triboelectric nanogenerator|12
+Potential role of motion for enhancing maximum output energy of triboelectric           nanogenerator|11
+Switchable regioselectivity in amine-catalysed asymmetric cycloadditions|17
+Revealing the transport properties of the spin-polarized β′-Tb2(MoO4)3: DFT+U|18
+Effects of Charge Balance and Exciton Confinement on the Operational Lifetime of Blue Phosphorescent Organic Light-Emitting Diodes|42
+Composition Engineering in Doctor-Blading of Perovskite Solar Cells|17
+Perpetuating the myth of the return of native forests|35
+A Green Plastic Constructed from Cellulose and Functionalized Graphene with High Thermal Conductivity|61
+Mesoporous Silicon Anodes by Using Polybenzimidazole Derived Pyrrolic N-Enriched Carbon toward High-Energy Li-Ion Batteries|29
+Erratum: First-Principles Approach to Calculating Energy Level Alignment at Aqueous Semiconductor Interfaces [Phys. Rev. Lett. <b>113</b>, 176802 (2014)]|48
+Optimal pre- and post-selections of weak measurements for precision parameter estimation|6
+Structural and Electronic-State Changes of a Sulfide Solid Electrolyte during the Li Deinsertion–Insertion Processes|33
+Fluoroethylene Carbonate as an Important Component for the Formation of an Effective Solid Electrolyte Interphase on Anodes and Cathodes for Advanced Li-Ion Batteries|13
+Dipole Orientation Matters: Longer-Circulating Choline Phosphate than Phosphocholine Liposomes for Enhanced Tumor Targeting|19
+Magnetic order and interactions in ferrimagnetic Mn_{3} Si_{2} Te_{6}|73
+Condensed-matter physics: Functional materials at the flick of a switch|36
+Interrogation of a PS1-Based Photocathode by Means of Scanning Photoelectrochemical Microscopy|59
+Substrate independent approach for synthesis of graphene platelet networks|4
+Role of Ni in hetero-architectured NiO/Ni composites for enhanced catalytic performance|87
+Testing black hole candidates with electromagnetic radiation|6
+Biodiversity goes beyond species counts|11
+Single-Photon Detection by a Dirty Current-Carrying Superconducting Strip Based on the Kinetic-Equation Approach|85
+Engineering Diffusivity and Operating Voltage in Lithium Iron Phosphate through Transition-Metal Doping|93
+Photothermal Effect Induced Negative Photoconductivity and High Responsivity in Flexible Black Phosphorus Transistors|50
+Practical Quantum Realization of the Ampere from the Elementary Charge|99
+Optimization of Current Injection in AlGaInP Core−Shell Nanowire Light-Emitting Diodes|12
+Multiscale Modulation of Nanocrystalline Cellulose Hydrogel via Nanocarbon Hybridization for 3D Neuronal Bilayer Formation|32
+Oxygen-Deficient Bismuth Oxide/Graphene of Ultrahigh Capacitance as Advanced Flexible Anode for Asymmetric Supercapacitors|4
+Stimulated Raman adiabatic passage in physics, chemistry, and beyond|10
+Upgrading protected areas to conserve wild biodiversity|30
+Infrared electrochromic conducting polymer devices|15
+Realizing Haldane model in Fe-based honeycomb ferromagnetic insulators|7
+Waveguide Cavity Resonator as a Source of Optical Squeezing|38
+Three-Dimensional Porous Si and SiO2 with In Situ Decorated Carbon Nanotubes As Anode Materials for Li-ion Batteries|58
+Luminescence of Samarium(III) Bis-dithiocarbamate Frameworks: Codoped Lanthanide Emitters that Cover Visible and Near-Infrared Domains|8
+High-Quality Graphene Microflower Design for High-Performance Li–S and Al-Ion Batteries|35
+0–π phase-controllable thermal Josephson junction|11
+A computational study of hydrogen detection by borophene|42
+Lignin biopolymer based triboelectric nanogenerators|13
+Growth of two dimensional silica and aluminosilicate bilayers on Pd(111): from incommensurate to commensurate crystalline|64
+Universal depinning transition of domain walls in ultrathin ferromagnets|42
+CPS1 maintains pyrimidine pools and DNA synthesis in KRAS/LKB1-mutant lung cancer cells|56
+Efficient Representation of Fully Many-Body Localized Systems Using Tensor Networks|18
+How birds direct impulse to minimize the energetic cost of foraging flight|40
+Measurement of the τ Lepton Polarization and R(D^{*} ) in the Decay B [over ¯] →D^{*} τ^{−} ν [over ¯] _{τ}|20
+Blue-Shifted Green Fluorescent Protein Homologues Are Brighter than Enhanced Green Fluorescent Protein under Two-Photon Excitation|15
+Reaching saturation in patterned source vertical organic field effect transistors|26
+High Electron Mobility and Disorder Induced by Silver Ion Migration Lead to Good Thermoelectric Performance in the Argyrodite Ag8SiSe6|13
+Comparison between strong η-fiber-oriented high-silicon steel and grain-oriented high-silicon steel on magnetic properties|40
+Fluorescent columnar bis(boron difluoride) complexes derived from tetraketonates|36
+Lateral carrier diffusion in InGaAs/GaAs coupled quantum dot-quantum well system|4
+Detection of Nitric Oxide from Living Cells Using Polymeric Zinc Organic Framework-Derived Zinc Oxide Composite with Conducting Polymer|33
+Improved Interfacial Floatability of Superhydrophobic/Superhydrophilic Janus Sheet Inspired by Lotus Leaf|52
+Numerical Detector Theory for the Longitudinal Momentum Distribution of the Electron in Strong Field Ionization|25
+Two-photon photoelectron emission microscopy for surface plasmon polaritons at the Au(111) surface decorated with alkanethiolate self-assembled monolayers|76
+Polymer model with Epigenetic Recoloring Reveals a Pathway for the <i>de novo</i> Establishment and 3D Organization of Chromatin Domains|100
+Polarity Control of Heteroepitaxial GaN Nanowires on Diamond|10
+High-Throughput Computation of Thermal Conductivity of High-Temperature Solid Phases: The Case of Oxide and Fluoride Perovskites|86
+Cold neutral atoms via charge exchange from excited state positronium: a proposal|7
+Intramolecularly Protein-Crosslinked DNA Gels: New Biohybrid Nanomaterials with Controllable Size and Catalytic Activity|2
+Porous Ti4O7 Particles with Interconnected-Pore Structure as a High-Efficiency Polysulfide Mediator for Lithium–Sulfur Batteries|58
+Control of Superconductivity with a Single Ferromagnetic Layer in Niobium/Erbium Bilayers|31
+Books in brief|15
+Classification of topological quantum matter with symmetries|35
+V for vanadium|19
+Atomic Layer Deposition of Ruthenium Thin Films from (Ethylbenzyl) (1-Ethyl-1,4-cyclohexadienyl) Ru: Process Characteristics, Surface Chemistry, and Film Properties|2
+Emergence of Tertiary Dirac Points in Graphene Moiré Superlattices|35
+Piezoelectric Effects of Materials on Bio-Interfaces|54
+Molecular Dynamics Simulation of Solvent-exfoliation and Stabilization of Graphene with the Assistance of Compressed Carbon Dioxide and Pyrene-polyethylene Glycol|19
+Reducing graphene device variability with yttrium sacrificial layers|33
+Liquid-Phase Exfoliated Metallic Antimony Nanosheets toward High Volumetric Sodium Storage|50
+Anomalous Hall Coulomb drag of massive Dirac fermions|67
+Electroplating lithium transition metal oxides|46
+Artificial gravity field, astrophysical analogues, and topological phase transitions in strained topological semimetals|4
+Self-Assembled Au/CdSe Nanocrystal Clusters for Plasmon-Mediated Photocatalytic Hydrogen Evolution|42
+Ultralow-Dissipation Superfluid Micromechanical Resonator|57
+Heterojunction Photocatalysts|74
+Lymphatic endothelial S1P promotes mitochondrial function and survival in naive T cells|54
+Unique physicochemical and catalytic properties dictated by the B3NO2 ring system|14
+NASICON-Structured Materials for Energy Storage|71
+Using random boundary conditions to simulate disordered quantum spin models in two-dimensional systems|55
+Weak coupling between bright and dark resonators with electrical tunability and analysis based on temporal coupled-mode theory|11
+Emission enhancement through Nd3+-Yb3+ energy transfer in multifunctional NaGdF4 nanocrystals|34
+Orbital-selective pairing and superconductivity in iron selenides|3
+Modeling ferroelectric film properties and size effects from tetragonal interlayer in Hf1–xZrxO2 grains|43
+Dipole formation at organic/metal interfaces with pre-deposited and post-deposited metal|7
+Manipulating Bubbles in Aqueous Environment via a Lubricant-Infused Slippery Surface|3
+Quantum heat waves in a one-dimensional condensate|78
+Intermediate phases during solid to liquid transitions in long-chain n-alkanes|65
+Modeling DNA oxidation in water|90
+Anisotropic thermal expansion of SnSe from first-principles calculations based on Gruneisen's theory|53
+Molecular "surgery" on a 23-gold-atom nanoparticle|31
+Exact solution of the Duffin-Kemmer-Petiau (DKP) equation in the magnetic field by considering cosmic string background in (1 + 2)-dimensions|10
+Dimensionality and Interface Engineering of 2D Homologous Perovskites for Boosted Charge-Carrier Transport and Photodetection Performances|12
+Electrospray-Assisted Fabrication of Moisture-Resistant and Highly Stable Perovskite Solar Cells at Ambient Conditions|36
+Speeding up Early Drug Discovery in Antiviral Research: A Fragment-Based in Silico Approach for the Design of Virtual Anti-Hepatitis C Leads|8
+Energy Storage: Porous One-Dimensional Nanomaterials: Design, Fabrication and Applications in Electrochemical Energy Storage (Adv. Mater. 20/2017)|62
+Adsorptive graphene doping: Effect of a polymer contaminant|31
+New technology reveals the role of giant larvaceans in oceanic carbon cycling|68
+Nobel Lecture: The Sudbury Neutrino Observatory: Observation of flavor change for solar neutrinos|45
+Materials perspective on Casimir and van der Waals interactions|26
+Charge Transfer Characterization of ALD-Grown TiO2 Protective Layers in Silicon Photocathodes|23
+Optimization of energy product and reversal process for Nd2Fe14B/α″-(FeCo)16N2/Nd2Fe14B exchange-spring trilayer films|6
+Prebiotic selection and assembly of proteinogenic amino acids and natural nucleotides from complex mixtures|16
+Singlet Orbital Ordering in Bilayer Sr_{3} Cr_{2} O_{7}|73
+Dependence of magnetisation and magnetocrystalline anisotropy on site distribution of alloying elements in RE-TM phases with ThMn12 structure|1
+Phase and Composition Tuning of 1D Platinum-Nickel Nanostructures for Highly Efficient Electrocatalysis|27
+Ambient Protection of Few-Layer Black Phosphorus via Sequestration of Reactive Oxygen Species|41
+Enhanced magnetocaloric effect tuning efficiency in Ni-Mn-Sn alloy ribbons|26
+Transfer of Magnetic Order and Anisotropy through Epitaxial Integration of 3d and 4f Spin Systems|92
+First-principles calculations of the phase equilibrium of BexZn1−xO alloys|29
+pH-Responsive, Lysine-Based, Hyperbranched Polymers Mimicking Endosomolytic Cell-Penetrating Peptides for Efficient Intracellular Delivery|35
+Surface-Guided Core–Shell ZnSe@ZnTe Nanowires as Radial p–n Heterojunctions with Photovoltaic Behavior|40
+Albumin-Templated Manganese Dioxide Nanoparticles for Enhanced Radioisotope Therapy|35
+Single-Atom Scale Structural Selectivity in Te Nanowires Encapsulated Inside Ultranarrow, Single-Walled Carbon Nanotubes|64
+Single-Shot X-Ray Phase-Contrast Computed Tomography with Nonmicrofocal Laboratory Sources|29
+Formation of Epitaxially Connected Quantum Dot Solids: Nucleation and Coherent Phase Transition|3
+Call for Papers: Call for Papers: Special Issue on Surface and Interface Passivation in Crystalline Silicon Solar Cells|1
+Alloyed Heterostructures of CdSexS1–x Nanoplatelets with Highly Tunable Optical Gain Performance|6
+Monitoring of early catastrophic optical damage in laser diodes based on facet reflectivity measurement|38
+Perovskite photovoltaics: Manufacturing costs|6
+Self-powered flexible vision electronic-skin for image recognition based on pixel-addressable matrix of piezophototronic ZnO nanowire arrays|86
+Spectral Entropies as Information-Theoretic Tools for Complex Network Comparison|87
+Structural Evolution of Sub-10 nm Octahedral Platinum–Nickel Bimetallic Nanocrystals|43
+Why Low Valent Lead(II) Hydride Complex Would be a Better Catalyst for CO2 Activation than Its 14 Group Analogues?|13
+Superconductivity mediated by quantum critical antiferromagnetic fluctuations: The rise and fall of hot spots|92
+Comprehensive biocompatibility of nontoxic and high-output flexible energy           harvester using lead-free piezoceramic thin film|6
+Linac Coherent Light Source: The first five years|58
+Synthesis, characterization, and magnetic properties of ZnO-ZnFe2O4 nanoparticles with high photocatalytic activity|15
+CRISPR/Cas9 gene drives in genetically variable and nonrandomly mating wild populations|26
+Recovering Rare Earth Elements from Aqueous Solution with Porous Amine–Epoxy Networks|16
+Wuhan University of Technology: (Adv. Mater. 20/2017)|61
+Determinants of the host-guest interactions between [small alpha]-, [small beta]- and [gamma]-cyclodextrins and group IA, IIA and IIIA metal cations: a DFT/PCM study|47
+Deletion of a mycobacterial divisome factor collapses single-cell phenotypic heterogeneity|53
+Natural products: Taming reactive benzynes|3
+Frustrated magnetism in the Heisenberg pyrochlore antiferromagnets AYb_{2} X_{4} (A=Cd, Mg; X=S, Se)|24
+Effect of Sm substitution on magnetic and magnetocaloric properties of La0.7-xSmxBa0.3MnO3 (0≤x≤0.2) compounds|31
+Study of η and η′ Photoproduction at MAMI|21
+Vortex Reconnections and Rebounds in Trapped Atomic Bose-Einstein Condensates|4
+Nobel Lecture: Single-molecule spectroscopy, imaging, and photocontrol: Foundations for super-resolution microscopy|74
+Enhanced electroactive [small beta]-phase of the sonication-process-derived PVDF-activated carbon composite film for efficient energy conversion and a battery-free acceleration sensor|66
+Interplay of the Inverse Proximity Effect and Magnetic Field in Out-of-Equilibrium Single-Electron Devices|6
+Metal-Organic Framework Template Synthesis of NiCo2S4@C Encapsulated in Hollow Nitrogen-Doped Carbon Cubes with Enhanced Electrochemical Performance for Lithium Storage|50
+Quantum Hall physics: Hierarchies and conformal field theory techniques|1
+Pulsed Photoelectric Coherent Manipulation and Detection of N−V Center Spins in Diamond|32
+Manifestation of Geometric and Electronic Shell Structures of Metal Clusters in Intercluster Reactions|28
+Engineering live cell surfaces with functional polymers via cytocompatible controlled radical polymerization|9
+CP violation in the B_{s}^{0} system|27
+Electrohydrodynamics of a compound vesicle under an AC electric field|2
+Brain-Inspired Photonic Signal Processor for Generating Periodic Patterns and Emulating Chaotic Systems|12
+Thermodynamically stable skyrmion lattice at low temperatures in a bulk crystal of lacunar spinel GaV_{4} Se_{8}|35
+Emergence of topological semimetals in gap closing in semiconductors without inversion symmetry|47
+Human-induced changes in the distribution of rainfall|1
+Evidence and mechanism of efficient thermally activated delayed fluorescence promoted by delocalized excited states|58
+Tailoring the Energy Landscape in Quasi-2D Halide Perovskites Enables Efficient Green-Light Emission|60
+Regioisomerism of an alkyl-substituted bithiophene comonomer in (3E,8E)-3,8-bis(2-oxoindolin-3-ylidene)naphtho-[1,2-b:5,6-b[prime or minute]]difuran-2,7(3H,8H)-dione (INDF)-based D-A polymers for organic thin film transistors|18
+Structures of closed and open conformations of dimeric human ATM|59
+Asymmetries in top quark pair production at hadron colliders|92
+Paths of glory|23
+Organic Photovoltaics: Conjugated-Polymer Blends for Organic Photovoltaics: Rational Control of Vertical Stratification for High Performance (Adv. Mater. 20/2017)|75
+Josephson junction dynamics in the presence of 2π- and 4π-periodic supercurrents|60
+Non-zeolitic properties of the dipeptide L-leucyl-L-leucine as a result of the specific nanostructure formation|83
+A continuous analysis for the antiferromagnetic Heisenberg model on the checkerboard lattice|9
+Glass Transitions, Semiconductor-Metal Transitions, and Fragilities in Ge−V−Te (V=As, Sb) Liquid Alloys: The Difference One Element Can Make|65
+Dance: The light fantastic|3
+A-Site Cation Bulk and Surface Diffusion in A-Site-Deficient BaZrO3 and SrZrO3 Perovskites|49
+Understanding and Eliminating Hysteresis for Highly Efficient Planar Perovskite Solar Cells|54
+Echoes in Space and Time|93
+Development and Translation of PEDOT:PSS Microelectrodes for Intraoperative Monitoring|57
+Balancing Near-Field Enhancement, Absorption, and Scattering for Effective Antenna–Reactor Plasmonic Photocatalysis|54
+Copper-based reversible electrochemical mirror device with switchability between transparent, blue, and mirror states|10
+Searching for “Defect-Tolerant” Photovoltaic Materials: Combined Theoretical and Experimental Screening|31
+Active Control of Laser Wavefronts in Atom Interferometers|87
+Masthead: (Adv. Funct. Mater. 20/2017)|65
+Microneedle-Assisted, DC-Targeted Codelivery of pTRP-2 and Adjuvant of Paclitaxel for Transcutaneous Immunotherapy|1
+Defect-Laden MoSe2 Quantum Dots Made by Turbulent Shear Mixing as Enhanced Electrocatalysts|23
+Effect of water on the supramolecular assembly and functionality of a naphthalimide derivative: tunable honeycomb structure with mechanochromic properties|22
+Making Graphene Nanoribbons Photoluminescent|86
+Homoleptic Facial Ir(III) Complexes via Facile Synthesis for High-Efficiency and Low-Roll-Off Near-Infrared Organic Light-Emitting Diodes over 750 nm|1
+Model for the Operation of a Monolayer MoS_{2} Thin-Film Transistor with Charges Trapped near the Channel Interface|30
+Electric field effect in multilayer Cr 2 Ge 2 Te 6 : a ferromagnetic 2D material|1
+Photosensitization Priming of Tumor Microenvironments Improves Delivery of Nanotherapeutics via Neutrophil Infiltration|37
+Photoresponsive lipid-polymer hybrid nanoparticles for controlled doxorubicin release|13
+Pt Thin Films with Nanometer-Sized Terraces of (100) Orientation|30
+Effective Surface Plasmon Polaritons Induced by Modal Dispersion in a Waveguide|40
+Publisher’s Note: Synchronization in Dynamical Networks of Locally Coupled Self-Propelled Oscillators [Phys. Rev. X <b>7</b>, 011028 (2017)]|37
+Light-Mediated Reversible Modulation of ROS Level in Living Cells by Using an Activity-Controllable Nanozyme|60
+Possible Precise Measurement of Delbrück Scattering Using Polarized Photon Beams|91
+Chiral supramolecular organization from a sheet-like achiral gel: a study of chiral photoinduction|73
+Direct Plasmon-Accelerated Electrochemical Reaction on Gold Nanoparticles|51
+Art: Under Mona Lisa's smile|16
+<i>Colloquium</i>: Search for a drifting proton-electron mass ratio from H_{2}|51
+Monolayer Solid-State Electrolyte for Electric Double Layer Gating of Graphene Field-Effect Transistors|27
+Redundant Interdependencies Boost the Robustness of Multiplex Networks|65
+Air-stable CsPb1-xBixBr3 (0 [less-than-or-equal] x [double less-than] 1) perovskite crystals: optoelectronic and photostriction properties|64
+Actinide covalency measured by pulsed electron paramagnetic resonance spectroscopy|15
+Call for Papers: Special Issue on High-throughput Experimental and Modeling Research toward Advanced Batteries|2
+Spontaneous Passivation of Hybrid Perovskite by Sodium Ions from Glass Substrates: Mysterious Enhancement of Device Efficiency Revealed|12
+Quantifying Angular Correlations between the Atomic Lattice and the Superlattice of Nanocrystals Assembled with Directional Linking|40
+Band alignment and p-type doping of ZnSnN_{2}|14
+Mixed symmetry of local crystal fields as a reason of ferromagnetism onset in pseudobinary PrNi5−xCux alloys|28
+Monitoring interconversion between stereochemical states in single chirality-transfer complexes on a platinum surface|8
+Linker Effects in Porphyrin Polymeric Donor Materials for Photovoltaic Devices|55
+Nanomechanically Visualizing Drug–Cell Interaction at the Early Stage of Chemotherapy|7
+Effect of water on the effective Goldschmidt tolerance factor and photoelectric conversion efficiency of organic-inorganic perovskite: insights from first-principles calculations|37
+Interlayer reliant magnetotransport in graphene spin valve|5
+Deep-Red Fluorescent Gold Nanoclusters for Nucleoli Staining: Real-Time Monitoring of the Nucleolar Dynamics in Reverse Transformation of Malignant Cells|34
+Dimerization effect of fluorene-based semiconductors on conformational planarization for microcrystal lasing|24
+Green Synthesis of Strongly Luminescent, Ultrasmall PbS and PbSe Quantum Dots|61
+Annihilation of domain walls in a ferromagnetic wire|33
+Cost and Precision of Brownian Clocks|94
+Bacterial Outer Membrane Porins as Electrostatic Nanosieves: Exploring Transport Rules of Small Polar Molecules|67
+Manipulating Ion Migration for Highly Stable Light-Emitting Diodes with Single-Crystalline Organometal Halide Perovskite Microplatelets|29
+Direct quantitative measurement of the CboxHO***H-C bond by atomic force microscopy|51
+Enhanced performances of quantum dot light-emitting diodes with doped emitting layers by manipulating the charge carrier balance|51
+Carbon quantum dots in ionic liquids: a new generation of environmentally benign photoluminescent inks|53
+Editorial: <i>Physical Review X</i>: High Visibility Across Fields|77
+Virtual Special Issues: Highly Cited Papers on Energy Storage|5
+Chirp Mitigation of Plasma-Accelerated Beams by a Modulated Plasma Density|56
+Dispersive Properties of Mesoporous Gold: van der Waals and Near-Field Radiative Heat Interactions|11
+Coordinating Biointeraction and Bioreaction of a Nanocarrier Material and an Anticancer Drug to Overcome Membrane Rigidity and Target Mitochondria in Multidrug-Resistant Cancer Cells|56
+Measurement-induced entanglement of two transmon qubits by a single photon|10
+Spectrally and Spatially Resolved Smith-Purcell Radiation in Plasmonic Crystals with Short-Range Disorder|73
+Control principles of complex systems|34
+Carbon Nanoforms for Photovoltaics|65
+Ensemble cryo-EM elucidates the mechanism of translation fidelity|44
+Attraction Controls the Inversion of Order by Disorder in Buckled Colloidal Monolayers|38
+A rollable ultra-light polymer electrolyte membrane fuel cell|2
+Reaction Mechanism of the Low-Temperature Water–Gas Shift Reaction on Au/TiO2 Catalysts|27
+Ambipolar D-A type bifunctional materials with hybridized local and charge-transfer excited state for high performance electroluminescence with EQE of 7.20% and CIEy [similar] 0.06|81
+Input-Current Addition in Closely Positioned Dual-Stage Ballistic Rectifiers|35
+Core-shell metal fluoride nanoparticles via fluorolytic sol-gel synthesis - a fast and efficient construction kit|37
+Confined dense circumstellar material surrounding a regular type II supernova|28
+New Photomechanical Molecular Switch Based on a Linear π-Conjugated System|59
+Retractions: Stamp out fake peer review|17
+First principles calculations of the interface properties of a-Al2O3/MoS2 and effects of biaxial strain|44
+Interface passivation and electron transport improvement of polymer solar cells through embedding a polyfluorene layer|52
+On-Chip Architecture for Self-Homodyned Nonclassical Light|63
+Second-order chiral kinetic theory: Chiral magnetic and pseudomagnetic waves|85
+Nonlinear optical signals and spectroscopy with quantum light|20
+Spatial-Temporal Imaging of Anisotropic Photocarrier Dynamics in Black Phosphorus|39
+Bifocal Optical-Vortex Lens with Sorting of the Generated Nonseparable Spin-Orbital Angular-Momentum States|89
+Electronic and optical properties of Cu2XSnS4 (X = Be, Mg, Ca, Mn, Fe, and Ni) and the impact of native defect pairs|4
+Paving Spin-Wave Fibers in Magnonic Nanocircuits Using Spin-Orbit Torque|14
+Low-Temperature Cross-Linking of PEDOT:PSS Films Using Divinylsulfone|74
+Simultaneous Enhancement of Charge Separation and Hole Transportation in a TiO2–SrTiO3 Core–Shell Nanowire Photoelectrochemical System|7
+4N electron aromatic cycles in polycyclic hydrocarbons|38
+Flexoelectric characterization of BaTiO3-0.08Bi(Zn1/2Ti1/2)O3|27
+Reaction Kinetics of Germanium Nanowire Growth on Inductively Heated Copper Surfaces|3
+Localized vibrations in superconducting YBa_{2} Cu_{3} O_{7} revealed by ultrafast optical coherent spectroscopy|2
+Active particles in complex and crowded environments|23
+High-Temperature–Short-Time Annealing Process for High-Performance Large-Area Perovskite Solar Cells|10
+Photodynamics of Zr-based MOFs: effect of explosive nitroaromatics|7
+Efficient Excitation of High-Frequency Exchange-Dominated Spin Waves in Periodic Ferromagnetic Structures|68
+Effects of torsion on the thermal conductivity of multi-layer graphene|30
+Opto-Valleytronic Spin Injection in Monolayer MoS2/Few-Layer Graphene Hybrid Spin Valves|9
+Exceptional points in a non-Hermitian topological pump|94
+Improved Performance and Reproducibility of Perovskite Solar Cells by Well-Soluble Tris(pentafluorophenyl)borane as a p-Type Dopant|39
+Flexible adaptation of male germ cells from female iPSCs of endangered Tokudaia osimensis|44
+Superconducting correlations induced by charge ordering in cuprate superconductors and Fermi-arc formation|46
+Nobel Lecture: Nanoscopy with freely propagating light|73
+Polyhedral oligomeric silsesquioxanes (POSSs): an important building block for organic optoelectronic materials|33
+On the origin of the ferromagnetic signature in silver nanoparticles and thin films|45
+A Smart Responsive Dual Aptamers-Targeted Bubble-Generating Nanosystem for Cancer Triplex Therapy and Ultrasound Imaging|80
+Aberration-Corrected Electron Beam Lithography at the One Nanometer Length Scale|84
+Understanding ferroelectric Al:HfO2 thin films with Si-based electrodes for 3D applications|18
+Transport Mechanism of Guest Methane in Water-Filled Nanopores|39
+Miocene flooding events of western Amazonia|67
+Synthesis and magnetic characterisation of Fe1-xMgxSb2O4 (x = 0.25, 0.50, 0.75) and their oxygen-excess derivatives, Fe1-xMgxSb2O4+y|46
+Laser-Induced Rotation of Iodine Molecules in Helium Nanodroplets: Revivals and Breaking Free|63
+Multiferroic properties and frequency dependent coercive field in BiFeO3-LaMn0.5Co0.5O3 thin films|39
+Transmission of chirality through space and across length scales|9
+Plasmonic-Tuned Flash Cu Nanowelding with Ultrafast Photochemical-Reducing and Interlocking on Flexible Plastics|19
+Antibacterial Property of a Polyethylene Glycol-Grafted Dental Material|1
+Diversity of Knot Solitons in Liquid Crystals Manifested by Linking of Preimages in Torons and Hopfions|72
+Oxidation Stability of Colloidal Two-Dimensional Titanium Carbides (MXenes)|26
+Neutrino electromagnetic interactions: A window to new physics|89
+<i>Colloquium</i>: Protecting quantum information against environmental noise|28
+Coupled-Mode Theory for Semiconductor Nanowires|69
+Alternatives to an elementary Higgs|29
+Extended Solution Gate OFET-Based Biosensor for Label-Free Glial Fibrillary Acidic Protein Detection with Polyethylene Glycol-Containing Bioreceptor Layer|72
+Large Chiroptical Effects in Planar Chiral Metamaterials|25
+Integrating uncertainty into public energy research and development decisions|8
+Engineering the Spectrum of Dipole Field-Localized Spin-Wave Modes to Enable Spin-Torque Antidamping|11
+Rapid High-Fidelity Single-Shot Dispersive Readout of Superconducting Qubits|5
+Self-Assembled Amphiphilic Block Copolymers/CdTe Nanocrystals for Efficient Aqueous-Processed Hybrid Solar Cells|62
+Hybrid Perovskites: Effective Crystal Growth for Optoelectronic Applications|5
+X-ray Bragg Ptychography on a Single InGaN/GaN Core–Shell Nanowire|77
+Ultrahigh, ultrafast and large response size visible-near-infrared optical position sensitive detectors based on CIGS structures|61
+Indium-Free Perovskite Solar Cells Enabled by Impermeable Tin-Oxide Electron Extraction Layers|57
+Quantum random number generators|12
+Magnetic properties of HoCoC2, HoNiC2 and their solid solutions|10
+High-temperature thermal conductivity of thermoelectric clathrates|33
+Anisotropic Fe3O4/Mn3O4 Hybrid Nanocrystals with Unique Magnetic Properties|33
+KTi2(PO4)3 with Large Ion Diffusion Channel for High-Efficiency Sodium Storage|46
+Magnon Mode Selective Spin Transport in Compensated Ferrimagnets|65
+Is BaCr_{2} As_{2} symmetrical to BaFe_{2} As_{2} with respect to half 3d shell filling?|98
+From a [math] topological insulator to a square ribbon: Tuning quantum spin Hall states and conductivity|20
+Lithiation of Silicon Nanoclusters|16
+Comparative Energy Modeling of Multiwalled Mg3Si2O5(OH)4 and Ni3Si2O5(OH)4 Nanoscroll Growth|12
+Diamagnetic Molecules Exhibiting Room-Temperature Ferromagnetism in Supramolecular Aggregates|54
+Adsorption differences between low coverage enantiomers of alanine on the chiral Cu{421}R surface|62
+Kondo necklace model in approximants of Fibonacci chains|14
+A chlorine-free protocol for processing germanium|61
+Microfluidic Production of Biodegradable Microcapsules for Sustained Release of Hydrophilic Actives|10
+Potential energy construction in the diabatic picture for quantum mechanical rate constants of intermolecular proton transfer|15
+Impact of Film Thickness of Ultrathin Dip-Coated Compact TiO2 Layers on the Performance of Mesoscopic Perovskite Solar Cells|8
+W/Cu thin film infrared reflector for TiNxOy based selective solar absorber with high thermal stability|1
+Encapsulation of Metallic Na in an Electrically Conductive Host with Porous Channels as a Highly Stable Na Metal Anode|67
+In-situ gold nanoparticles-decorated three-dimensional tin dioxide nanostructures for sensitively and selectively gas-sensing detection of volatile organic compounds|72
+Universal Chiral Quasisteady States in Periodically Driven Many-Body Systems|57
+Rapid and Scalable Synthesis of Mo-Based Binary and Ternary Oxides for Electrochemical Applications|16
+Twist-Bend Coupling and the Torsional Response of Double-Stranded DNA|35
+A Cost-Efficient Bifunctional Ultrathin Nanosheets Array for Electrochemical Overall Water Splitting|27
+Biotunable Nanoplasmonic Filter on Few-Layer MoS2 for Rapid and Highly Sensitive Cytokine Optoelectronic Immunosensing|57
+Large-Scale Tunable 3D Self-Supporting WO3 Micro-Nano Architectures as Direct Photoanodes for Efficient Photoelectrochemical Water Splitting|60
+Correction: A new potential for methylammonium lead iodide|36
+Crowding-Controlled Cluster Size in Concentrated Aqueous Protein Solutions: Structure, Self- and Collective Diffusion|8
+A Two-Resonance Tapping Cavity for an Optimal Light Trapping in Thin-Film Solar Cells|22
+Solvent-Mediated Shape Tuning of Well-Defined Rhodium Nanocrystals for Efficient Electrochemical Water Splitting|8
+Application of Impedance Matching for Enhanced Transmitted Power in a Thermophotovoltaic System|95
+Chiral plasmonics|39
+Statistical mechanics of ecological systems: Neutral theory and beyond|38
+Carbon Nanoforms for Photovoltaics: Myth or Reality?|66
+Polyphenol-Inspired Facile Construction of Smart Assemblies for ATP- and pH-Responsive Tumor MR/Optical Imaging and Photothermal Therapy|75
+Germanium oxidation occurs by diffusion of oxygen network interstitials|25
+Operando Synchrotron XRD Investigation of Silver Metal Formation upon Electrochemical Reduction of Silver Iron Pyrophosphate (Ag7Fe3(P2O7)4)|63
+<i>Colloquium</i>: Time-reversal violation with quantum-entangled B mesons|99
+Effects of vacancies on spin-dependent behavior of monolayer and bilayer graphene nanoribbons|32
+Microwave Generation in Synchronized Semiconductor Superlattices|36
+Plasmonic Copper Sulfide-Based Materials: A Brief Introduction to Their Synthesis, Doping, Alloying, and Applications|24
+Fermion path integrals and topological phases|42
+Leakage Current Induced by Energetic Disorder in Organic Bulk Heterojunction Solar Cells: Comprehending the Ultrahigh Loss of Open-Circuit Voltage at Low Temperatures|51
+Perovskite Chalcogenides with Optimal Bandgap and Desired Optical Absorption for Photovoltaic Devices|32
+High-Contrast Fluorescence Detection of Metastatic Breast Cancer Including Bone and Liver Micrometastases via Size-Controlled pH-Activatable Water-Soluble Probes|1
+Microwave Spectroscopy of a Carbon Nanotube Charge Qubit|9
+Pressure-Induced Effects in Organic–Inorganic Hybrid Perovskites|4
+Observation and ultrafast dynamics of a nonvalence correlation-bound state of an anion|30
+Multi-Scale Microstructural Thermoelectric Materials: Transport Behavior, Non-Equilibrium Preparation, and Applications|69
+Octopus-Inspired Assembly of Nanosucker Arrays for Dry/Wet Adhesion|72
+Hierarchical Chitin Fibers with Aligned Nanofibrillar Architectures: A Nonwoven-Mat Separator for Lithium Metal Batteries|48
+Concave Platinum–Copper Octopod Nanoframes Bounded with Multiple High-Index Facets for Efficient Electrooxidation Catalysis|79
+Synchronization Dynamics in a Designed Open System|80
+Field-Induced and Thermal Electron Currents from Earthed Spherical Emitters|43
+Defect-Assisted Photoinduced Halide Segregation in Mixed-Halide Perovskite Thin Films|7
+A monolithic hydro/organo macro copolymer actuator synthesized via interfacial copolymerization|6
+Competition and Cooperation of Hydrogenation and Deoxygenation Reactions during Hydrodeoxygenation of Phenol on Pt(111)|50
+Vertically coupled double-microdisk lasers composed of InGaAs quantum dots-in-a-well active layers|7
+Proteomics: New Opportunities and Challenges of Smart Polymers in Post-Translational Modification Proteomics (Adv. Mater. 20/2017)|63
+Orthogonal Liquid Crystal Alignment Layer: Templating Speed-Dependent Orientation of Chromonic Liquid Crystals|17
+Soft Skyrmions, Spontaneous Valence and Selection Rules in Nanoparticle Superlattices|41
+Binder-Free N- and O-Rich Carbon Nanofiber Anodes for Long Cycle Life K-Ion Batteries|36
+A Patterned Graphene/ZnO UV Sensor Driven by Integrated Asymmetric Micro-Supercapacitors on a Liquid Metal Patterned Foldable Paper|32
+In Situ Chemical Imaging of Solid-Electrolyte Interphase Layer Evolution in Li–S Batteries|34
+General Formation of Monodisperse IrM (M = Ni, Co, Fe) Bimetallic Nanoclusters as Bifunctional Electrocatalysts for Acidic Overall Water Splitting|37
+<i>Colloquium</i>: Majorana fermions in nuclear, particle, and solid-state physics|100
+Large Lateral Photovoltage Observed in MoS2 Thickness-Modulated ITO/MoS2/p-Si Heterojunctions|31
+A Dual-Function Na2SO4 Template Directed Formation of Cathode Materials with a High Content of Sulfur Nanodots for Lithium–Sulfur Batteries|21
+Quasiparticle Energy in a Strongly Interacting Homogeneous Bose-Einstein Condensate|53
+Flapping viscosity probe that shows polarity-independent ratiometric fluorescence|90
+Computational Screening for Design of Optimal Coating Materials to Suppress Gas Evolution in Li-Ion Battery Cathodes|22
+Direct observation of shear piezoelectricity in poly-l-lactic acid nanowires|9
+Appearance and Disappearance of Quantum Correlations in Measurement-Based Feedback Control of a Mechanical Oscillator|76
+Carbon nanotube fibers with martensite and austenite Fe residual catalyst: room temperature ferromagnetism and implications for CVD growth|2
+Crowd-based peer review can be good and fast|4
+Zeno Hall Effect|77
+A Fatty Acid-Inspired Tetherable Initiator for Surface-Initiated Atom Transfer Radical Polymerization|28
+High Electroactive Material Loading on a Carbon Nanotube@3D Graphene Aerogel for High-Performance Flexible All-Solid-State Asymmetric Supercapacitors|24
+Tuning the Shell Number of Multishelled Metal Oxide Hollow Fibers for Optimized Lithium-Ion Storage|43
+Crystallization Kinetics and Morphology Control of Formamidinium–Cesium Mixed-Cation Lead Mixed-Halide Perovskite via Tunability of the Colloidal Precursor Solution|3
+Randomized Benchmarking of Barrier versus Tilt Control of a Singlet-Triplet Qubit|32
+Model for multi-filamentary conduction in graphene/hexagonal-boron-nitride/graphene based resistive switching devices|8
+Regulating Water-Reduction Kinetics in Cobalt Phosphide for Enhancing HER Catalytic Activity in Alkaline Solution|27
+Thermoelectric transport in junctions of Majorana and Dirac channels|56
+Magnetotransport properties of the triply degenerate node topological semimetal tungsten carbide|53
+Seismic anisotropy evidence for dehydration embrittlement triggering intermediate-depth earthquakes|4
+Extraordinary linear dynamic range in laser-defined functionalized graphene photodetectors|12
+Laser-Induced Graphene in Controlled Atmospheres: From Superhydrophilic to Superhydrophobic Surfaces|43
+Flexible Transparent Supercapacitors Based on Hierarchical Nanocomposite Films|35
+Symmetry forbidden morphologies and domain boundaries in nanoscale graphene islands|4
+Metamorphic Superomniphobic Surfaces|53
+Big bang nucleosynthesis: Present status|60
+Tunable Mechanoresponsive Self-Assembly of an Amide-Linked Dyad with Dual Sensitivity of Photochromism and Mechanochromism|8
+Molecular Interactions and Thermal Transport in Ionic Liquids with Carbon Nanomaterials|17
+Cell Generator: A Self-Sustaining Biohybrid System Based on Energy Harvesting from Engineered Cardiac Microtissues|74
+Temperature-Controlled Chameleonlike Cloak|39
+Flyweight, Superelastic, Electrically Conductive, and Flame-Retardant 3D Multi-Nanolayer Graphene/Ceramic Metamaterial|9
+Unraveling Antimicrobial Susceptibility of Bacterial Networks on Micropillar Architectures Using Intrinsic Phase-Shift Spectroscopy|59
+Coercivity enhancement in hot deformed Nd2Fe14B-type magnets by doping low-melting RCu alloys (R=Nd, Dy, Nd+Dy)|35
+Strangeness in nuclear physics|36
+Colloidal alloys with preassembled clusters and spheres|14
+Backside absorbing layer microscopy: Watching graphene chemistry|43
+Spontaneous stacking of purple membranes during immobilization with physical cross-linked poly(vinyl alcohol) hydrogel with retaining native-like functionality of bacteriorhodopsin|28
+Conductive Metal–Organic Framework Nanowire Array Electrodes for High-Performance Solid-State Supercapacitors|25
+Supersymmetry in the fractional quantum Hall regime|12
+Pattern Formation: Lizard computer|9
+Hybrid mode cesium diode thermionic converter|11
+Direct 3D mapping of the Fermi surface and Fermi velocity|8
+Transport signatures of topological superconductivity in a proximity-coupled nanowire|71
+Elucidating the structure of light absorbing styrene carbocation species formed within zeolites|48
+Enabling Ambipolar to Heavy n-Type Transport in PbS Quantum Dot Solids through Doping with Organic Molecules|66
+Gold nanoparticle SERS substrates sustainable at extremely high temperatures|48
+Groupoids and labelled quotient graphs: a topological analysis of the modular structure in pyroxenes|5
+Combinatorial Synthesis of Acacen-Type Ligands and Their Coordination Compounds|10
+Practical considerations in the modeling of field emitter arrays with line charge distributions|10
+Composite Microposts with High Dry Adhesion Strength|52
+Novel Focused Ultrasound Gene Therapy Approach Noninvasively Restores Dopaminergic Neuron Function in a Rat Parkinson’s Disease Model|34
+Wet-Chemical Synthesis of Hollow Red-Phosphorus Nanospheres with Porous Shells as Anodes for High-Performance Lithium-Ion and Sodium-Ion Batteries|15
+Finite-size scaling of the Shannon-Rényi entropy in two-dimensional systems with spontaneously broken continuous symmetry|49
+Synchronization in Dynamical Networks of Locally Coupled Self-Propelled Oscillators|45
+CdSe Nanoplatelet Films with Controlled Orientation of their Transition Dipole Moment|8
+Photoexcited Ag ejection from a low-temperature He cluster: a simulation study by nonadiabatic Ehrenfest ring-polymer molecular dynamics|88
+Dark Vibronic Polaritons and the Spectroscopy of Organic Microcavities|14
+Spectral Flow and Global Topology of the Hofstadter Butterfly|45
+Genomics: Sunflowers sequenced|39
+<i>In Situ</i> Monitoring of the Thermal-Annealing Effect in a Monolayer of MoS_{2}|91
+Direct Observation of Sr Vacancies in SrTiO_{3} by Quantitative Scanning Transmission Electron Microscopy|84
+Ligand mediated excited state carrier relaxation dynamics of Cd1-xZnxSe1-ySy NCs derived from bile salts|57
+Direct growth of MoS 2 single crystals on polyimide substrates|10
+Optical properties of Ti_{x} Si_{1−x} O_{2} solid solutions|51
+Directional mechanical stability of Bacteriophage {varphi}29 motors 3WJ-pRNA: Extraordinary robustness along portal axis|11
+Effects of Ion Distributions on Charge Collection in Perovskite Solar Cells|4
+Tunable Type-I and Type-II Dirac Fermions in Graphene with Nitrogen Line Defects|18
+<i>Colloquium</i>: Measuring the neutron star equation of state using x-ray timing|54
+Three-Dimensional Hetero-Integration of Faceted GaN on Si Pillars for Efficient Light Energy Conversion Devices|33
+Restless Tuneup of High-Fidelity Qubit Gates|41
+2D Porous Carbons prepared from Layered Organic–Inorganic Hybrids and their Use as Oxygen-Reduction Electrocatalysts|10
+Photoelectrochemistry by Design: Tailoring the Nanoscale Structure of Pt/NiO Composites Leads to Enhanced Photoelectrochemical Hydrogen Evolution Performance|74
+Interference between the Modes of an All-Dielectric Meta-atom|92
+Superaerophobic graphene nano-hills for direct hydrazine fuel cells|8
+Lévy walks|90
+Fluorescent linear CO2-derived poly(hydroxyurethane) for cool white LED|52
+Dopant Mediated Assembly of Cu2ZnSnS4 Nanorods into Atomically Coupled 2D Sheets in Solution|66
+Few-Layered PtS2 Phototransistor on h-BN with High Gain|46
+Redox-Induced Gating of the Exchange Interactions in a Single Organic Diradical|53
+Orientation-dependent properties of epitaxially strained perovskite oxide thin films: Insights from first-principles calculations|19
+Heteromolecular phases: Opposite interaction matters|4
+Carbon-Nanotube-Templated, Sputter-Deposited, Flexible Superconducting NbN Nanowire Yarns|7
+Nonlinear Optical Magnetism Revealed by Second-Harmonic Generation in Nanoantennas|29
+Room-temperature InP/InAsP Quantum Discs-in-Nanowire Infrared Photodetectors|6
+Spectroscopic Observation of Reversible Surface Reconstruction of Copper Electrodes under CO2 Reduction|26
+Learning phase transitions by confusion|15
+Stable high-temperature paramagnons in a three-dimensional antiferromagnet near quantum criticality: Application to TlCuCl_{3}|89
+High-Performance Aqueous Rechargeable Li-Ni Battery Based on Ni(OH)2/NiOOH Redox Couple with High Voltage|60
+Photo-assisted electron emission from illuminated monolayer graphene|38
+Structural stability and intriguing electronic properties of two-dimensional transition metal dichalcogenide alloys|100
+A critical comparison of coarse-grained structure-based approaches and atomic models of protein folding|71
+Reversible, Tunable, Electric-Field Driven Assembly of Silver Nanocrystal Superlattices|19
+Marriage of Albumin–Gadolinium Complexes and MoS2 Nanoflakes as Cancer Theranostics for Dual-Modality Magnetic Resonance/Photoacoustic Imaging and Photothermal Therapy|57
+Polynomial complexity despite the fermionic sign|12
+Stretchable Platinum Network-Based Transparent Electrodes for Highly Sensitive Wearable Electronics|16
+Phosphorus Enhanced Intermolecular Interactions of SnO2 and Graphene as an Ultrastable Lithium Battery Anode|77
+Trimetallic Nitride Endohedral Fullerenes Carboxyl-Gd3N@C80: A New Theranostic Agent for Combating Oxidative Stress and Resolving Inflammation|2
+Spatial Targeting of Tumor-Associated Macrophages and Tumor Cells with a pH-Sensitive Cluster Nanocarrier for Cancer Chemoimmunotherapy|44
+Graviton mass bounds|3
+Nonzero Ideal Gas Contribution to the Surface Tension of Water|5
+Conformational Asymmetry and Quasicrystal Approximants in Linear Diblock Copolymers|97
+New Approaches to Coding Information using Inverse Scattering Transform|7
+Laser-Induced Graphene Layers and Electrodes Prevents Microbial Fouling and Exerts Antimicrobial Action|28
+Call for Papers: Welcome Submissions to Journal of Materiomics|4
+Substitutional Electron and Hole Doping of WSe_{2} : Synthesis, Electrical Characterization, and Observation of Band-to-Band Tunneling|88
+Quantum Trajectories and Their Statistics for Remotely Entangled Quantum Bits|97
+Signatures of Many-Body Localization in a Controlled Open Quantum System|40
+Review of Hydrogels and Aerogels Containing Nanocellulose|40
+Whispering Gallery Mode Laser from Carbon Dot–NaCl Hybrid Crystals|29
+Majorana Landau-level Raman spectroscopy|97
+Switching chiral solitons for algebraic operation of topological quaternary digits|17
+Engineering Pt/Pd Interfacial Electronic Structures for Highly Efficient Hydrogen Evolution and Alcohol Oxidation|10
+A Microfluidic Ion Pump for In Vivo Drug Delivery|36
+Enhancing Dissociative Adsorption of Water on Cu(111) via Chemisorbed Oxygen|17
+Thickness Resonance Acoustic Microscopy for Nanomechanical Subsurface Imaging|34
+Effect of dimensionality on thermoelectric powerfactor of molybdenum disulfide|21
+Cell imaging: An intracellular dance visualized|35
+Virtual Special Issues: Article selection on energy and climate change|4
+Grueneisen-approach for the experimental determination of transient spin and phonon energies from ultrafast x-ray diffraction data: gadolinium|5
+A Strategy to Design High-Density Nanoscale Devices utilizing Vapor Deposition of Metal Halide Perovskite Materials|6
+Facile Synthesis of Large Area Two-Dimensional Layers of Transition-Metal Nitride and Their Use as Insertion Electrodes|32
+Science takes to the streets|1
+Dramatic influence of curvature of nanowire on chiral domain wall velocity|64
+Hydrogenated Core–Shell MAX@K2Ti8O17 Pseudocapacitance with Ultrafast Sodium Storage and Long-Term Cycling|18
+A pressure-induced topological phase with large Berry curvature in Pb1-xSnxTe|3
+Joule-heated graphene-wrapped sponge enables fast clean-up of viscous crude-oil spill|13
+News: 2015 Outstanding Editorial Board Members for Solar Energy Materials and Solar Cells|3
+Equilibration and order in quantum Floquet matter|13
+Real-time impedance monitoring of oxygen reduction during surface modification of thin film cathodes|12
+Bacterial RadA is a DnaB-type helicase interacting with RecA to promote bidirectional D-loop extension|7
+Speed up Ferroelectric Organic Transistor Memories by Using Two-Dimensional Molecular Crystalline Semiconductors|47
+Social Cooperation and Disharmony in Communities Mediated through Common Pool Resource Exploitation|98
+Self-Similar Nanocavity Design with Ultrasmall Mode Volume for Single-Photon Nonlinearities|15
+Statistics of Fractionalized Excitations through Threshold Spectroscopy|10
+Odd-Parity Superconductivity near an Inversion Breaking Quantum Critical Point in One Dimension|9
+A Ratiometric Near-Infrared Fluorescent Probe for Quantification and Evaluation of Selenocysteine-Protective Effects in Acute Inflammation|26
+Water Microsolvation Can Switch the Binding Mode of Ni(II) with Small Peptides|1
+Australian shelf sediments reveal shifts in Miocene Southern Hemisphere westerlies|55
+Off-grid electricity: For comfort but not for work|7
+Intracity Quantum Communication via Thermal Microwave Networks|38
+Magnetic-field-induced change of magnetoelectric coupling in the hybrid multiferroic (ND_{4} )_{2} [FeCl_{5} ·D_{2} O]|72
+An Initial Review of the Status of Electrode Materials for Potassium-Ion Batteries|38
+<i>Colloquium</i>: Water’s controversial glass transitions|61
+Graphene-like quaternary compound SiBCN: A new wide direct band gap semiconductor predicted by a first-principles study|2
+Observation of Weak Collapse in a Bose-Einstein Condensate|91
+Porous organic cage membranes for water desalination: a simulation exploration|1
+Antiferromagnetism of Li_{2} Cu_{5} Si_{4} O_{14} with alternating dimers and trimers in chains|23
+Pressure compression of CdSe nanoparticles into luminescent nanowires|65
+Reversibly Electro-controllable Polymer Brush for Electro-switchable Friction|39
+Luminescence induced by electrons outside zinc oxide nanoparticles driven by intense terahertz pulse trains|6
+Direct laser writing of complex microtubes using femtosecond vortex beams|3
+Real-time visualization of perforin nanopore assembly|18
+Kondo-Ising and tight-binding models for TmB_{4}|84
+Scaled plane-wave Born cross sections for atoms and molecules|49
+Deconfined quantum criticality in SU(3) antiferromagnets on the triangular lattice|95
+Reversible Photochemical Transformation of S and H2 Mixture to (H2S)2H2 at High Pressures|5
+Photocatalytic Nanofiltration Membranes with Self-Cleaning Property for Wastewater Treatment|40
+Machine learning of accurate energy-conserving molecular force fields|66
+<i>In situ</i> Polarized Neutron Reflectometry: Epitaxial Thin-Film Growth of Fe on Cu(001) by dc Magnetron Sputtering|24
+Hole Trapping by Iodine Interstitial Defects Decreases Free Carrier Losses in Perovskite Solar Cells: A Time-Domain Ab Initio Study|30
+Topological Superconductivity in a Planar Josephson Junction|1
+Translation of rod-like template sequences into homochiral assemblies of stacked helical oligomers|15
+Surface Energy and Surface Stability of Ag Nanocrystals at Elevated Temperatures and Their Dominance in Sublimation-Induced Shape Evolution|14
+Regular and red-shifted fluorescence of the donor-acceptor compound 5-(1H-pyrrole-1-yl)thiophenecarbonitrile (TCN) is efficiently quenched by internal modes of thiophene|66
+Spin ice Thin Film: Surface Ordering, Emergent Square ice, and Strain Effects|72
+Application of Cu3InSnSe5 Heteronanostructures as Counter Electrodes for Dye-Sensitized Solar Cells|44
+Breaking the Open-Circuit Voltage Deficit Floor in PbS Quantum Dot Solar Cells through Synergistic Ligand and Architecture Engineering|5
+Policies and Guidelines: Submission Guideline|3
+Interfacial Charge Transfer Circumventing Momentum Mismatch at Two-Dimensional van der Waals Heterojunctions|56
+CO2 adsorption on different organo-modified SBA-15 silicas: a multidisciplinary study on the effects of basic surface groups|80
+Frequency comb-based time transfer over a 159 km long installed fiber network|1
+A Metal-Free and Biotically Degradable Battery for Portable Single-Use Applications|25
+Tuning of the Optical, Electronic, and Magnetic Properties of Boron Nitride Nanosheets with Oxygen Doping and Functionalization|19
+Ordered Single-Crystalline Anatase TiO2 Nanorod Clusters Planted on Graphene for Fast Charge Transfer in Photoelectrochemical Solar Cells|11
+Diacetylene polymerization on a bulk insulator surface|60
+Cascading Effects of Nanoparticle Coatings: Surface Functionalization Dictates the Assemblage of Complexed Proteins and Subsequent Interaction with Model Cell Membranes|36
+Intertwined superfluid and density wave order in two-dimensional 4He|19
+Facile synthesis, morphology and photoluminescence of a novel red fluoride nanophosphor K2NaAlF6:Mn4+|96
+Plasma holograms for ultrahigh-intensity optics|16
+Ultrabright Linearly Polarized Photon Generation from a Nitrogen Vacancy Center in a Nanocube Dimer Antenna|69
+Megahertz-Rate Semi-Device-Independent Quantum Random Number Generators Based on Unambiguous State Discrimination|10
+Brain-Inspired Photonic Neuromorphic Devices using Photodynamic Amorphous Oxide Semiconductors and their Persistent Photoconductivity|32
+Few-layer selenium-doped black phosphorus: synthesis, nonlinear optical properties and ultrafast photonics applications|98
+Conformal Lithium Fluoride Protection Layer on Three-Dimensional Lithium by Nonhazardous Gaseous Reagent Freon|22
+Formation of g-C3N4@Ni(OH)2 Honeycomb Nanostructure and Asymmetric Supercapacitor with High Energy and Power Density|37
+Porous Carbon Composites for Next Generation Rechargeable Lithium Batteries|48
+Tomonaga-Luttinger liquid and localization in Weyl semimetals|11
+Towards full-colour tunable photoluminescence of monolayer MoS2/carbon quantum dots ultrathin films|14
+Think bigger|1
+A Hybrid Mg2+/Li+ Battery Based on Interlayer-Expanded MoS2/Graphene Cathode|3
+The hypothiocyanite radical OSCN and isomers|28
+Nonadiabatic Holonomic Quantum Computation with Dressed-State Qubits|7
+Efficient Multiphoton Generation in Waveguide Quantum Electrodynamics|51
+Application of composition controlled nickel-alloyed iron sulfide pyrite nanocrystal thin films as the hole transport layer in cadmium telluride solar cells|44
+Carbon Coated Bimetallic Sulfide Hollow Nanocubes as Advanced Sodium Ion Battery Anode|10
+High efficiency solid-state dye-sensitized solar cells using a cobalt(II/III) redox mediator|63
+Ethylperoxy Radical: Approaching Spectroscopic Accuracy via Coupled-Cluster Theory|14
+Matching precursor kinetics to afford a more robust CVD chemistry: a case study of the C chemistry for silicon carbide using SiF4 as Si precursor|92
+Local Enhancement of Polarization at PbTiO3/BiFeO3 Interfaces Mediated by Charge Transfer|1
+Intracellular and Extracellular Recording of Spontaneous Action Potentials in Mammalian Neurons and Cardiac Cells with 3D Plasmonic Nanoelectrodes|24
+Acoustic Focusing and Energy Confinement Based on Multilateral Metasurfaces|21
+Effects of temperature, concentration, and isomer on the hydration structure in monosaccharide solutions|12
+Spin-lattice-coupling-mediated magnetoferroelectric phase transition induced by uniaxial pressure in multiferroic CuFe_{1−x} M_{x} O_{2} (M=Ga, Al)|17
+Magnetic properties of nanoparticle compacts with controlled broadening of the particle size distribution|39
+Porous Organic Field-Effect Transistors for Enhanced Chemical Sensing Performances|80
+Nonmagnetic Quantum Emitters in Boron Nitride with Ultranarrow and Sideband-Free Emission Spectra|24
+Relationship between electrical properties and crystallization of indium oxide thin films using ex-situ grazing-incidence wide-angle x-ray scattering|45
+A two-dimensional semiconductor transistor with boosted gate control and sensing ability|29
+Publisher’s Note: Google matrix analysis of directed networks [Rev. Mod. Phys. <b>87</b>, 1261 (2015)]|32
+Flexible and Responsive Chiral Nematic Cellulose Nanocrystal/Poly(ethylene glycol) Composite Films with Uniform and Tunable Structural Color|8
+Highly uniform zinc blende GaAs nanowires on Si(111) using a controlled chemical oxide template|12
+Pressure-induced metallization and superconducting phase in ReS<Subscript>                 <Emphasis Type="Bold">2</Emphasis>               </Subscript>|8
+High-Speed Photonic Reservoir Computing Using a Time-Delay-Based Architecture: Million Words per Second Classification|61
+Angle-Dependent Photoluminescence Spectroscopy of Solution-Processed Organic Semiconducting Nanobelts|29
+Thermal Management in Nanofiber-Based Face Mask|36
+Tailored emails prompt electric vehicle owners to engage with tariff switching information|4
+Modulation of Electron–Phonon Coupling in One-Dimensionally Nanorippled Graphene on a Macrofacet of 6H-SiC|28
+Mechanically Robust, Stretchable Solar Absorbers with Submicron-Thick Multilayer Sheets for Wearable and Energy Applications|12
+Femtosecond response of polyatomic molecules to ultra-intense hard X-rays|47
+Energy Invariance in Capillary Systems|39
+Photochemistry: Caught in the act|4
+High efficiency yellow organic light-emitting diodes with a solution-process feasible iridium based emitter|35
+Divergence of species responses to climate change|41
+Synthesis of Olive-Like Nitrogen–Doped Carbon with Embedded Ge Nanoparticles for Ultrahigh Stable Lithium Battery Anodes|74
+Properties of Dopants in HfO_{x} for Improving the Performance of Nonvolatile Memory|81
+Tandem Catalysis for CO2 Hydrogenation to C2–C4 Hydrocarbons|37
+Methane Storage: Molecular Mechanisms Underlying Room-Temperature Adsorption in Zn4O(BDC)3 (MOF-5)|15
+Coherent ultrafast lattice-directed reaction dynamics of triiodide anion photodissociation|6
+Bouncing dynamics of impact droplets on the convex superhydrophobic surfaces|6
+Conjugated Microporous Polycarbazole Networks as Precursors for Nitrogen-Enriched Microporous Carbons for CO2 Storage and Electrochemical Capacitors|4
+Solid-State Carbon Dots with Red Fluorescence and Efficient Construction of Dual-Fluorescence Morphologies|44
+New advances in the light-emission theory. Novel effects in superlattice laser spectra|4
+Towards Resource Theory of Coherence in Distributed Scenarios|49
+Quantum transport in carbon nanotubes|86
+Particle-Hole Duality in the Lowest Landau Level|68
+Code Properties from Holographic Geometries|12
+Nerve Cells Decide to Orient inside an Injectable Hydrogel with Minimal Structural Guidance|87
+Effect of short-range order on magnetic and transport properties of Fe2MnGa Heusler alloy films|33
+Dissolving Microneedle Arrays for Transdermal Delivery of Amphiphilic Vaccines|37
+Global search for low-lying crystal structures using the artificial force induced reaction method: A case study on carbon|36
+Engineered Graphene Materials: Synthesis and Applications for Polymer Electrolyte Membrane Fuel Cells|81
+Measurement of vector transmission matrix and control of beam focusing through a multiple-scattering medium based on a vector spatial light modulator and two-channel polarization holography|5
+Long-Range Repulsion Between Spatially Confined van der Waals Dimers|41
+Relation between the Liquid Spinodal Pressure and the Lateral Pressure Profile at the Liquid–Vapor Interface|70
+Charge Transfer Processes in OPV Materials as Revealed by EPR Spectroscopy|67
+Warm Dense Matter Demonstrating Non-Drude Conductivity from Observations of Nonlinear Plasmon Damping|8
+Machine learning phases of matter|14
+Field dependence of the magnetic correlations of the frustrated magnet SrDy_{2} O_{4}|44
+Flexible Chirality in Self-Assembled N-Annulated Perylenedicarboxamides|71
+Multifunctional Emitters for Efficient Simplified Non-Doped Blueish Green Organic Light Emitting Devices with Extremely Low Efficiency Roll-off|4
+Mechanically-Controlled Reversible Spin Crossover of Single Fe-Porphyrin Molecules|44
+Room Temperature Phosphorescence from Moisture-Resistant and Oxygen-Barred Carbon Dot Aggregates|87
+Bioinspired Ultratough Hydrogel with Fast Recovery, Self-Healing, Injectability and Cytocompatibility|22
+Competitive excitation and osmotic-pressure-mediated control of lasing modes in cholesteric liquid crystal microshells|35
+Hydrogen Decrepitation Press-Less Process recycling of NdFeB sintered magnets|8
+Metal–Organic Framework Templated Catalysts: Dual Sensitization of PdO–ZnO Composite on Hollow SnO2 Nanotubes for Selective Acetone Sensors|24
+Hierarchically Enhanced Impact Resistance of Bioinspired Composites|13
+Fast-Clearable Nanocarriers Conducting Chemo/Photothermal Combination Therapy to Inhibit Recurrence of Malignant Tumors|18
+Gas sensing in 2D materials|8
+Structures and Magnetic Properties of MoS2 Grain Boundaries with Antisite Defects|52
+Memory formation and evolution of the vortex configuration associated with random organization|9
+Antiferromagnetic and Orbital Ordering on a Diamond Lattice Near Quantum Criticality|92
+A fully organic retinal prosthesis restores vision in a rat model of degenerative blindness|18
+Ageing effects on the magnetic properties of Mn12-based Acetate and Stearate SMMs|45
+<i>Colloquium</i>: An algebraic model of localized surface plasmons and their interactions|16
+Super-resolution optical microscopy for studying membrane structure and dynamics|4
+Loading ultracold gases in topological Floquet bands: the fate of current and center-of-mass responses|9
+Response to “Comment on ‘Economies of scale: The physics basis’” [J. Appl. Phys. 121, 206101 (2017)]|55
+Reversible Crystal Phase Interconversion between Covellite CuS and High Chalcocite Cu2S Nanocrystals|9
+Flexible Nanowire Cluster as a Wearable Colorimetric Humidity Sensor|28
+13-cis-Retinoic acid on coinage metals: hierarchical self-assembly and spin generation|33
+Compliant substratum guides endothelial commitment from human pluripotent stem cells|4
+Self-Referenced Method for Estimating Refractive Index and Absolute Absorption of Loose Semiconductor Powders|22
+UK election: science spending pledges overshadowed by Brexit|7
+High-Temperature Superconductivity in Boron-Doped Q-Carbon|70
+Direct ink writing of zirconia three-dimensional structures|76
+Humidity-enhanced sub-ppm sensitivity to ammonia of covalently functionalized single-wall carbon nanotube bundle layers|14
+Research Update: Hybrid energy devices combining nanogenerators and energy storage systems for self-charging capability|4
+Efficiency Potential of Photovoltaic Materials and Devices Unveiled by Detailed-Balance Analysis|50
+Detuning-determined qubit-qubit entanglement mediated by plasmons: An effective model for dissipative systems|5
+CO2 Delivery To Accelerate Incisional Wound Healing Following Single Irradiation of Near-Infrared Lamp on the Coordinated Colloids|31
+The tendon-to-bone attachment: Unification through disarray|6
+Genome editing: That's the way the CRISPR crumbles|14
+DNA Lipoplex-Based Light-Harvesting Antennae|47
+New Opportunities and Challenges of Smart Polymers in Post-Translational Modification Proteomics|78
+Glassy Spin Dynamics in Geometrically Frustrated Buckled Colloidal Crystals|3
+Flexible Lithium-Ion Fiber Battery by the Regular Stacking of Two-Dimensional Titanium Oxide Nanosheets Hybridized with Reduced Graphene Oxide|16
+Reentrant phases in electron-doped EuFe_{2} As_{2} : Spin glass and superconductivity|28
+Lattice Effects on the Formation of Oxygen Vacancies in Perovskite Thin Films|37
+How to measure the pyroelectric coefficient?|7
+Structure-properties relationship of blue solid state emissive phenanthroimidazole derivatives|16
+Linking the influence and dependence of people on biodiversity across scales|27
+Publisher’s Note: Computer-Assisted Inverse Design of Inorganic Electrides [Phys. Rev. X <b>7</b>, 011017 (2017)]|42
+Probing Single Vacancies in Black Phosphorus at the Atomic Level|45
+Glass-Fiber Networks as an Orbit for Ions: Fabrication of Excellent Antistatic PP/GF Composites with Extremely Low Organic Salt Loadings|77
+Improving Broadband Displacement Detection with Quantum Correlations|30
+Highly compressible fluorescent particles for pressure sensing in liquids|10
+Intrinsic ferromagnetism and quantum anomalous Hall effect in a CoBr2 monolayer|59
+Plasmon-Enhanced Energy Transfer in Photosensitive Nanocrystal Device|8
+Structure and Dynamics Investigations of Sr/Ca-Doped LaPO4 Proton Conductors|8
+Mushrooms as Efficient Solar Steam-Generation Devices|24
+Influence of Film and Substrate Structure on Photoelectron Momentum Maps of Coronene Thin Films on Ag(111)|37
+Interconnections between equilibrium topology and dynamical quantum phase transitions in a linearly ramped Haldane model|37
+Neck circumference associated with arterial blood pressures and hypertension: A cross-sectional community-based study in northern Han Chinese|6
+Thermoelectric properties of Si/CoSi2 sub-micrometer composites prepared by melt-spinning technique|35
+Fragmented-condensate solid of dipolar excitons|75
+Optical atomic clocks|87
+Semiflexible Polymers in Spherical Confinement: Bipolar Orientational Order Versus Tennis Ball States|37
+Stability of Organic Solar Cells: The Influence of Nanostructured Carbon Materials|77
+Anisotropy-driven transition from the Moore-Read state to quantum Hall stripes|63
+High-Performance All-Solid-State Lithium–Sulfur Batteries Enabled by Amorphous Sulfur-Coated Reduced Graphene Oxide Cathodes|51
+Coupling a Surface Acoustic Wave to an Electron Spin in Diamond via a Dark State|89
+Highly Luminescent Water-Dispersible NIR-Emitting Wurtzite CuInS2/ZnS Core/Shell Colloidal Quantum Dots|10
+Modeling quasi-ballistic transient thermal transport with spatially sinusoidal heating: A McKelvey-Shockley flux approach|23
+Mechanistic insight into the thermal activation of Togni's trifluoromethylation reagents|29
+A Shell-Shaped Carbon Architecture with High-Loading Capability for Lithium Sulfide Cathodes|53
+Metallic Hydrogen in Atomically Precise Gold Nanoclusters|32
+Smart Reinvention of the Contact Lens with Graphene|52
+Quantum Dot–Peptide–Fullerene Bioconjugates for Visualization of in Vitro and in Vivo Cellular Membrane Potential|12
+Activation and discovery of earth-abundant metal catalysts using sodium tert-butoxide|18
+Enhancement of the spin Peltier effect in multilayers|45
+Energy Sources for Road Transport in the Future|21
+Energy use behaviour: A window of opportunity|3
+Printable and Rewritable Full Block Copolymer Structural Color|14
+Pharmaceutical Intermediate-Modified Gold Nanoparticles: Against Multidrug-Resistant Bacteria and Wound-Healing Application via an Electrospun Scaffold|20
+Plating Precious Metals on Nonprecious Metal Nanoparticles for Sustainable Electrocatalysts|52
+Current Trends in Semiconductor Photoelectrochemistry|10
+Materials Nanoarchitecturing via Cation-Mediated Protein Assembly: Making Limpet Teeth without Mineral|54
+The classical and theoretical simulation for dominant radiated frequencies of plasma nanowire in presence of a long monopole antenna with long wavelength radiation|22
+Sputtered Titanium Carbide Thick Film for High Areal Energy on Chip Carbon-Based Micro-Supercapacitors|78
+Speciation gradients and the distribution of biodiversity|25
+Giant Perpendicular Exchange Bias in a Subnanometer Inverted (Co/Pt)_{n} /Co/IrMn Structure|20
+Stapled RGD Peptide Enables Glioma-Targeted Drug Delivery by Overcoming Multiple Barriers|20
+Nonequilibrium Interfacial Tension in Simple and Complex Fluids|90
+Harnessing the hygroscopic and biofluorescent behaviors of genetically tractable microbial cells to design biohybrid wearables|27
+Characterization of Combustion Dynamics, Detection, and Prevention of an Unstable Combustion State Based on a Complex-Network Theory|39
+Fibrin-Targeted and H2O2-Responsive Nanoparticles as a Theranostics for Thrombosed Vessels|46
+Self-Adjusting, Polymeric Multilayered Roll that can Keep the Shapes of the Blood Vessel Scaffolds during Biodegradation|28
+Surface-assisted single-crystal formation of charged colloids|27
+Nuclear Quantum Effects in Water Reorientation and Hydrogen-Bond Dynamics|6
+Superconductivity in a new intermetallic structure type based on endohedral Ta@Ir_{7} Ge_{4} clusters|27
+Role of the Intercrystalline Tie Chains Network in the Mechanical Response of Semicrystalline Polymers|36
+Establishing the link between fibril formation and Raman optical activity spectra of insulin|61
+Accretion Dynamics on Wet Granular Materials|75
+Contactless Microwave Characterization of Encapsulated Graphene p−n Junctions|13
+Learning to read alters cortico-subcortical cross-talk in the visual system of illiterates|21
+Effects of Antisite Defects on Li Diffusion in LiFePO4 Revealed by Li Isotope Exchange|22
+Scalable, Self-Aligned Printing of Flexible Graphene Micro-Supercapacitors|52
+Ultrahigh Conductive Graphene Paper Based on Ball-Milling Exfoliated Graphene|79
+Nanofiber Composite Membrane with Intrinsic Janus Surface for Reversed-Protein-Fouling Ultrafiltration|79
+Lateral p−n Junction in an Inverted InAs/GaSb Double Quantum Well|69
+Single-Molecule Level Insight into Nanoscale Environment-Dependent Photophysics in Blends|25
+Morphology-Conserved Transformations of Metal-Based Precursors to Hierarchically Porous Micro-/Nanostructures for Electrochemical Energy Conversion and Storage|5
+Disease Localization in Multilayer Networks|63
+Echo Behavior in Large Populations of Chemical Oscillators|95
+Cavity-Enhanced Single-Photon Source Based on the Silicon-Vacancy Center in Diamond|100
+Multimode and Long-Lived Quantum Correlations Between Photons and Spins in a Crystal|49
+Optical Binding of Nanowires|4
+Synthesis of 3,5-Disubstituted Isoxazoles Containing Privileged Substructures with a Diverse Display of Polar Surface Area|12
+Stretchable Capacitive Sensors of Torsion, Strain, and Touch Using Double Helix Liquid Metal Fibers|70
+Colloidal Halide Perovskite Nanoplatelets: An Exciting New Class of Semiconductor Nanomaterials|24
+Gas Selective Ultrathin Organic Covalent Networks Synthesized by iPECVD: Does the Central Metal Ion Matter?|1
+Ionization Energy as a Stability Criterion for Halide Perovskites|48
+Ageing: Rejuvenation study stirs old memories|21
+<i>Colloquium</i>: Strongly interacting photons in one-dimensional continuum|2
+Selenium/Graphite Platelet Nanofiber Composite for Durable Li–Se Batteries|28
+Morphology and Structure Engineering in Nanofiber Reactor: Tubular Hierarchical Integrated Networks Composed of Dual Phase Octahedral CoMn2O4/Carbon Nanofibers for Water Oxidation|31
+Bistability Versus Metastability in Driven Dissipative Rydberg Gases|15
+Optical, Thermal, and Mechanical Characterization of Ga2Se3-Added GLS Glass|45
+Atmospheric science: The self-cleansing ability of prehistoric air|37
+Visualization of structural evolution and phase distribution of a lithium vanadium oxide (Li1.1V3O8) electrode via an operando and in situ energy dispersive X-ray diffraction technique|85
+In situ imaging of the dynamics of photo-induced structural phase transition at high pressures by picosecond acoustic interferometry|1
+Assessment of Co-Ga alloys magnetostriction|13
+Quantum Loop Topography for Machine Learning|58
+Schottky barrier tuning via dopant segregation in NiGeSn-GeSn contacts|52
+Na2Mn3O7: A Suitable Electrode Material for Na-Ion Batteries?|18
+Formation and Inhibition of Metallic Lithium Microstructures in Lithium Batteries Driven by Chemical Crossover|54
+Water- and alcohol-soluble cationic phenanthroline derivatives as efficient cathode interfacial layers for bulk-heterojunction polymer solar cells|54
+Supramolecular-Assembled Nanoporous Film with Switchable Metal Salts for a Triboelectric Nanogenerator|29
+Light-driven liquid metal nanotransformers for biomedical theranostics|5
+Integrated Design of MnO2@Carbon Hollow Nanoboxes to Synergistically Encapsulate Polysulfides for Empowering Lithium Sulfur Batteries|83
+First principles study of magnetic and electronic properties of A2BB′O6 (A=Ba, Sr) (BB′=FeRe, MnMo, and MnRe) double perovskites|17
+Achieving zT > 1 in Inexpensive Zintl Phase Ca9Zn4+xSb9 by Phase Boundary Mapping|76
+Predicted Realization of Cubic Dirac Fermion in Quasi-One-Dimensional Transition-Metal Monochalcogenides|16
+A Superior Polymer Electrolyte with Rigid Cyclic Carbonate Backbone for Rechargeable Lithium Ion Batteries|38
+Electrode potential dependent desolvation and resolvation of germanium(100) in contact with aqueous perchlorate electrolytes|68
+Correlation-enhanced control of wave focusing in disordered media|26
+Magnetic behavior of new compounds, Gd3RuSn6 and Tb3RuSn6|25
+New Acetylene-Bridged 9,10-Conjugated Anthracene Sensitizers: Application in Outdoor and Indoor Dye-Sensitized Solar Cells|39
+Measurement of D^{0} Azimuthal Anisotropy at Midrapidity in Au+Au Collisions at sqrt[s_{NN} ] =200 GeV|22
+Sensors: Stretchable Capacitive Sensors of Torsion, Strain, and Touch Using Double Helix Liquid Metal Fibers (Adv. Funct. Mater. 20/2017)|63
+Low Loss Optical Waveguiding in Large Single Crystals of a Thiophene-Based Oligomer|4
+Nanostructured Metal Oxides and Sulfides for Lithium–Sulfur Batteries|77
+Workplace habits: Full-time is full enough|22
+Quantum Mechanics Reactive Dynamics Study of Solid Li-Electrode/Li6PS5Cl-Electrolyte Interface|2
+Bottom-Up Preparation of Uniform Ultrathin Rhenium Disulfide Nanosheets for Image-Guided Photothermal Radiotherapy|31
+Adaptive Filtering to Enhance Noise Immunity of Impedance and Admittance Spectroscopy: Comparison with Fourier Transformation|3
+Leaf bacterial diversity mediates plant diversity and ecosystem function relationships|51
+State-resolved attosecond reversible and irreversible dynamics in strong optical fields|22
+Generalized non-reciprocity in an optomechanical circuit via synthetic magnetism and reservoir engineering|21
+Interfacial Processes and Influence of Composite Cathode Microstructure Controlling the Performance of All-Solid-State Lithium Batteries|59
+“Electron/Ion Sponge”-Like V-Based Polyoxometalate: Toward High-Performance Cathode for Rechargeable Sodium Ion Batteries|58
+Leptonic and semileptonic decays of B mesons|31
+Observation of ψ(3686)→e^{+} e^{−} χ_{cJ} and χ_{cJ} →e^{+} e^{−} J/ψ|13
+A new nano-sorbent for fast and efficient removal of heavy metals from aqueous solutions based on modification of magnetic mesoporous silica nanospheres|27
+Nonequilibrium transport through a disordered molecular nanowire|61
+Nanomotor-Enabled pH-Responsive Intracellular Delivery of Caspase-3: Toward Rapid Cell Apoptosis|69
+A Synaptic Transistor based on Quasi-2D Molybdenum Oxide|55
+PT-Symmetric Coupled-Resonator Waveguide Based on Buried Heterostructure Nanocavities|8
+Cavity Mediated Manipulation of Distant Spin Currents Using a Cavity-Magnon-Polariton|46
+Quantum-continuum calculation of the surface states and electrical response of silicon in solution|86
+Wireless Communication with Nanoplasmonic Data Carriers: Macroscale Propagation of Nanophotonic Plasmon Polaritons Probed by Near-Field Nanoimaging|64
+Degradation Mechanisms in Solid-Oxide Fuel and Electrolyzer Cells: Analytical Description of Nickel Agglomeration in a Ni/YSZ Electrode|56
+Shape and Dynamics of Adhesive Cells: Mechanical Response of Open Systems|76
+High-pressure behavior of superconducting boron-doped diamond|91
+Reactions of hexadehydro-Diels–Alder benzynes with structurally complex multifunctional natural products|7
+Contents: (Adv. Energy Mater. 10/2017)|64
+Trion valley coherence in monolayer semiconductors|3
+Vertical transport in isotype InAlN/GaN dipole induced diodes grown by molecular beam epitaxy|49
+Anisotropy of transport in bulk Rashba metals|52
+Creation of a Short-Range Ordered Two-Dimensional Electron Gas Channel in Al2O3/In2O3 Interfaces|30
+Programming molecular self-assembly of intrinsically disordered proteins containing sequences of low complexity|5
+An efficient and pH-universal ruthenium-based catalyst for the hydrogen evolution reaction|14
+Precise Two-Photon Photodynamic Therapy using an Efficient Photosensitizer with Aggregation-Induced Emission Characteristics|12
+Govern land as a global commons|13
+pH-Triggered Pinpointed Cascading Charge-Conversion and Redox-Controlled Gene Release Design: Modularized Fabrication for Nonviral Gene Transfection|44
+Wireless power transfer inspired by the modern trends in electromagnetics|2
+In-plane heterostructures of Sb/Bi with high carrier mobility|11
+Plasma and trap-based techniques for science with positrons|96
+Observation of the Photon-Blockade Breakdown Phase Transition|64
+Memristive Devices with Highly Repeatable Analog States Boosted by Graphene Quantum Dots|72
+Anderson’s considerations on the flow of superfluid helium: Some offshoots|84
+Asymmetry of cross-correlations between intra-day and overnight volatilities|9
+Fano resonances in the photoinduced H-atom elimination dynamics in the [small pi][sigma]* states of pyrrole|6
+Influence of the alkyl side-chain length on the ultrafast vibrational dynamics of 1-alkyl-3-methylimidazolium bis(trifluoromethylsulfonyl)amide (CnmimNTf2) ionic liquids|25
+Electron Hopping Across Hemin-Doped Serum Albumin Mats on Centimeter-Length Scales|4
+Ultrahigh and Selective SO2 Uptake in Inorganic Anion-Pillared Hybrid Porous Materials|2
+Adsorption of C2 gases over CeO2-based catalysts: synergism of cationic sites and anionic vacancies|75
+Elastobuoyant Heavy Spheres: A Unique Way to Study Nonlinear Elasticity|81
+The phantom derivative method when a structure model is available: about its theoretical basis|2
+Structural biology: Signalling under the microscope|33
+CRISPR/Cas9 targeting events cause complex deletions and insertions at 17 sites in the mouse genome|8
+Phase diagram of α−RuCl_{3} in an in-plane magnetic field|3
+Homogeneous/Inhomogeneous-Structured Dielectrics and their Energy-Storage Performances|72
+Nonmaximal θ_{23} Mixing at NOvA from Neutrino Decoherence|12
+Experimental and Theoretical Investigations of Surface-Assisted Graphene Nanoribbon Synthesis Featuring Carbon–Fluorine Bond Cleavage|16
+Mapping the ionic fingerprints of molecular monolayers|54
+Dark Matter Search in a Proton Beam Dump with MiniBooNE|3
+Supramolecular chemistry: Host in translation|5
+Photo-Induced Charge Carrier Recombination Kinetics in Small Molecule Organic Solar Cells and the Influence of Film Nanomorphology|70
+Picosecond amorphization of SiO2 stishovite under tension|45
+Many-Body Topological Invariants for Fermionic Symmetry-Protected Topological Phases|44
+Comparative Analysis of the Electronic Structure and Nonlinear Optical Susceptibility of α-TeO2 and β-TeO3 Crystals|56
+Coral reefs in the Anthropocene|29
+Real-time visualization of clustering and intracellular transport of gold nanoparticles by correlative imaging|6
+Densely Grafted Liquid Crystalline Copper Phthalocyanine Sidechain Polymer: Synthesis and Characterization|5
+Direct Photon Production at Next-to–Next-to-Leading Order|4
+Pyrolysis of Helical Coordination Polymers for Metal-Sulfide-Based Helices with Broadband Chiroptical Activity|76
+Aromatic and Antiaromatic Spherical Structures: Use of Long-Range Magnetic Behavior as an Aromatic Indicator for Bare Icosahedral [Al@Al12]- and [Si12]2- Clusters|2
+Triboelectric Nanogenerator Enhanced Nanofiber Air Filters for Efficient Particulate Matter Removal|66
+Molecular dynamic heterogeneity in relation to free volume and relaxation dynamics in organic glass-formers: oligomeric cis-1,4-poly(isoprene)|43
+The asymmetric band structure and electrical behavior of the GdScO3/GaN system|42
+Dynamics of electric charge transport and determination of the percolation insulator-to-metal transition in polyvinyl-pyrrolidone/nano-graphene platelet composites|24
+High-Capacity and Ultrafast Na-Ion Storage of a Self-Supported 3D Porous Antimony Persulfide–Graphene Foam Architecture|11
+Exciton-phonon interaction in the strong-coupling regime in hexagonal boron nitride|83
+Microbiology: Diversity breeds tolerance|40
+Liquid crystalline phases from polymer functionalized ferri-magnetic Fe3O4 nanorods|75
+Investigation of Excited-State Photophysical Properties of Water-Soluble Gallium Corrole|46
+Holographic Imaging Reveals the Mechanism of Wall Entrapment in Swimming Bacteria|68
+Quasi-universality in mixed salt-free counterion systems|8
+<i>Colloquium</i>: Geometry and optimal packing of twisted columns and filaments|93
+Extended spin model in atomistic simulations of alloys|40
+Optical coupling between atomically thin black phosphorus and a two dimensional photonic crystal nanocavity|32
+Feedback-controlled heat transport in quantum devices: theory and solid-state experimental proposal|2
+Vibrational optical activity as probe for intermolecular interactions|45
+Oxygen Sensing with Perfluorocarbon-Loaded Ultraporous Mesostructured Silica Nanoparticles|37
+Deep Inelastic Scattering on Ultracold Gases|52
+Electrode distance regulates the anodic growth of titanium dioxide (TiO 2 ) nanotubes|16
+Large anisotropic spin relaxation time of exciton bound to donor states in triple quantum wells|50
+Wide Bandgap Copolymers Based on Quinoxalino[6,5-f].quinoxaline for Highly Efficient Nonfullerene Polymer Solar Cells|10
+Thermally Stable MAPbI3 Perovskite Solar Cells with Efficiency of 19.19% and Area over 1 cm2 achieved by Additive Engineering|17
+Nanoscale capillary freezing of ionic liquids confined between metallic interfaces and the role of electronic screening|11
+Quantum error correction for quantum memories|95
+Separation of inverse spin Hall effect and anomalous Nernst effect in ferromagnetic metals|21
+Quantum memories at finite temperature|24
+Cool white, persistent room-temperature phosphorescence in carbon dots embedded in a silica gel matrix|23
+Random-matrix theory of Majorana fermions and topological superconductors|79
+Cavity-based quantum networks with single atoms and optical photons|68
+Instantaneous pH-Boosted Functionalization of Stellate Gold Nanoparticles for Intracellular Imaging of miRNA|3
+Nanotube mystery|2
+Very Stable Lithium Metal Stripping–Plating at a High Rate and High Areal Capacity in Fluoroethylene Carbonate-Based Organic Electrolyte Solution|24
+Magnetic and transport properties of a layered compound Ce 2 Te 5|7
+Publisher's Note: Odd-parity superconductors with two-component order parameters: Nematic and chiral, full gap, and Majorana node [Phys. Rev. B <b>94</b>, 180504(R) (2016)]|74
+Contribution of Charges in Polyvinyl Alcohol Networks to Marine Antifouling|30
+Macroscopic Two-Dimensional Polariton Condensates|28
+HSP105 prevents depression-like behavior by increasing hippocampal brain-derived neurotrophic factor levels in mice|5
+The Contributions of Molecular Vibrations and Higher Triplet Levels to the Intersystem Crossing Mechanism in Metal-Free Organic Emitters.|84
+Solution-Processed Organic and Halide Perovskite Transistors on Hydrophobic Surfaces|14
+Ultrasmall Magnetic CuFeSe2 Ternary Nanocrystals for Multimodal Imaging Guided Photothermal Therapy of Cancer|21
+Volatile alcohols-responsive visual sensors based on P(HEMA-co-MA)-infiltrated SiO2 inverse opal photonic crystals|89
+Heavy Weyl Fermion State in CeRu_{4} Sn_{6}|48
+X-ray Diffraction for Materials Research: From Fundamentals to Applications.  By Myeongkyu Lee. CRC Press, 2016. Hardback, pp. 302. Price GBP 99. ISBN 9781771882989.|10
+X-ray Emission Spectroscopy of Biomimetic Mn Coordination Complexes|9
+Lithium Ion Breathable Electrodes with 3D Hierarchical Architecture for Ultrastable and High-Capacity Lithium Storage|12
+Solvent-Free Self-Assembly to the Synthesis of Nitrogen-Doped Ordered Mesoporous Polymers for Highly Selective Capture and Conversion of CO2|50
+Ultrathin High Surface Area Nickel Boride (NixB) Nanosheets as Highly Efficient Electrocatalyst for Oxygen Evolution|58
+Switching by Domain-Wall Automotion in Asymmetric Ferromagnetic Rings|53
+Publisher's Note: First-order density-wave-like transitions in surface-doped Na_{2} IrO_{3} [Phys. Rev. B <b>94</b>, 041109(R) (2016)]|10
+Convergence behavior of the random phase approximation renormalized correlation energy|79
+Solution-Processed Monolayer Organic Crystals for High-Performance Field-Effect Transistors and Ultrasensitive Gas Sensors|2
+Trials of embryonic stem cells to launch in China|6
+Exact Critical Exponents for the Antiferromagnetic Quantum Critical Metal in Two Dimensions|26
+Precise Patterning of Organic Single Crystals via Capillary-Assisted Alternating-Electric Field|47
+Controlling the growth of multiple ordered heteromolecular phases by utilizing intermolecular repulsion|10
+Antifibrinogen, Antireflective, Antifogging Surfaces with Biocompatible Nano-Ordered Hierarchical Texture Fabricated by Layer-by-Layer Self-Assembly|12
+Coulomb correlations in 4d and 5d oxides from first principles—or how spin–orbit materials choose their effective orbital degeneracies|10
+A novel luminescence probe based on layered double hydroxides loaded with quantum dots for simultaneous detection of heavy metal ions in water|50
+Recognition of exchange striction as the origin of magnetoelectric coupling in multiferroics|5
+Sap flow and sugar transport in plants|33
+Obituary: Mildred S. Dresselhaus (1930–2017)|8
+Understanding the Photochemical Response of Zeolitic Imidazolate Framework-8 in the Sight of Framework, Uncoordinated 2-Methylimidazole and ZnxOy Clusters|60
+“Quantized” Doping of Individual Colloidal Nanocrystals Using Size-Focused Metal Quantum Clusters|61
+Thermoelectric Materials: Multi-Scale Microstructural Thermoelectric Materials: Transport Behavior, Non-Equilibrium Preparation, and Applications (Adv. Mater. 20/2017)|68
+Exploring High-Performance n-Type Thermoelectric Composites Using Amino-Substituted Rylene Dimides and Carbon Nanotubes|47
+Cobalt-porphine catalyzed CO2 electro-reduction: a novel protonation mechanism|51
+Effects of an Integrated Separator/Electrode Assembly on Enhanced Thermal Stability and Rate Capability of Lithium-Ion Batteries|5
+Reduced Interface-Mediated Recombination for High Open-Circuit Voltages in CH3NH3PbI3 Solar Cells|16
+Scanning tunneling potentiometry, charge transport, and Landauer's resistivity dipole from the quantum to the classical transport regime|50
+Tiny changes in local order identify the cluster formation threshold in model fluids with competing interactions|10
+Templated Sub-100-nm-Thick Double-Gyroid Structure from Si-Containing Block Copolymer Thin Films|68
+Multicomponent Gas Storage in Organic Cage Molecules|10
+Multiphoton-Excited Fluorescence of Silicon-Vacancy Color Centers in Diamond|18
+Successive magnetic phase transitions and magnetocaloric effect in the MnNiFeGe alloy|37
+Nonreciprocal quantum Hall devices with driven edge magnetoplasmons in two-dimensional materials|82
+Effects of electron confinement on the acoustoelectric current in suspended quantum point contacts|29
+The sunflower genome provides insights into oil metabolism, flowering and Asterid evolution|52
+Fingerprints of a Bosonic Symmetry-Protected Topological State in a Quantum Point Contact|33
+Self-Expansion Construction of Ultralight Carbon Nanotube Aerogels with a 3D and Hierarchical Cellular Structure|17
+Control of Synchronization Regimes in Networks of Mobile Interacting Agents|27
+Density of Nanometrically Thin Amorphous Films Varies by Thickness|14
+Interlayer coupling and electronic structure of misfit-layered bismuth-based cobaltites|54
+Supernovae: Memories of a dying star|12
+Resilience offers escape from trapped thinking on poverty alleviation|74
+Poking Holes and Cutting Corners to Achieve Clifford Gates with the Surface Code|6
+Strong Improvement of Long-Term Chemical and Thermal Stability of Plasmonic Silver Nanoantennas and Films|19
+Deep-Blue Phosphorescent Ir(III) Complexes with Light-Harvesting Functional Moieties for Efficient Blue and White PhOLEDs in Solution-Process|38
+Erratum: Anatomy of Dzyaloshinskii-Moriya Interaction at Co/Pt Interfaces [Phys. Rev. Lett. <b>115</b>, 267210 (2015)]|52
+The timetable of evolution|42
+Magnetic properties of the triangular lattice magnets A_{4} B^{′} B_{2} O_{12} (A=Ba, Sr, La; B^{′} =Co, Ni, Mn; B=W, Re)|90
+Single-molecule electrometry|21
+Quantitative Solid-State NMR Study on Ligand–Surface Interaction in Cysteine-Capped CdSe Magic-Sized Clusters|14
+The Impact of Sequential Fluorination of π-Conjugated Polymers on Charge Generation in All-Polymer Solar Cells|14
+Adsorption Energy Optimization of Co3O4 through Rapid Surface Sulfurization for Efficient Counter Electrode in Dye-Sensitized Solar Cells|1
+Long-Lived Hot Carriers in Formamidinium Lead Iodide Nanocrystals|47
+Directed assembly of bio-inspired hierarchical materials with controlled nanofibrillar architectures|19
+Local Structure and Short-Range Order in a NiCoCr Solid Solution Alloy|65
+Trump budget would slash science programmes across government|10
+Hydrogen Addition for Centimeter-Sized Monolayer Tungsten Disulfide Continuous Films by Ambient Pressure Chemical Vapor Deposition|38
+Quantum Correlations between Single Telecom Photons and a Multimode On-Demand Solid-State Quantum Memory|5
+3D-Printed Beam Splitter for Polar Neutral Molecules|34
+Linear and Nonlinear Optical Properties of Silver-Coated Gold Nanorods|43
+Well-Defined 2D Covalent Organic Polymers for Energy Electrocatalysis|25
+Reply to “Comment on ‘Penetration of Action Potentials During Collision in the Median and Lateral Giant Axons of Invertebrates”’|25
+Tunable magnetism of 3d transition metal doped BiFeO3|43
+UROPA: a tool for Universal RObust Peak Annotation|5
+Photoconductivity induced by nanoparticle segregated grain-boundary in spark plasma sintered BiFeO3|2
+Publisher’s Note: Redundant Interdependencies Boost the Robustness of Multiplex Networks [Phys. Rev. X <b>7</b>, 011013 (2017)]|58
+Investigation on the Formation Mechanism of Hollow Spheres Prepared by Pulsed Laser Selective Heating Colloidal Nanoparticles in Solution|38
+Nanogenerators: An emerging technology towards nanoenergy|7
+Highly Improved Ion Diffusion through Mesoscopically Ordered Porous Photoelectrodes|40
+Large-Scale Suspended Graphene Used as a Transparent Substrate for Infrared Spectroscopy|51
+Thin-Wall GaN/InAlN Multiple Quantum Well Tubes|76
+Understanding nanoparticle porosity via nanoimpacts and XPS: electro-oxidation of platinum nanoparticle aggregates|67
+Additive Classical Capacity of Quantum Channels Assisted by Noisy Entanglement|62
+Raman Radial Mode Revealed from Curved Graphene|7
+Taxonomy anarchy hampers conservation|12
+Boosting the Cycle Life of Li–O2 Batteries at Elevated Temperature by Employing a Hybrid Polymer–Ceramic Solid Electrolyte|17
+Spatiotemporal Evolution of Coherent Elastic Strain Waves in a Single MoS2 Flake|38
+Shape and Symmetry Determine Two-Dimensional Melting Transitions of Hard Regular Polygons|35
+Cheap but accurate calculation of chemical reaction rate constants from ab initio data, via system-specific, black-box force fields|1
+Singlet Fission: Progress and Prospects in Solar Cells|83
+55 Mn NMR observation of colossal magnetoresistance effect in Sm 0.55 Sr 0.45 MnO 3|9
+Erratum: “Magnetic and charge ordering in nanosized manganites” [Appl. Phys. Rev. 1, 031302 (2014)]|10
+Addition of Lithium 8-Quinolate into Polyethylenimine Electron-Injection Layer in OLEDs: Not Only Reducing Driving Voltage but Also Improving Device Lifetime|25
+Capillary-Induced Ge Uniformly Distributed in N-Doped Carbon Nanotubes with Enhanced Li-Storage Performance|12
+Comparison of magnetic properties of nanopowders of carbon-doped and pure ZnO prepared by pulsed electron beam evaporation|19
+Expanded Quantum Dot-Based Concentric Förster Resonance Energy Transfer: Adding and Characterizing Energy-Transfer Pathways for Triply Multiplexed Biosensing|72
+Carbon nanotube entangled Mn 3 O 4 octahedron as anode materials for lithium-ion batteries|17
+N-Doped Bi2O2CO3/Graphene Quantum Dot Composite Photocatalyst: Enhanced Visible-Light Photocatalytic NO Oxidation and In Situ DRIFTS Studies|69
+Erratum: Bright Solitonic Matter-Wave Interferometer [Phys. Rev. Lett. <b>113</b>, 013002 (2014)]|40
+Facile Approach to Preparing a Vanadium Oxide Hydrate Layer as a Hole-Transport Layer for High-Performance Polymer Solar Cells|68
+Interface matching and intermixing of thin MgO barriers and ferromagnetic layers deposited on GaAs (001)|47
+Tuning the Effective Anisotropy in a Voltage-Susceptible Exchange-Bias Heterosystem|86
+Investigation of thermodynamic properties of Cu(NH3)4SO4·H2O, a Heisenberg spin chain compound|49
+Enhancing the Durability and Carrier Selectivity of Perovskite Solar Cells Using a Blend Interlayer|13
+Erratum: Self-Sustained Irregular Activity in an Ensemble of Neural Oscillators [Phys. Rev. X <b>6</b>, 011015 (2016)]|13
+Tetrel, pnictogen and chalcogen bonds identified in the gas phase before they had names: a systematic look at non-covalent interactions|41
+Pair-checkerboard antiferromagnetic order in β−Fe_{4} Se_{5} with sqrt[5] × sqrt[5] -ordered Fe vacancies|29
+Organic–Inorganic Hybrid Perovskite Nanowire Laser Arrays|25
+Magnetic proximity effect in graphene coupled to a BiFeO_{3} nanoplate|57
+Enhanced Resolution in Nanoscale NMR via Quantum Sensing with Pulses of Finite Duration|17
+Understanding Mott-Schottky Measurements under Illumination in Organic Bulk Heterojunction Solar Cells|79
+Experimental Realization of a Dirac Monopole through the Decay of an Isolated Monopole|10
+Mechanical Characterization of Impact-Induced Dynamically Recrystallized Nanophase|46
+Fluorinated End-Groups in Electrolytes Induce Ordered Electrolyte/Anode Interface Even at Open-Circuit Potential as Revealed by Sum Frequency Generation Vibrational Spectroscopy|41
+Enhanced conductivity of sodium versus lithium salts measured by impedance spectroscopy. Sodium cobaltacarboranes as electrolytes of choice|22
+In Situ Observation of Twin Boundary Sliding in Single Crystalline Cu Nanowires|57
+Electron-phonon interactions from first principles|13
+Superconducting Ferromagnetic Nanodiamond|35
+Long-Range Lattice Engineering of MoTe2 by a 2D Electride|46
+Machine learning: New tool in the box|10
+WIPI3 and WIPI4 β-propellers are scaffolds for LKB1-AMPK-TSC signalling circuits in the control of autophagy|2
+Room-Temperature Dielectric Switchable Nanocomposites|15
+Tuning Up or Down the Critical Thickness in LaAlO3/SrTiO3 through In Situ Deposition of Metal Overlayers|35
+Quantified Binding Scale of Competing Ligands at the Surface of Gold Nanoparticles: The Role of Entropy and Intermolecular Forces|78
+Odd-even effect in two dimensions induced by the bicomponent blends of isobutenyl compounds|72
+Large-Amplitude Fourier-Transformed AC Voltammetric Study of the Capacitive Electrochemical Behavior of the 1-Butyl-3-methylimidazolium Tetrafluoroborate–Polycrystalline Gold Electrode Interface|71
+Structural Insights into the Lithium Amide-Imide Solid Solution|53
+Calculation of spin states of photoelectrons emitted from spin-polarized surface states of Bi(111) surfaces with a mirror symmetry|68
+On the outside looking in: rethinking the molecular mechanism of 1,3-dipolar cycloadditions from the perspective of bonding evolution theory. The reaction between cyclic nitrones and ethyl acrylate|31
+Direct Observation of Coordinatively Unsaturated Sites on the Surface of a Fluoride-Doped Alumina Catalyst|66
+Rapid gel-to-sol transition triggered by a photoacid generator under low-power light|19
+Effect of Temperature on Magnetic Solitons Induced by Spin-Transfer Torque|2
+Quantum Nonlinear Optics with a Germanium-Vacancy Color Center in a Nanoscale Diamond Waveguide|6
+Argininosuccinate synthase 1 is an intrinsic Akt repressor transactivated by p53|32
+Bimetallic Nickel-Substituted Cobalt-Borate Nanowire Array: An Earth-Abundant Water Oxidation Electrocatalyst with Superior Activity and Durability at Near Neutral pH|52
+Nobel Lecture: Single molecules, cells, and super-resolution optics|72
+In Situ Monitoring of Gravimetric and Viscoelastic Changes in 2D Intercalation Electrodes|11
+Epidemic processes in complex networks|80
+Self-assembled micro-organogels for 3D printing silicone structures|57
+Comment on “Penetration of Action Potentials During Collision in the Median and Lateral Giant Axons of Invertebrates”|24
+Dynamics of non-Markovian open quantum systems|18
+High-Harmonic Generation Enhanced by Dynamical Electron Correlation|79
+Large Spin Splitting and Interfacial States in a Bi/BaTiO_{3} (001) Rashba Ferroelectric Heterostructure|55
+Effect of washing process on the magnetic properties of Nd-Fe-B nanoparticles prepared by reduction-diffusion method|47
+Unzipping and shearing DNA with electrophoresed nanoparticles in hydrogels|78
+Energy band offsets of dielectrics on InGaZnO4|5
+Low-Temperature Carbon Coating of Nanosized Li1.015Al0.06Mn1.925O4 and High-Density Electrode for High-Power Li-Ion Batteries|59
+Implementing Boolean Functions in Hybrid Digital-Analog Systems|58
+Transient superconductivity from electronic squeezing of optically pumped phonons|23
+Rediscovering Cr2O72–, an Oxidant with Unrivaled Power and Energy Density, for Affordable, Next-Generation Energy Storage and Conversion|6
+Human Asthmatic Bronchial Cells Are More Susceptible to Subchronic Repeated Exposures of Aerosolized Carbon Nanotubes At Occupationally Relevant Doses Than Healthy Cells|26
+Resonant Light Guiding Along a Chain of Silicon Nanoparticles|70
+Oxygen Vacancies Evoked Blue TiO2(B) Nanobelts with Efficiency Enhancement in Sodium Storage Behaviors|30
+Conjugated-Polymer Blends for Organic Photovoltaics: Rational Control of Vertical Stratification for High Performance|76
+Palladium Nanoparticles Supported on Ce-Metal–Organic Framework for Efficient CO Oxidation and Low-Temperature CO2 Capture|9
+An Advanced Separator for Li–O2 Batteries: Maximizing the Effect of Redox Mediators|33
+It figures|1
+Harnessing Phosphato-Platinum Bonding Induced Supramolecular Assembly for Systemic Cisplatin Delivery|56
+Interplay Of Stereochemistry, Conformational Rigidity, And Ease Of Synthesis For 13-Membered Cyclic Peptidomimetics Containing APC Residues|1
+Dynamic susceptibility of concentric permalloy rings with opposite chirality           vortices|13
+Monolithic Photoassisted Water Splitting Device Using Anodized Ni-Fe Oxygen Evolution Catalytic Substrate|13
+Doping-Free Asymmetrical Silicon Heterocontact Achieved by Integrating Conjugated Molecules for High Efficient Solar Cell|2
+Surface chemistry: Giving catalysts a hand|2
+Cyclical nursing patterns in wild orangutans|34
+The Nature of Electron Mobility in Hybrid Perovskite CH3NH3PbI3|27
+Experimental tests of particle flow calorimetry|62
+Molecular organization in the twist-bend nematic phase by resonant X-ray scattering at the Se K-edge and by SAXS, WAXS and GIXRD|84
+Theoretical investigations into the charge transfer properties of thiophene [small alpha]-substituted naphthodithiophene diimides: excellent n-channel and ambipolar organic semiconductors|96
+Fully Stretchable Optoelectronic Sensors Based on Colloidal Quantum Dots for Sensing Photoplethysmographic Signals|17
+Pinning effects on self-heating and flux-flow instability in superconducting films near T_{c}|99
+Infrared dielectric functions, phonon modes, and free-charge carrier properties of high-Al-content AlxGa1−xN alloys determined by mid infrared spectroscopic ellipsometry and optical Hall effect|48
+Wavelength-Dependent Ultrafast Charge Carrier Separation in the WO3/BiVO4 Coupled System|18
+Josephson Radiation from Gapless Andreev Bound States in HgTe-Based Topological Junctions|27
+Convex polyhedra with minimum and maximum names|8
+Gold mesoflowers with a high density of multilevel long sharp tips: synthesis and characterization|58
+Edge-2-transitive trinodal polyhedra and 2-periodic tilings|3
+Transition-Metal (Fe, Co, Ni) Based Metal-Organic Frameworks for Electrochemical Energy Storage|28
+Melt-Quenched Hybrid Glasses from Metal–Organic Frameworks|84
+Quantum Mechanics: Indefinite causality|7
+Plasmon field enhancement oscillations induced by strain-mediated coupling between a quantum dot and mechanical oscillator|9
+Jain-2/5 parent Hamiltonian: Structure of zero modes, dominance patterns, and zero mode generators|7
+P dopants induced ferromagnetism in g-C3N4 nanosheets: Experiments and calculations|16
+Simple Fermionic Model of Deconfined Phases and Phase Transitions|98
+Lattice tests of beyond standard model dynamics|65
+Correction to Imaging the Long Transport Lengths of Photo-generated Carriers in Oriented Perovskite Films|80
+Extended Kitaev chain with longer-range hopping and pairing|48
+Hard x-ray photoemission study of Yb 1− x Zr x B 12 : the effects of electron doping on the Kondo insulator YbB 12|8
+A calibration method for the higher modes of a micro-mechanical cantilever|28
+Non-Abelian Majorana Modes Protected by an Emergent Second Chern Number|70
+Multifunctional Core@Shell Magnetic Nanoprobes for Enhancing Targeted Magnetic Resonance Imaging and Fluorescent Labeling in Vitro and in Vivo|21
+A hybrid simulation technique for electrothermal studies of two-dimensional GaN-on-SiC high electron mobility transistors|24
+Transmissive Ultrathin Pancharatnam-Berry Metasurfaces with nearly 100% Efficiency|33
+Voltage-Impulse-Induced Nonvolatile Control of Inductance in Tunable Magnetoelectric Inductors|49
+Erratum: Molecular Dynamics Simulation of Thermal Transport in UO_{2} Containing Uranium, Oxygen, and Fission-Product Defects [Phys. Rev. Applied <b>6</b>, 044015 (2016)]|28
+Imaging Magnetization Structure and Dynamics in Ultrathin Y_{3} Fe_{5} O_{12} /Pt Bilayers with High Sensitivity Using the Time-Resolved Longitudinal Spin Seebeck Effect|61
+Isotopic evidence of multiple controls on atmospheric oxidants over climate transitions|48
+Geometrical contributions to the exchange constants: Free electrons with spin-orbit interaction|96
+Efficiency of Spin-Transfer-Torque Switching and Thermal-Stability Factor in a Spin-Valve Nanopillar with First- and Second-Order Uniaxial Magnetic Anisotropies|59
+Magnetoelectric excitations in multiferroic Ni_{3} TeO_{6}|43
+Pairwise entanglement and the Mott transition for correlated electrons in nanochains|4
+Multiple-Star System Adaptive Vortex Coronagraphy Using a Liquid Crystal Light Valve|94
+Iron particle and anisotropic effects on mechanical properties of magneto-sensitive elastomers|16
+Silicon Composite Electrodes with Dynamic Ionic Bonding|40
+In Situ Engineering Toward Core Regions: A Smart Way to Make Applicable FeF3@Carbon Nanoreactor Cathodes for Li-Ion Batteries|63
+Thermal assisted reset modelling in nickel oxide based unipolar resistive switching memory|27
+Equations of state for supernovae and compact stars|9
+The physics of epigenetics|52
+Critical Properties of the Many-Body Localization Transition|23
+Efficient Co-Nanocrystal-Based Catalyst for Hydrogen Generation from Borohydride|20
+Ferroelectrics: Learn the hard way|6
+Mechanism of Na-Ion Storage in Hard Carbon Anodes Revealed by Heteroatom Doping|6
+Testing General Relativity with Stellar Orbits around the Supermassive Black Hole in Our Galactic Center|43
+Preservation of Surface Conductivity and Dielectric Loss Tangent in Large-Scale, Encapsulated Epitaxial Graphene Measured by Noncontact Microwave Cavity Perturbations|40
+Carbon Nanotubes in Thin-Film Solar Cells|75
+Physics considerations in targeted anticancer drug delivery by magnetoelectric nanoparticles|1
+Spinodal nanodecomposition in semiconductors doped with transition metals|69
+Angle-Selective Reflective Filters for Exclusion of Background Thermal Emission|44
+High-Energy-Density Dielectric Polymer Nanocomposites with Trilayered Architecture|71
+Flexible Multiferroic Bulk Heterojunction with Giant Magnetoelectric Coupling via van der Waals Epitaxy|6
+50 & 100 Years Ago|38
+Solution plasma synthesis of a boron-carbon-nitrogen catalyst with a controllable bond structure|13
+Lithium Batteries with Nearly Maximum Metal Storage|39
+Electronic structure, magnetism and thermoelectricity in layered perovskites: Sr2SnMnO6 and Sr2SnFeO6|22
+Microstructure degradation of Ni/CGO anodes for solid oxide fuel cells after long operation time using 3D reconstructions by FIB tomography|69
+High-Efficiency Perovskite Quantum-Dot Light-Emitting Devices by Effective Washing Process and Interfacial Energy Level Alignment|67
+First principles study on Fe based ferromagnetic quaternary Heusler alloys|4
+<i>Colloquium</i>: Persistent spin textures in semiconductor nanostructures|19
+Emergent Dirac fermions and broken symmetries in confined and deconfined phases of Z2 gauge theories|24
+Correction to Formation and Dynamics of Electron-Irradiation-Induced Defects in Hexagonal Boron Nitride at Elevated Temperatures|23
+Nd2Fe14C-based magnet with better permanent magnetic properties prepared by a simple mechanochemical method|29
+Solid-State Source of Nonclassical Photon Pairs with Embedded Multimode Quantum Memory|50
+Absolutely Maximally Entangled States of Seven Qubits Do Not Exist|87
+Cavity Carving of Atomic Bell States|18
+Molecular Understanding of Fullerene – Electron Donor Interactions in Organic Solar Cells|73
+Facile Access to Twisted Intramolecular Charge-Transfer Fluorogens Bearing Highly Pretwisted Donor–Acceptor Systems Together with Readily Fine-Tuned Charge-Transfer Characters|82
+Bioelectronic Devices: Cell Generator: A Self-Sustaining Biohybrid System Based on Energy Harvesting from Engineered Cardiac Microtissues (Adv. Funct. Mater. 20/2017)|73
+Fully Biodegradable Microsupercapacitor for Power Storage in Transient Electronics|8
+Bose-Einstein condensation of triplons in the S=1 tetramer antiferromagnet K_{2} Ni_{2} (MoO_{4} )_{3} : A compound close to a quantum critical point|32
+Comment on “Linear Scaling of the Exciton Binding Energy versus the Band Gap of Two-Dimensional Materials”|99
+Thermal Transport in Supported Graphene: Substrate Effects on Collective Excitations|71
+Scaling Limits of Graphene Nanoelectrodes|57
+Increasing the revenue from lignocellulosic biomass: Maximizing feedstock utilization|33
+Experimental Demonstration of Localized Plasmonic Structured Illumination Microscopy|71
+Luminescence Properties and Energy Transfer of YGa1.5Al1.5 (BO3)4: Tb3+,Eu3+ as a Multi-colour Emitting Phosphor for WLEDs|3
+Acquired IFNγ resistance impairs anti-tumor immunity and gives rise to T-cell-resistant melanoma lesions|3
+Functionalization of graphene quantum dots by fluorine: Preparation, properties, application, and their mechanisms|7
+Tunable pseudogaps due to nonlocal coherent transport in voltage-biased three-terminal Josephson junctions|69
+Pinhole-Free Hybrid Perovskite Film with Arbitrarily-Shaped Micro-Patterns for Functional Optoelectronic Devices|73
+Entangled Dynamics in Macroscopic Quantum Tunneling of Bose-Einstein Condensates|42
+Core–Shell and Layer-by-Layer Assembly of 3D DNA Crystals|25
+Dynamical Defects in Rotating Magnetic Skyrmion Lattices|71
+Ultralow dielectric, fluoride-containing cyanate ester resins with improved mechanical properties and high thermal and dimensional stabilities|26
+Asymmetric silver-catalysed intermolecular bromotrifluoromethoxylation of alkenes with a new trifluoromethoxylation reagent|10
+The microstructure and micromechanics of the tendon–bone insertion|16
+Stacked Gold Nanodisks for Bimodal Photoacoustic and Optical Coherence Imaging|11
+Single array of magnetic vortex disks uses in-plane anisotropy to create different logic gates|3
+Laser-Controlled Torsions: Four-Dimensional Theory and the Validity of Reduced Dimensionality Models|89
+XMCD and XMCD-PEEM Studies on Magnetic-Field-Assisted Self-Assembled 1D Nanochains of Spherical Ferrite Particles|9
+Metal-insulator transition tuned by magnetic field in Bi1.7V8O16 hollandite|43
+Van der Waals engineering of ferromagnetic semiconductor heterostructures for spin and valleytronics|6
+Synthesis of Aminofuran-Linked Benzimidazoles and Cyanopyrrole-Fused Benzimidazoles by Condition-Based Skeletal Divergence|7
+Doping-driven structural distortion in the bilayer iridate (Sr_{1−x} La_{x} )_{3} Ir_{2} O_{7}|18
+<i>Colloquium</i>: Theory of intertwined orders in high temperature superconductors|91
+Strong ferroelectric polarization of CH3NH3GeI3 with high-absorption and mobility transport anisotropy: theoretical study|97
+Scalable and Solid-State Redox Functionalization of Transparent Single-Walled Carbon Nanotube Films for Highly Efficient and Stable Solar Cells|47
+Crystallization: Brought to the surface|11
+Carbon Nanotubes in Perovskite Solar Cells|80
+Subfemtosecond Control of Molecular Fragmentation by Hard X-Ray Photons|24
+Carbon-MEMS-Based Alternating Stacked MoS2@rGO-CNT Micro-Supercapacitor with High Capacitance and Energy Density|8
+Membrane Fission: Crowd control|8
+Enhanced electromagnetic interference shielding behavior of graphene nanoplatelet/Ni/Wax nanocomposites|99
+Robust and Stable Delay Interferometers with Application to d-Dimensional Time-Frequency Quantum Key Distribution|54
+Global increase in replication fork speed during a p57KIP2-regulated erythroid cell fate switch|17
+Viscosity of Freeze-Concentrated Solution Confined in Micro/Nanospace Surrounded by Ice|21
+Phase Transitions in Definite Total Spin States of Two-Component Fermi Gases|60
+Symmetry-breaking charge transfer in the excited state of directly linked push-pull porphyrin arrays|95
+Bimetal-Organic-Framework Derivation of Ball-Cactus-Like Ni-Sn-P@C-CNT as Long-Cycle Anode for Lithium Ion Battery|30
+Crystal symmetry lowering in chiral multiferroic Ba_{3} TaFe_{3} Si_{2} O_{14} observed by x-ray magnetic scattering|13
+Composites of Bacterial Cellulose and Small Molecule-Decorated Gold Nanoparticles for Treating Gram-Negative Bacteria-Infected Wounds|26
+Gamma Decay of Unbound Neutron-Hole States in ^{133} Sn|88
+Study of Potential Change, Charge Distribution, Voltage Drop, Band Lineup, and Transmission Spectrum of Molecular Break Junction Under Low Bias|7
+Retrieving the Ultrasmall-Angle X-Ray Scattering Signal with Polychromatic Radiation in Speckle-Tracking and Beam-Tracking Phase-Contrast Imaging|75
+Molecular Insights on the CH4/CO2 Separation in Nanoporous Graphene and Graphene Oxide Separation Platforms: Adsorbents versus Membranes|16
+Sp2 clustering-induced improvement of resistive switching uniformity in Cu/amorphous carbon/Pt electrochemical metallization memory|78
+Exchange-biased SiO2/Co/CoO granular multilayers deposited by sequential sputtering|36
+Efficient Quantum Pseudorandomness with Nearly Time-Independent Hamiltonian Dynamics|32
+Implementation of Single-Walled Carbon Nanohorns into Solar Cell Schemes|68
+Dimensionality effects on magnetic properties of FexCo1-x nanoclusters on Pt(111)|30
+Role of Nonradiative Defects and Environmental Oxygen on Exciton Recombination Processes in CsPbBr3 Perovskite Nanocrystals|53
+Emergent Hydrodynamics in Integrable Quantum Systems Out of Equilibrium|83
+Thermodynamic considerations on interfacial reactivity concerning carrier transport characteristics in metal/p-Zn3P2 junctions|9
+Controlling the excited-state energy levels of 9,9[prime or minute]-bifluorenylidene derivatives by twisting their structure to attaining singlet fission character in organic photovoltaics|55
+Reaction and Capacity-Fading Mechanisms of Tin Nanoparticles in Potassium-Ion Batteries|3
+Hydrothermal Synthesis of Monolithic Co3Se4 Nanowire Electrodes for Oxygen Evolution and Overall Water Splitting with High Efficiency and Extraordinary Catalytic Stability|59
+Adapting BODIPYs to singlet oxygen production on silica nanoparticles|77
+Ultrathin CoOx-modified hematite with low onset potential for solar water oxidation|32
+Reactions between hydroxyl-substituted alkylperoxy radicals and Criegee intermediates: correlations of the electronic characteristics of methyl substituents and the reactivity|49
+Surface diffusion induced shape evolution of multiple circular voids under high current density|39
+Atomically manufactured nickel?silicon quantum dots displaying robust resonant tunneling and negative differential resistance|2
+Ultrafast IR spectroscopy of photo-induced electron transfer in self-assembled donor-acceptor coordination cages|57
+Frustrated magnetism and caloric effects in Mn-based antiperovskite nitrides: <i>Ab initio</i> theory|6
+Uniqueness theorem and uniqueness of inverse problems for lossy anisotropic inhomogeneous structures with diagonal material tensors|3
+Erratum: Ultrafast optical manipulation of magnetic order [Rev. Mod. Phys. <b>82</b>, 2731 (2010)]|37
+Direct Lattice Shaking of Bose Condensates: Finite Momentum Superfluids|1
+Manipulating Adsorption–Insertion Mechanisms in Nanostructured Carbon Materials for High-Efficiency Sodium Ion Storage|49
+Data management: Stable identifiers for collection specimens|20
+Size-Responsive Phase Transition Mechanism and Upconversion/Downshifting Luminescence Property of KLu2F7:Yb3+/Er3+ Nanocrystals|100
+Coupled One-Dimensional Plasmons and Two-Dimensional Phonon Polaritons in Hybrid Silver Nanowire/Silicon Carbide Structures|78
+Hysteretic Superconducting Heat-Flux Quantum Modulator|45
+Evaporation-induced self-assembly synthesis of Ni-doped mesoporous SnO2 thin films with tunable room temperature magnetic properties|17
+Three-Dimensional Au-Coated Electrosprayed Nanostructured BODIPY Films on Aluminum Foil as Surface-Enhanced Raman Scattering Platforms and Their Catalytic Applications|71
+Synthesis and Characterization of Graphene Oxide–Polystyrene Composite Capsules with Aqueous Cargo via a Water–Oil–Water Multiple Emulsion Templating Route|26
+Hydration Structure of the Barite (001)–Water Interface: Comparison of X-ray Reflectivity with Molecular Dynamics Simulations|31
+Anionic Regulated NiFe (Oxy)Sulfide Electrocatalysts for Water Oxidation|55
+Contributions of a Higher Triplet Excited State to the Emission Properties of a Thermally Activated Delayed-Fluorescence Emitter|94
+Relaxation lifetimes of plasmonically enhanced hybrid gold-carbon nanotubes systems|8
+Room-temperature electron spin dynamics of Ce3+ ions in a YAG crystal|18
+Giant Gating Tunability of Optical Refractive Index in Transition Metal Dichalcogenide Monolayers|31
+Hollow Mesoporous Carbon Microparticles and Micromotors with Single Holes Templated by Colloidal Silica-Assisted Gas Bubbles|39
+Silver Nanoparticles with Many Sharp Apexes and Edges as Efficient Nanoresonators for Shell-Isolated Nanoparticle-Enhanced Raman Spectroscopy|44
+A twofold quantum delayed-choice experiment in a superconducting circuit|60
+Defect Activated Photoluminescence in WSe2 Monolayer|41
+Low-Voltage Photodetectors with High Responsivity Based on Solution-Processed Micrometer-Scale All-Inorganic Perovskite Nanoplatelets|48
+Which Oxide for Low-Emissivity Glasses? First-Principles Modeling of Silver Adhesion|81
+LaTiOxNy Thin Film Model Systems for Photocatalytic Water Splitting: Physicochemical Evolution of the Solid–Liquid Interface and the Role of the Crystallographic Orientation|68
+Terminal [small pi]-[small pi] stacking determines three-dimensional molecular packing and isotropic charge transport in an A-[small pi]-A electron acceptor for non-fullerene organic solar cells|62
+pH-Dependent absorption spectrum of a protein: a minimal electrostatic model of Anabaena sensory rhodopsin|93
+Wuhan University of Technology (Adv. Mater. 20/2017)|64
+Raman Spectroscopy of Lattice-Matched Graphene on Strongly Interacting Metal Surfaces|42
+Spectral statistics of random geometric graphs|6
+Edge reconstruction in fractional quantum Hall states|25
+Human Immune Protein C1q Selectively Disaggregates Carbon Nanotubes|13
+Defect Facilitated Phonon Transport through Kinks in Boron Carbide Nanowires|49
+Semiconducting Nanowire-Based Optoelectronic Fibers|44
+Controlling the Resting Membrane Potential of Cells with Conducting Polymer Microwires|15
+Water detection through Nd3+-sensitized photon upconversion in core-shell nanoarchitecture|41
+Effective method to identify and verify the Dirac-like point through finite photonic crystals with triangular lattice|11
+Diversity-Oriented Synthesis of Libraries Based on Benzofuran and 2,3-Dihydrobenzofuran Scaffolds|11
+Hierarchical 3D-ordered macro-/mesoporous organosilicas with inverse opal morphology synthesized by a combination of nanocasting and pseudomorphic transformation|93
+Coherent Two-Dimensional Terahertz Magnetic Resonance Spectroscopy of Collective Spin Waves|85
+Strained W(SexS1–x)2 Nanoporous Films for Highly Efficient Hydrogen Evolution|23
+Nanogenerator-induced synaptic plasticity and metaplasticity of bio-realistic artificial synapses|5
+Large Inverse Spin Hall Effect in Co-Pt Spin-Valve Heterostructures|60
+Astrophysics: Multi-molecular views of a stellar nursery|34
+Publisher’s Note: Hot Electrons Regain Coherence in Semiconducting Nanowires [Phys. Rev. X <b>7</b>, 021016 (2017)]|2
+Large Modulation of Charge Carrier Mobility in Doped Nanoporous Organic Transistors|49
+An Interdiffusion Method for Highly Performing Cesium/Formamidinium Double Cation Perovskites|34
+Implications of Occupational Disorder on Ion Mobility in Li4Ti5O12 Battery Materials|32
+Local Lattice Distortion Activate Metastable Metal Sulfide as Catalyst with Stable Full Discharge–Charge Capability for Li–O2 Batteries|47
+Plasma Membrane is Compartmentalized by a Self-Similar Cortical Actin Meshwork|44
+Direct Insight into Ce-Silicates/Si-Nanoclusters Snowman-Like Janus Nanoparticles Formation in Ce-Doped SiOx Thin Layers|28
+Time-dependent density-functional description of nuclear dynamics|25
+Reversible Quadruple Switching with Optical, Chiroptical, Helicity, and Macropattern in Self-Assembled Spiropyran Gels|17
+Oil spill recovery: Graphene heaters absorb faster|7
+Sublimation-assisted graphene transfer technique based on small polyaromatic hydrocarbons|3
+How and when does an anticancer drug leave its binding site?|7
+Structure–Thermodynamic-Property Relationships in Cyanovinyl-Based Microporous Polymer Networks for the Future Design of Advanced Carbon Capture Materials|11
+Symmetry and Physical Properties of Crystals.  By Cécile Malgrange, Christian Ricolleau and Michel Schlenker. Springer, 2014. Pp. xxv + 522. Price EUR 94.94, GBP 81.00, USD 119.99. ISBN 978-94-017-8992-9.|11
+Keep shouting to save science|1
+Multifunctional sustainable materials: the role of carbon existing protein in the enhanced gas and UV sensing performances of ZnO-based biofilms|91
+Temperature Variation of Magnetic Anisotropy in Pt/Co/AlO_{x} Trilayers|74
+Security of Continuous-Variable Quantum Key Distribution via a Gaussian de Finetti Reduction|93
+Controlling the Conductance of a Graphene–Molecule Nanojunction by Proton Transfer|63
+Effect of a CoFeB layer on the anisotropic magnetoresistance of Ta/CoFeB/MgO/NiFe/MgO/CoFeB/Ta films|38
+A journey from calix[4]arene to calix[6] and calix[8]arene reveals more than a matter of size. Receptor concentration affects the stability and stoichiometric nature of the complexes|89
+Optical properties of AlGaN nanowires synthesized via ion beam techniques|53
+Phonon scattering mechanisms dictating the thermal conductivity of lead zirconate titanate (PbZr1−xTixO3) thin films across the compositional phase diagram|32
+Metal–Air Batteries: Will They Be the Future Electrochemical Energy Storage Device of Choice?|15
+Magnon Accumulation by Clocked Laser Excitation as Source of Long-Range Spin Waves in Transparent Magnetic Films|28
+Achiral tilted domain walls in perpendicularly magnetized nanowires|93
+Interplay of Hydrophobic and Electrostatic Interactions between Polyoxometalates and Lipid Molecules|73
+Photonic-plasmonic hybrid single-molecule nanosensor measures the effect of fluorescent labels on DNA-protein dynamics|14
+Oxygen diffusion in ceria doped with rare-earth elements|58
+Hot Electrons Regain Coherence in Semiconducting Nanowires|20
+Designing Nanostructures for Phonon Transport via Bayesian Optimization|11
+AlN/h-BN Heterostructures for Mg Dopant-Free Deep Ultraviolet Photonics|68
+Model of Cell Crawling Controlled by Mechanosensitive Adhesion|11
+Enhanced oxygen-release/storage properties of Pd-loaded Sr3Fe2O7-[small delta]|97
+Erratum: Carrier dynamics in semiconductors studied with time-resolved terahertz spectroscopy [Rev. Mod. Phys. <b>83</b>, 543 (2011)]|7
+Antibody-mediated neutralization of soluble MIC significantly enhances CTLA4 blockade therapy|36
+Numerical and experimental study of radiation induced conductivity change of carbon nanotube filled polymers|10
+Ultra-thin metasurface microwave flat lens for broadband applications|40
+Laser effects on phase transition for cubic Sb2O3 microcrystals under high pressure|34
+Hybrid Polymer Nanoarrays with Bifunctional Conductance of Ions and Electrons and Enhanced Electrochemical Interfaces|76
+Antiferromagnetic order and spin dynamics in iron-based superconductors|83
+Observation of a Dissipative Phase Transition in a One-Dimensional Circuit QED Lattice|60
+Highly responsive phototransistors based on 2,6-bis(4-methoxyphenyl)anthracene single crystal|25
+Atomic-Scale Structural and Chemical Characterization of Hexagonal Boron Nitride Layers Synthesized at the Wafer-Scale with Monolayer Thickness Control|15
+Dynamic and programmable self-assembly of micro-rafts at the air-water interface|20
+Picosecond Fresnel transmission electron microscopy|17
+A High-Performance Composite Electrode for Vanadium Redox Flow Batteries|42
+Geometric Correlations Mitigate the Extreme Vulnerability of Multiplex Networks against Targeted Attacks|47
+Monolithic InGaAs Nanowire Array Lasers on Silicon-on-Insulator Operating at Room Temperature|20
+SnO 2 @a-Si core–shell nanowires on free-standing CNT paper as a thin and flexible Li-ion battery anode with high areal capacity|5
+Elastic Vector Solitons in Soft Architected Materials|90
+In situ patterning of microgrooves via inkjet etching for a solution-processed OLED display|59
+Robust high-temperature trion emission in monolayers of Mo(S_{y} Se_{1−y} )_{2} alloys|58
+A computational study of the electronic properties, ionic conduction, and thermal expansion of Sm1-xAxCoO3 and Sm1-xAxCoO3-x/2 (A = Ba2+, Ca2+, Sr2+, and x = 0.25, 0.5) as intermediate temperature SOFC cathodes|42
+Thickness dependence of magnetization dynamics of an in-plane anisotropy ferromagnet under a crossed spin torque polarizer|48
+The exceptional sediment load of fine-grained dispersal systems: Example of the Yellow River, China|50
+Physics of Alfvén waves and energetic particles in burning plasmas|56
+<i>Colloquium</i>: Random first order transition theory concepts in biology and physics|98
+Vertical Line Nodes in the Superconducting Gap Structure of Sr_{2} RuO_{4}|41
+Isolated alkali cation complexes of the antibiotic ionophore nonactin: correlation with crystalline structures|8
+Development of an Inner Filter Effects-Based Upconversion Nanoparticles–Curcumin Nanosystem for the Sensitive Sensing of Fluoride Ion|78
+Origin of the Ultrafast Response of the Lateral Photovoltaic Effect in Amorphous MoS2/Si Junctions|82
+Synthesis, characterization and MRI application of magnetite water-soluble cubic nanoparticles|2
+A Band-Edge Potential Gradient Heterostructure to Enhance Electron Extraction Efficiency of the Electron Transport Layer in High-Performance Perovskite Solar Cells|49
+Contents: (Adv. Mater. 20/2017)|66
+Nonlinear Electrophoresis of Colloids Controlled by Anisotropic Conductivity and Permittivity of Liquid-Crystalline Electrolyte|66
+Vertical Graphene Growth on SiO Microparticles for Stable Lithium Ion Battery Anodes|71
+Hidden orbital polarization in diamond, silicon, germanium, gallium arsenide and layered materials|4
+Functionalized Graphene Enables Highly Efficient Solar Thermal Steam Generation|45
+Ultrafast Zero-Bias Photocurrent in GeS Nanosheets: Promise for Photovoltaics|9
+Ultrastretchable, transparent triboelectric nanogenerator as electronic skin for biomechanical energy harvesting and tactile sensing|8
+Rotational Symmetry Breaking in a Trigonal Superconductor Nb-doped Bi_{2} Se_{3}|67
+Metallic quantum ferromagnets|47
+Computer-Assisted Inverse Design of Inorganic Electrides|59
+Porous One-Dimensional Nanomaterials: Design, Fabrication and Applications in Electrochemical Energy Storage|70
+Multimodal Magnetic Nanoclusters for Gene Delivery, Directed Migration, and Tracking of Stem Cells|21
+Research Update: Recent progress in the development of effective dielectrics for high-output triboelectric nanogenerator|2
+Paramagnetic ionic plastic crystals containing the octamethylferrocenium cation: counteranion dependence of phase transitions and crystal structures|30
+Choi <i>et al.</i> Reply:|100
+Molecular Engineering of Conjugated Polymers for Solar Cells: An Updated Report|82
+Large conservation gains possible for global biodiversity facets|50
+Vertically Aligned Niobium Nanowire Arrays for Fast-Charging Micro-Supercapacitors|46
+Physical properties of the spin Hamiltonian on honeycomb lattice samples with Kekulé and vacuum polarization corrections|23
+Coherent Coupling of a Single Molecule to a Scanning Fabry-Perot Microcavity|21
+Luminescent Organic Semiconducting Langmuir Monolayers|45
+Quantum spin liquid states|4
+Unusual energy state evolution in Ce-based metallic glass under high pressure|37

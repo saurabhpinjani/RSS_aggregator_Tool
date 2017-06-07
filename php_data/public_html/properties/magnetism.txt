@@ -1,0 +1,50 @@
+Magnetism
+Magnetic 
+Ferromagnetism
+Ferromagnetic
+Ferromagnet
+Antiferromagnetism
+Antiferromagnet
+Antiferromagnetic
+Ferrimagnetism
+Ferrimagnetic
+Ferrimagnet
+Exchange Bias
+Frustrated magnetism
+Kondo
+Magnetic anisotropy
+Magnetic interaction
+RKKY
+Exchange
+Domain wall
+Skyrmions
+Magnetization
+Magneto-optical
+Magnetocaloric
+Magnetoelastic
+Magnetoelectric
+Magnetostriction
+Magnetoresistance
+Speromagnetism
+Speromagnet
+Spin current
+Spin polarization
+Spin relaxation
+Spintronics
+Spin caloritronics
+Spin torque
+Spin injection
+Superparamagnetism
+Supermaramagnetic
+Superparamagnet
+Half Metal
+Multiferroic
+Dzyaloshinskii-Moriya
+Magnetic dichroism
+Spin waves
+Magnon
+Kerr effect
+Farady effect
+Thermomagnetic
+Curie temperature
+Neel temperature

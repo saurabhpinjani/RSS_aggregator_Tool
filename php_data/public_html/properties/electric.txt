@@ -1,0 +1,11 @@
+Ferroelectricity
+Ferroelectric
+Antiferroelectricity
+Antiferroelectric
+Charge Density Wave
+Electrostriction
+Electrocaloric
+Piezoelectricity
+Piezoelectric
+Flexoelectricity
+Multiferroic
