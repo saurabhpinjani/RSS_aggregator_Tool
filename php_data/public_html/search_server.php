@@ -1,10 +1,57 @@
 <html>
-<body>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
 
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+li a.active {
+    color: white;
+    background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+<?php
+    session_start();
+    $user_data = $_SESSION["User_details"];
+    if(sizeof($user_data)==0){header('Location:sign_in.php');}
+    $user_name = $user_data['_source']['username'];  
+?>
 <center>
-<h2>Welcome to the cerebro. Find the article of your choice!</h2>
+<ul>
+  <li><a href="material_table.php">Materials Table</a></li>
+  <li><a class="active" href="search_server.php">Search Page</a></li>
+  <li style="float:right"><a href="sign_out.php">
+      <?php echo $user_name." (sign out)" ?>
+  </a></li>
+  <li style="float:right"><a href="userdata_properties.php">Properties</a></li>
+  <li style="float:right"><a href="userdata_compounds.php">Compounds</a></li>
+  <li style="float:right"><a href="userdata_journals.php">Journals</a></li>
+</ul>
+<br>
 <a href="index.php"><img src="cerebro.jpg" style="width:80%; height:80%;"></a> 
-<a href="material_table.php"><h2>Click here for materials table</h2></a>
 <!--<a href="magnetic_table.php"><h2>Click here for magnetic materials table</h2></a>
 
 <form action="push_server.php" method="post">
@@ -15,6 +62,7 @@ Body: <input type="text" name="body"><br>
 <input type="submit" value="PUSH !!">
 </form>
 -->
+<br>
 <form action="search_server.php" method="post">
 Search for: <input type="text" name="search_text_1">
 <br>

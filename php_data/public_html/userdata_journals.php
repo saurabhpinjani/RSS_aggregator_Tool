@@ -36,23 +36,26 @@ li a.active {
 <body>
 <?php
     session_start();
-    $user_data = $_SESSION["user_details"];
-    $user_name = $user_data['_source']['username'];
+    $user_data = $_SESSION["User_details"];
+    if(sizeof($user_data)==0){header('Location:sign_in.php');}
+    $user_name = $user_data['_source']['username'];  
 ?>
 <center>
 <ul>
-  <li><a class="active" href="userdata_journals.php">Journals</a></li>
-  <li><a href="userdata_compounds.php">Compounds</a></li>
-  <li><a href="userdata_properties.php">Properties</a></li>
-  <li style="float:right"><a href="">
-      <?php echo $user_name ?>
+  <li><a href="material_table.php">Materials Table</a></li>
+  <li><a href="search_server.php">Search Page</a></li>
+  <li style="float:right"><a href="sign_out.php">
+      <?php echo $user_name." (sign out)" ?>
   </a></li>
+  <li style="float:right"><a href="userdata_properties.php">Properties</a></li>
+  <li style="float:right"><a href="userdata_compounds.php">Compounds</a></li>
+  <li style="float:right"><a class="active" href="userdata_journals.php">Journals</a></li>
 </ul>
 
 <form action="userdata_journals.php" method="post">
 <?php 
     session_start();
-    if ($_POST["submit_name"] == "SUBMIT") {
+    if ($_POST["submit_name"] == "NEXT") {
         $submitted = 1;
     }
     else {
@@ -66,6 +69,8 @@ li a.active {
         while(!feof($myfile)) 
         {     
             $data = (string)fgets($myfile); 
+            $data = str_replace("\n", "", $data);
+            $data = strtolower($data);
             $file_data[(string)$x] = $data;
             $x = $x + 1;
         }
@@ -74,7 +79,15 @@ li a.active {
 
     $journals = fileToDictionary("journals.txt");
     $journal_choice = $_SESSION["journal_choice"]; 
-    if (sizeof($journal_choice)==0) {$journal_choice = array();}
+    if (sizeof($journal_choice)==0) {
+        if(sizeof($user_data['_source']['journals']))
+        {
+            // echo "1";
+            $journal_choice = $user_data['_source']['journals'];
+        }
+        else
+            {$journal_choice = array();}
+    }
     ////////////////////////////////////////////////////////////////////////
     //form for journal choice input
     if(!$submitted)
@@ -90,7 +103,11 @@ li a.active {
         foreach ($journals as $key => $title)     
         {
             echo '<td>';
-            echo "<input type=checkbox name=".$key.">".$title."<br>";
+            // echo "<input type=checkbox name=".$key.">".$title."<br>";
+            if(in_array($title, $journal_choice))
+                echo "<input type=checkbox name=".$key." value=".'"on"'. " checked>".$title."<br>";
+            else
+                echo "<input type=checkbox name=".$key." value=".'"on"'. ">".$title."<br>";
             echo '</td>';
             $i++;
             if($i==8) { echo "</tr> <tr>"; $i=0;};
@@ -98,7 +115,7 @@ li a.active {
         echo '</tr>';
         echo '</table>';
         echo '<br>';
-        echo "<input type=".'"submit"'." name=".'"submit_name"'." value=".'"SUBMIT"'." style=".'"height:80px; width:160px; font-size: 200%"'." >";
+        echo "<input type=".'"submit"'." name=".'"submit_name"'." value=".'"NEXT"'." style=".'"height:80px; width:160px; font-size: 200%"'." >";
         echo '</form>';
     }
     else
@@ -108,25 +125,18 @@ li a.active {
             if ($_POST[$key]=="on") {
                 // echo $value;
                 if (!in_array($value, $journal_choice))
-                {array_push($journal_choice, $value);}
-                
+                {array_push($journal_choice, $value);}    
+            }
+            else
+            {
+                if(($key = array_search($value, $journal_choice)) !== false)
+                    {unset($journal_choice[$key]);}
             }
 
         }
         $_SESSION["journal_choice"] = $journal_choice;
-        echo "submitted!!";
-        echo '<br>';
-        echo '<br>';
+        header('Location:userdata_compounds.php');
     }
-
-    echo "<h3>Your choices till now are:</h3>";
-    foreach ($journal_choice as $key => $value) {
-        echo $value;
-        echo '<br>';
-    }
-    echo '<br>';
-    echo "<a href=".'"userdata_compounds.php"'.">NEXT</a>";
-    echo '<br>';
         
 ?>
 

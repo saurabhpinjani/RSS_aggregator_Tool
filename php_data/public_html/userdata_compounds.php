@@ -37,16 +37,19 @@ li a.active {
 <center>
 <?php
     session_start();
-    $user_data = $_SESSION["user_details"];
+    $user_data = $_SESSION["User_details"];
+    if(sizeof($user_data)==0){header('Location:sign_in.php');}
     $user_name = $user_data['_source']['username'];
 ?>
 <ul>
-  <li><a href="userdata_journals.php">Journals</a></li>
-  <li><a class="active" href="userdata_compounds.php">Compounds</a></li>
-  <li><a href="userdata_properties.php">Properties</a></li>
-  <li style="float:right"><a href="">
-      <?php echo $user_name ?>
+  <li><a href="material_table.php">Materials Table</a></li>
+  <li><a href="search_server.php">Search Page</a></li>
+  <li style="float:right"><a href="sign_out.php">
+      <?php echo $user_name." (sign out)" ?>
   </a></li>
+  <li style="float:right"><a href="userdata_properties.php">Properties</a></li>
+  <li style="float:right"><a class="active" href="userdata_compounds.php">Compounds</a></li>
+  <li style="float:right"><a href="userdata_journals.php">Journals</a></li>
 </ul>
 
 
@@ -85,7 +88,13 @@ li a.active {
     // print_r($compounds);
     $compounds_choice = $_SESSION["compounds_choice"]; 
     if (sizeof($compounds_choice)==0) {
-        $compounds_choice = array();
+        if(sizeof($user_data['_source']['compounds']))
+        {
+            $compounds_choice = $user_data['_source']['compounds'];
+            // print_r($user_data['_source']['compounds']);
+        }
+        else
+            {$compounds_choice = array();}
     }
     
     echo '<br>';
@@ -110,7 +119,9 @@ li a.active {
     $_SESSION["compounds_choice"] = $compounds_choice;
     echo "<h3>Your choices till now are:</h3>";
     foreach ($compounds_choice as $key => $value) {
+        echo "'";
         echo $value;
+        echo "'";
         echo '<br>';
     }
     echo "<a href=".'"userdata_properties.php"'.">NEXT </a>";
