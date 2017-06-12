@@ -1,9 +1,9 @@
 <html>
-<body>
+<body style="background-color: #E8F0F5" > 
 
 <center>
 <h1>Cerebro</h1>
-<a href="index.php"><img src="cerebro.jpg" style="width:80%; height:80%;"></a> 
+<a href="index.php"><img src="cerebro.jpg" style="width:50%; height:50%;"></a> 
 <h2>Sign in</h2>
 
 

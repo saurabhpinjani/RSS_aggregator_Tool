@@ -23,16 +23,16 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: #DFEAF1;
 }
 
 li a.active {
     color: white;
-    background-color: #4CAF50;
+    background-color: #8796CD;
 }
 </style>
 </head>
-<body>
+<body style="background-color: #E8F0F5"> 
 <?php
     session_start();
     $user_data = $_SESSION["User_details"];
@@ -51,7 +51,7 @@ li a.active {
   <li style="float:right"><a href="userdata_journals.php">Journals</a></li>
 </ul>
 <br>
-<a href="index.php"><img src="cerebro.jpg" style="width:80%; height:80%;"></a> 
+<a href="index.php"><img src="cerebro.jpg" style="width:50%; height:50%;"></a> 
 <!--<a href="magnetic_table.php"><h2>Click here for magnetic materials table</h2></a>
 
 <form action="push_server.php" method="post">

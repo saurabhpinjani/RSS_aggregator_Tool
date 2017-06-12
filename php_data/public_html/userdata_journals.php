@@ -24,16 +24,16 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: #DFEAF1;
 }
 
 li a.active {
     color: white;
-    background-color: #4CAF50;
+    background-color: #8796CD;
 }
 </style>
 </head>
-<body>
+<body style="background-color: #E8F0F5"> 
 <?php
     session_start();
     $user_data = $_SESSION["User_details"];
@@ -78,16 +78,34 @@ li a.active {
     }
 
     $journals = fileToDictionary("journals.txt");
-    $journal_choice = $_SESSION["journal_choice"]; 
-    if (sizeof($journal_choice)==0) {
-        if(sizeof($user_data['_source']['journals']))
+
+    //journals
+    if(isset($_SESSION["journal_choice"]))
+    {
+        $journal_choice = $_SESSION["journal_choice"];
+    }
+    else
+    {
+        if (sizeof($user_data['_source']['journals'])>0) 
         {
-            // echo "1";
             $journal_choice = $user_data['_source']['journals'];
         }
         else
-            {$journal_choice = array();}
+        {
+            $journal_choice = array();
+        }
     }
+
+    // $journal_choice = $_SESSION["journal_choice"]; 
+    // if (sizeof($journal_choice)==0) {
+    //     if(sizeof($user_data['_source']['journals']))
+    //     {
+    //         // echo "1";
+    //         $journal_choice = $user_data['_source']['journals'];
+    //     }
+    //     else
+    //         {$journal_choice = array();}
+    // }
     ////////////////////////////////////////////////////////////////////////
     //form for journal choice input
     if(!$submitted)

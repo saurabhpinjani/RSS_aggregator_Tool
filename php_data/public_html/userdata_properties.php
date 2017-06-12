@@ -28,20 +28,21 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: #DFEAF1;
 }
 
 li a.active {
     color: white;
-    background-color: #4CAF50;
+    background-color: #8796CD;
 }
 </style>
 </head>
-<body>
+<body style="background-color: #E8F0F5"> 
 <center>
 <?php
     session_start();
     $user_data = $_SESSION["User_details"];
+    
     if(sizeof($user_data)==0){header('Location:sign_in.php');}
     $user_name = $user_data['_source']['username'];
 ?>
@@ -67,37 +68,55 @@ li a.active {
 
     $user_data = $_SESSION["User_details"];
 
-    $journal_choice = $_SESSION["journal_choice"]; 
-    if (sizeof($journal_choice)==0) {
-        if(sizeof($user_data['_source']['journals']))
+    //journals
+    if(isset($_SESSION["journal_choice"]))
+    {
+        $journal_choice = $_SESSION["journal_choice"];
+    }
+    else
+    {
+        if (sizeof($user_data['_source']['journals'])>0) 
         {
             $journal_choice = $user_data['_source']['journals'];
         }
         else
-            {$journal_choice = array();}
+        {
+            $journal_choice = array();
+        }
     }
 
-    $compounds_choice = $_SESSION["compounds_choice"]; 
-    if (sizeof($compounds_choice)==0) {
-        if(sizeof($user_data['_source']['compounds']))
+    if(isset($_SESSION["compounds_choice"]))
+    {
+        $compounds_choice = $_SESSION["compounds_choice"];
+    }
+    else
+    {
+        if (sizeof($user_data['_source']['compounds'])>0) 
         {
             $compounds_choice = $user_data['_source']['compounds'];
-            // print_r($user_data['_source']['compounds']);
         }
         else
-            {$compounds_choice = array();}
+        {
+            $compounds_choice = array();
+        }
     }
 
-    $property_choice  = $_SESSION["property_choice"];
-
-    if (sizeof($property_choice)==0) {
-        if(sizeof($user_data['_source']['properties']))
+    if(isset($_SESSION["property_choice"]))
+    {
+        $property_choice = $_SESSION["property_choice"];
+    }
+    else
+    {
+        if (sizeof($user_data['_source']['properties'])>0) 
         {
             $property_choice = $user_data['_source']['properties'];
         }
         else
-            {$property_choice = array();}
+        {
+            $property_choice = array();
+        }
     }
+
     if ($_POST["submit_name"] == "SUBMIT") {
         $submitted = 1;
     }
@@ -206,25 +225,16 @@ li a.active {
         
         $_SESSION['User_details'] = $user_data;
         // echo "pushing to server <br>";
+        // print_r($params);
         $result = $client->index($params);
         // echo "pushed to server <br>";
         
-
-        if ($result['_shards']['successful']) 
+        if ($result["result"] == "updated") 
         {
-            echo "<h2>Everything pushed to server</h2>";
-            echo '<br>';
-            echo '<br>';
-        }
-        else
-        {
-            echo "<h2>Cant be pushed to server</hw_Array2Objrec(object_array)>";
-            echo '<br>';
-            echo '<br>';
-        }
+            echo "<h2>Everything is pushed to server</h2>";
+        }        
         
-        
-        echo "<a href=".'"search_server.php"'.">Go to search page</a>";  
+        // echo "<a href=".'"search_server.php"'.">Go to search page</a>";  
 
     }
 ?>

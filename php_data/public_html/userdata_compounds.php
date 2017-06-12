@@ -24,16 +24,16 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: #DFEAF1;
 }
 
 li a.active {
     color: white;
-    background-color: #4CAF50;
+    background-color: #8796CD;
 }
 </style>
 </head>
-<body>
+<body style="background-color: #E8F0F5"> 
 <center>
 <?php
     session_start();
@@ -86,17 +86,50 @@ li a.active {
     //form for compounds choice
     $compounds = fileToDictionary_1("materials/compounds_found.txt");
     // print_r($compounds);
-    $compounds_choice = $_SESSION["compounds_choice"]; 
-    if (sizeof($compounds_choice)==0) {
-        if(sizeof($user_data['_source']['compounds']))
+    // $compounds_choice = $_SESSION["compounds_choice"]; 
+    // if (sizeof($compounds_choice)==0) {
+    //     if(sizeof($user_data['_source']['compounds']))
+    //     {
+    //         $compounds_choice = $user_data['_source']['compounds'];
+    //         // print_r($user_data['_source']['compounds']);
+    //     }
+    //     else
+    //         {$compounds_choice = array();}
+    // }
+
+    if(isset($_SESSION["compounds_choice"]))
+    {
+        $compounds_choice = $_SESSION["compounds_choice"];
+    }
+    else
+    {
+        if (sizeof($user_data['_source']['compounds'])>0) 
         {
             $compounds_choice = $user_data['_source']['compounds'];
-            // print_r($user_data['_source']['compounds']);
         }
         else
-            {$compounds_choice = array();}
+        {
+            $compounds_choice = array();
+        }
     }
-    
+
+    $deselected = array();
+    if ($_POST["remove"] == "remove selected") {
+        foreach ($compounds_choice as $key => $value) {
+            if ($_POST[$value]=="on") {
+                array_push($deselected, $value);
+                // echo "key= ".$key;
+                // echo '<br>';
+                // echo "value= ".$value;
+                // echo '<br>';
+            }
+        }
+        foreach ($deselected as $key => $value) {
+            if(($key_1 = array_search($value, $compounds_choice)) !== false)
+                    {unset($compounds_choice[$key_1]);}
+        }
+        sort($compounds_choice);
+    }
     echo '<br>';
     echo "Search for: <input type=".'"text"'."name=".'"search_text"'.">";
     echo '<br>';
@@ -117,16 +150,26 @@ li a.active {
         echo '<br>';
     }
     $_SESSION["compounds_choice"] = $compounds_choice;
+    echo '<form action="userdata_compounds.php" method="post">';
     echo "<h3>Your choices till now are:</h3>";
     foreach ($compounds_choice as $key => $value) {
-        echo "'";
+        echo '<input type="checkbox" name="'.$value.'" value = "on" />';
+        // echo "'";
         echo $value;
-        echo "'";
+        // echo "'";
         echo '<br>';
     }
-    echo "<a href=".'"userdata_properties.php"'.">NEXT </a>";
+    echo "<input type=".'"submit"'." name=".'"remove"'." value=".'"remove selected"'." style=".'"height:40px; width:120px;"'." >";
+    echo "</form>";
+    // echo "<a href=".'"userdata_properties.php"'.">NEXT </a>";
 ?>
-
+<br>
+<br>
+<br>
+<br>
+<form action="userdata_properties.php">
+    <input type="submit" name="next" value="NEXT" style="height: 80px;width: 160px; font-size: 200%">
+</form>
 </center>
 </body>
 </html>
