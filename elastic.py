@@ -8,6 +8,7 @@ from chemical_detect import *
 import sys
 import numpy as np
 import feedparser
+import os.path
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -102,7 +103,7 @@ def read_list_from_file(file):
 def get_material_list():
 	cwd = os.getcwd()
 	
-	return read_list_from_file(cwd+"/php_data/public_html/materials/"+'2D-List.txt')		
+	return read_list_from_file(cwd+"/php_data/public_html/materials/"+'compounds_found.txt')		
 
 def get_property_dict():
 	
@@ -132,7 +133,7 @@ def material_table_update():
 	journal_list=get_journal_list()
 	material_list =get_material_list()
 	property_dict=get_property_dict()
-	
+	print material_list;
 	for journal in journal_list:
 		count_matrix = [[[0,0] for y in range(9)] for x in range(len(material_list))]
 		res_matrix =[[[] for y in range(9)] for x in range(len(material_list))]
@@ -145,7 +146,7 @@ def material_table_update():
 				for sub_property in property_dict[property]:
 					Search_var = material + " "+ sub_property
 					res = es.search(index="rss_feed",doc_type=journal,body={"query": {"match": {"_all": {"query":Search_var,"operator":"and"} }} },size=1000)
-
+					#res = es.search(body={"query": {"match": {"_all": {"query":Seach_var.get(),"operator":"and"} }} })
 					for item in res['hits']['hits']:
 						if( int(item['_id']) not in aggr_res):
 							aggr_res.append(int(item['_id']))
@@ -156,7 +157,7 @@ def material_table_update():
 				res_matrix[i][j]=aggr_res
 				j=j+1
 			res = es.search(index="rss_feed",doc_type=journal,body={"query": {"match": {"_all": {"query":material} }} },size=1000)
-			count_matrix[i][8][0] = res['hits']['total']
+			count_matrix[i][len(property_dict)][0] = res['hits']['total']
 			
 			for item in res['hits']['hits']:
 				
@@ -193,30 +194,46 @@ def es_database_populate():
 	print 'count',count
 	aggr_feed= rss_url_read.read_feed()#rss_url_read('http://feeds.nature.com/nmat/rss/aop')
 	new_title_hash={}
-	title_hash =fill_title_hash()	
+	title_hash =fill_title_hash()
+	# if (not os.path.exists(os.getcwd()+"php_data/public_html/materials/compounds_found.txt")):
+	# 	print "LOL\n"
+	# 	os.system('touch php_data/public_html/materials/compounds_found.txt')
+	comp_file = open(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt","r")
+	
+	compounds_list=comp_file.readlines();	
+	comp_file.close()
+	comp_file = open(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt","w")
 	for entry in aggr_feed:
 		
 		title_parts= entry['title'].encode('utf-8').split("\n")
 		title_str=""
-		compounds = extractTags(entry)
+		
 		for i in title_parts:
 			title_str=title_str+i+" "
 		title_str=title_str[:-1]
 		if(title_hash.has_key(title_str )== False):
 			print 'title_str',title_str
-
+			compounds = extractTags(entry)
 			count[entry['journal']]=int(count[entry['journal']]) +1
 			new_title_hash[title_str]=count[unicode(entry['journal'],'utf-8')]
 			entry['read_yet']="brahmavishnu" # "brahmavishnu" is used to indicate false
 			entry['compounds_list']=compounds
 			journal_name =entry['journal']
 
+			
+			x = compounds.split(" ")
+			for comp in x:
+				if (not (comp in compounds_list)) and (len(comp)>3):
+					compounds_list.append(comp)
+					comp_file.write(comp+"\n")
 			entry = json.dumps(entry, default=to_json)
 			res = es.index(index="rss_feed", doc_type=journal_name, id=int(count[journal_name]), body=entry)
-	
+	comp_file.close()
 	es.index(index="rss_feed", doc_type='info', id=0, body={"count":count})
 	es.indices.refresh(index="rss_feed")
 	title_hash_file_update(new_title_hash)
+	
+	comp_file.close()
 	material_table_update()
 
 def extractTags(x):
@@ -235,21 +252,13 @@ def extractTags(x):
 		else:
 			complete = complete +"\n , " + str(value)
 
-	# print(complete)
 	compounds = saveCompounds(str(complete))
 
 	return compounds
 
 
-#get_journal_list()
 
 chemDetectInit()
 es_clear_database()
 es_database_setup()
 es_database_populate()
-#material_table_update()
-
-
-
-#for hit in res['hits']['hits']:
-#    print("%(author)s" % hit["_source"])
