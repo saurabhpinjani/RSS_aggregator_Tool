@@ -1,0 +1,19 @@
+Ductility
+Elasticity
+Elastic Modulus
+Bulk Modulus
+Poisson ratio
+Ferroelasticity
+Fracture
+Friction
+Lubrication
+Hardness
+Strain
+Shear
+Mechanical deformation
+Plasticity
+Stress
+Viscosity
+Elastic tensor
+Shear modulus
+Young modulus

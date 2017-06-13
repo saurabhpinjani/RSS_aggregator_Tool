@@ -1,0 +1,13 @@
+Specific heat
+Heat
+Thermal conductivity
+Thermal expansion
+Thermoelectricity
+Thermoelectric
+Thermoelastic
+Thermopower
+Thermomagnetic
+Seedbeck
+Peltier
+Nernst effect
+Ettingshausen effect

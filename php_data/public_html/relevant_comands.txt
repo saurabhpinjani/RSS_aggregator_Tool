@@ -1,0 +1,53 @@
+curl -X PUT http://134.226.113.146:9200/rss_feed -d '{ 
+"analysis" : { 
+"analyzer" : { 
+"case_sensitive" : { 
+"type" : "custom", 
+"tokenizer" : "keyword" 
+} 
+} 
+} 
+}' 
+
+
+curl -X PUT http://134.226.113.146:9200/rss_feed/saurabh/_mapping?pretty -d '{ 
+"saurabh" : { "_source" :{ "type" : "custom", "analyzer" : "case_sensitive" } 
+} 
+}'
+
+close the index b4 updating the analyzer
+
+curl -X POST 'http://134.226.113.146:9200/rss_feed/_close'
+
+curl -X PUT 'http://134.226.113.146:9200/rss_feed/_settings' -d \
+'{
+  "analysis": {
+    "analyzer": {
+      "full_name": {
+          "type": "custom",
+          "tokenizer": "keyword"
+      }
+    }
+  }
+}'
+
+
+curl -X POST 'http://134.226.113.146:9200/rss_feed/_open'
+
+curl -X DELETE 'http://134.226.113.146:9200/rss_feed/'
+
+https://gist.github.com/nicolashery/6317643
+
+curl -X PUT http://134.226.113.146:9200/rss_feed/_mapping?update_all_types '{ "_all":{"type": "custom",
+      "analyzer": "case_sensitive",
+      "search_analyzer": "case_sensitive"}
+}'
+
+
+"properties": {
+    "text": {
+      "type": "text",
+      "analyzer": "standard",
+      "search_analyzer": "whitespace"
+    }
+  }

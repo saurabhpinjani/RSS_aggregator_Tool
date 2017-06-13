@@ -1,0 +1,10 @@
+http://feeds.nature.com/nature/rss/current|41.458|Nature - Issue
+http://feeds.nature.com/nchem/rss/current|27.567|Nature Chemistry
+http://feeds.nature.com/ncomms/rss/current|12.001|Nature Communications
+http://feeds.nature.com/nenergy/rss/current|0|Nature Energy
+http://feeds.nature.com/nmat/rss/current|45.772|Nature Materials
+http://feeds.nature.com/nnano/rss/current|40.632|Nature Nanotechnology
+http://feeds.nature.com/npjquantmats/rss/current|0|npj Quantum Materials
+http://feeds.nature.com/nphys/rss/current|20.042|Nature Physics
+http://feeds.nature.com/srep/rss/current|5.525|Scientific Reports
+http://feeds.nature.com/am/rss/current|10.995|NPG Asia Materials
