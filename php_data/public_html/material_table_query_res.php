@@ -72,6 +72,7 @@ li a.active {
 		$params['index']="rss_feed";
 		$params['type']=$journal;
 		$params['id'] = $id;
+		
 		$response = $GLOBALS['client']->get($params);
 		$clicked_link = $response['_source']['id'];
 		header('Location:'.$clicked_link); // takes to the url of article

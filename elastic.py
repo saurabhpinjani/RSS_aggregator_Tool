@@ -149,16 +149,13 @@ def material_table_update(): # function used to build the material table
 		i=0
 		for material in material_list:
 			j=0
-<<<<<<< HEAD
+
 			for property in sorted(property_dict.keys()):
-=======
-			for property in property_dict.keys():
->>>>>>> fc4b60686ee52e547be98a2cbdc723d6ace017f6
+
 				aggr_res=[]
 
 				for sub_property in property_dict[property]:
 					Search_var = material + " "+ sub_property  # a search string with material name and the subproperty is used as a query
-				 
 					res = es.search(index="rss_feed",doc_type=journal,body={"query": {"match": {"_all": {"query":Search_var,"operator":"and"} }} },size=1000)
 					
 					for item in res['hits']['hits']:
@@ -179,8 +176,8 @@ def material_table_update(): # function used to build the material table
 				if(test_item_presence(int(item['_id']),res_matrix[i])== False): # if article wasn't classified in any field
 					res_matrix[i][len(property_dict)].append(int(item['_id']))  # adding to 'others' field
 					count_matrix[i][len(property_dict)][0] = count_matrix[i][len(property_dict)][0]+1
-					
-		
+						
+			
 			res_matrix[i].append(material) # adding the name of the material to each row
 			count_matrix[i].append(material)
 			i=i+1
@@ -270,21 +267,13 @@ def extractTags(x):
 
 
 chemDetectInit()
-<<<<<<< HEAD
-#es_database_setup()
-#es_clear_user_database()
-#es_clear_feed_database()
-#es_database_populate()
-property_dict=get_property_dict()
 
-for property in sorted(property_dict.keys()):
-	print property
-=======
-es_database_setup()
-es_clear_user_database()
+
 es_clear_feed_database()
+es_database_setup()
+#es_clear_user_database()
 es_database_populate()
 
->>>>>>> fc4b60686ee52e547be98a2cbdc723d6ace017f6
+
 #print get_property_dict().keys()
 
