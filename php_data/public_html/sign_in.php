@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <html>
 <body style="background-color: #E8F0F5" > 
 
@@ -27,7 +30,7 @@ Confirm Password: <input type="password" name ="sign_up_password2"><br>
 <?php
     
     
-   session_start();
+   
 
     require 'vendor/autoload.php';
     $clientBuilder = Elasticsearch\ClientBuilder::create();   // Instantiate a new ClientBuilder

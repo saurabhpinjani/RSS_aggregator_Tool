@@ -58,19 +58,21 @@ li a.active {
 </ul>
 
 <?php 
+  require 'vendor/autoload.php';
 
   function add_arrays($a,$b)
   {
     $sum= array();
-    for ($i=0;$i<9;$i++)
+    $len=count($a);
+    for ($i=0;$i<$len-1;$i++)
     {
       $sum[$i][0]=$a[$i][0]+$b[$i][0];
       $sum[$i][1]=$a[$i][1]+$b[$i][1];
     }
-    $sum[9]=$a[9];
+    $sum[$len-1]=$a[$len-1];
     return $sum;
   }
-  require 'vendor/autoload.php';
+  
   $dir = "properties/";
   $files = scandir($dir);
   $files = array_slice($files,2);
@@ -91,71 +93,62 @@ li a.active {
   }
  
  
-  $selected_journals=array();
+  $selected_journals=array(); // pullin out user information and preferences from the session
   $user_details=$_SESSION['User_details'];
-  
   $selected_journals=$user_details['_source']['journals'];
   $selected_materials =$user_details['_source']['compounds'];
+
   $count_array=array();
   $results_array=array();
 
-  foreach($selected_journals as $journal)
+  foreach($selected_journals as $journal) // reading the material tables of all the  selected journals
   {
-    // $journal=strtolower($journal);
-    // echo "'";
-    // echo $journal;
-    // echo "'";
-    // echo '<br>'; 
-    // $journal = str_replace("\n", "", $journal);
+    
    
     $string = file_get_contents("materials/".$journal."_material_table_counts.json");
     $count_array[$journal] = json_decode($string, true);
-    
-    // echo "size of journal json: ".count($count_array[$journal]);
-    // print_r($count_array[$journal]);
-   
-  
+      
     $string = file_get_contents("materials/".$journal."_material_table_results.json");
     $results_array[$journal] = json_decode($string, true);
 
   } 
-
+  $row_len = count($count_array[$journal][0]);
   $net_results_array=array();
   $net_count_array=array();
   $cnt=0;
   $empty_row=array();
-  for($a=0;$a<9;$a++)
+  for($a=0;$a<$row_len-1;$a++)
   {
     $empty_row[$a][0]=0;
     $empty_row[$a][1]=0;
   }
-  $empty_row[9]=0;
-  // print_r(count($selected_materials));
-  // echo "<br>";
-  // print_r($selected_journals);
-  //  echo "<br>";
+  $empty_row[$row_len-1]=0;
+  
+  // aggregate the data from all the material tables
   foreach ($selected_materials as $material)
   {
     $sum_row=$empty_row;
     foreach($selected_journals as $journal)
     {
-      // echo $journal;
+      
       $count_array_journal=$count_array[$journal];
-      // echo $count_array_journal;
+      
       $i=0;
       foreach($count_array_journal as $row)
       { 
-        $row[9] = str_replace("\n", "", $row[9]);
-        $row[9] = str_replace(" ", "", $row[9]);   
-        if($row[9] == $material)
+        $row[$row_len-1] = str_replace("\n", "", $row[$row_len-1]);
+        $row[$row_len-1] = str_replace(" ", "", $row[$row_len-1]);   
+        if($row[$row_len-1] == $material)
         { 
           $sum_row=add_arrays($row,$sum_row);
-          break; 
+          
+          for($j=0;$j<$row_len-1;$j++)
+          {
+            $net_results_array[$cnt][$j][$journal]=$results_array[$journal][$i][$j];
+          }
+        break; 
         }
-        for($j=0;$j<9;$j++)
-        {
-          $net_results_array[$cnt][$j][$journal]=$results_array[$journal][$i][$j];
-        }
+        
 
         $i=$i+1;
       }
@@ -165,13 +158,13 @@ li a.active {
     $cnt=$cnt+1;
   }
 
-  $_SESSION['query_result'] = $net_results_array;
- 
+  $_SESSION['query_result'] = $net_results_array; // store the results in the session variable
+  
   echo '<table border="7" cellpadding="10">' ;
   echo '<tr>' ;
   $property_array['Others']='';
   $property_array['Total']='';
-  
+  // print the table headers
   foreach ($property_array as $key => $value) {
     echo '<td>';
     echo $key;
@@ -179,6 +172,7 @@ li a.active {
   }
   echo '</tr>';
   $j = 0;
+  // print the table
   for ($i = 0; $i < count($net_count_array); $i++) {
     echo '<tr>';
     $j=0;
@@ -186,12 +180,12 @@ li a.active {
     {
       echo '<td>' ; 
       
-      echo "<a href='material_table_query_res.php?i=".$i."&j=".$j."'>".$net_count_array[$i][$j][0].",".$net_count_array[$i][$j][1]."</a>";
+      echo "<a href='material_table_query_res.php?i=".$i."&j=".$j."'>".$net_count_array[$i][$j][0]."</a>";
       echo '</td>';
       $j++ ; 
     } 
     echo '<td>' ; 
-    echo $net_count_array[$i][9]; 
+    echo $net_count_array[$i][$row_len-1]; 
     echo '</td>';
     echo '</tr>';
   }

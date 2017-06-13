@@ -12,7 +12,7 @@ sys.setdefaultencoding('utf8')
 
 
 os.system('sudo service elasticsearch start')
-es = Elasticsearch(['http://134.226.113.181:9200'])
+es = Elasticsearch(['http://localhost:9200'])
 root = Tkinter.Tk()
 root.wm_title("ElasticSearch")
 
