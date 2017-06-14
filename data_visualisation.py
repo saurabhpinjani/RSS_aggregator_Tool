@@ -1,4 +1,8 @@
 import os
+import feedparser
+
+
+
 
 def rss_url_read(url):
 	# Given the url of a particular website it reads the feed
@@ -25,7 +29,20 @@ def read_feed_from_file(file_name):
 		journal= journal.lower()
 		impact_fact=float(impact_fact)
 		feed= rss_url_read(url)
-		print feed[0].keys()
+		doc=feed[0]
+		if('content' in doc.keys()):
+			print journal
+		
+			print doc.keys()
+			abstract = doc['content']
+		#if('content' in doc.keys()):
+		#	abstract = doc['content']
+		#else:
+			
+
+			print "title",doc['title'] 
+			print "Abstract",abstract
+			print "summary", doc['summary']
 		
 
 

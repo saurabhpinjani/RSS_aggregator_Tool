@@ -2,57 +2,54 @@ from elasticsearch import Elasticsearch
 from nltk.tokenize import RegexpTokenizer
 import nltk
 from bs4 import BeautifulSoup
-<<<<<<< HEAD
 from stop_words import get_stop_words
-from nltk.stem.porter import PorterStemmer
 from nltk.stem.snowball import SnowballStemmer
-=======
->>>>>>> fc4b60686ee52e547be98a2cbdc723d6ace017f6
+
+from gensim import corpora, models
+import gensim
+import rss_url_read
+
 es = Elasticsearch(['http://localhost:9200'])
 
-feed=es.get(index="rss_feed",doc_type="small",id=1)
-
-#print "Title",feed['_source']['title']
-#rint "Abstract",feed['_source']['content'][0]['value']
-abstract= feed['_source']['content'][0]['value']
-raw= abstract#.lower()
-#print raw
-#nltk.clean_html(raw)
-#print raw
 tokenizer = RegexpTokenizer(r'\w+')
-soup = BeautifulSoup(raw, 'html.parser')
-a= soup.get_text()
-<<<<<<< HEAD
-#print a
-tokens = tokenizer.tokenize(a)
-
-#print tokens
-en_stop = get_stop_words('en')
-stopped_tokens = [i for i in tokens if not i in en_stop]
-print stopped_tokens
 snowball_stemmer = SnowballStemmer("english")
-snowball_stemmed_tokens =[snowball_stemmer.stem(token) for token in stopped_tokens]
-print snowball_stemmed_tokens
+#feed=es.get(index="rss_feed",doc_type="journal of materials chemistry c",id=1)
+docs= rss_url_read.read_feed()
+texts=[]
+for doc in docs:
+	if('content' in doc.keys()):
+		abstract = doc['content']
+	else:
+		abstract = doc['summary']
 
-porter_stemmer = PorterStemmer()
-porter_stemmed_tokens =[porter_stemmer.stem(token) for token in stopped_tokens]
-print porter_stemmed_tokens
+	raw= doc['title'] + ' '+ abstract
+	print raw
 
-diff =[i for i in porter_stemmed_tokens if i not in snowball_stemmed_tokens]
+	soup = BeautifulSoup(raw, 'html.parser')
+	raw_without_tags= soup.get_text()
 
-print "Diff----------------------------------------------------------------------------"
-print diff
 
-diff =[i for i in snowball_stemmed_tokens if i not in porter_stemmed_tokens]
+	tokens = tokenizer.tokenize(raw_without_tags)
 
-print "Diff----------------------------------------------------------------------------"
-print diff
-#print soup.p
-#tokens=tokenizer.tokenize(raw)
-#print tokens
-=======
-print a
-#print soup.p
-#tokens=tokenizer.tokenize(raw)
-#print tokens
->>>>>>> fc4b60686ee52e547be98a2cbdc723d6ace017f6
+
+	en_stop = get_stop_words('en')
+	stopped_tokens = [i for i in tokens if not i in en_stop]
+	print stopped_tokens
+
+	
+	snowball_stemmed_tokens =[snowball_stemmer.stem(token) for token in stopped_tokens]
+	print snowball_stemmed_tokens
+	texts.append(snowball_stemmed_tokens)
+
+
+# turn our tokenized documents into a id <-> term dictionary
+dictionary = corpora.Dictionary(texts)
+    
+# convert tokenized documents into a document-term matrix
+corpus = [dictionary.doc2bow(text) for text in texts]
+
+# generate LDA model
+ldamodel = gensim.models.ldamodel.LdaModel(corpus,num_topics=20, id2word = dictionary,chunksize=200,passes=20)
+ldamodel.print_topics(20)
+ldamodel.save('/LDA/lda_model_file')
+
