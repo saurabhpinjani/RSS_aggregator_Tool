@@ -113,7 +113,7 @@ li a.active {
         echo "<h2> Pick the journals </h2>";
         echo '<table border="7" cellpadding="10">';
         echo '<tr>';
-        echo "<th colspan=".'8'.">Journals</th>";
+        echo "<th colspan=".'8'.">"."<input type=checkbox name="."journal_all"." value=".'"on"'. ">".$title."<br>"."All the Journals</th>";
         echo "</tr>";
 
         $i = 0;
@@ -138,19 +138,29 @@ li a.active {
     }
     else
     {
-        foreach ($journals as $key => $value) {
-            $journals[$key] = array($value,$_POST[$key]);
-            if ($_POST[$key]=="on") {
-                // echo $value;
-                if (!in_array($value, $journal_choice))
-                {array_push($journal_choice, $value);}    
+        if ($_POST['journal_all']=="on") 
+        {
+            $journal_choice = array();
+           foreach ($journals as $key => $value) 
+           {
+                array_push($journal_choice, $value);
+           }     
+        }
+        else
+        {
+            foreach ($journals as $key => $value) {
+                $journals[$key] = array($value,$_POST[$key]);
+                if ($_POST[$key]=="on") {
+                    // echo $value;
+                    if (!in_array($value, $journal_choice))
+                    {array_push($journal_choice, $value);}    
+                }
+                else
+                {
+                    if(($key = array_search($value, $journal_choice)) !== false)
+                        {unset($journal_choice[$key]);}
+                }
             }
-            else
-            {
-                if(($key = array_search($value, $journal_choice)) !== false)
-                    {unset($journal_choice[$key]);}
-            }
-
         }
         $_SESSION["journal_choice"] = $journal_choice;
         header('Location:userdata_compounds.php');

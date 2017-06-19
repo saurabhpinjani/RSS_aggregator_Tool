@@ -66,6 +66,8 @@ Body: <input type="text" name="body"><br>
 <form action="search_server.php" method="post">
 Search for: <input type="text" name="search_text_1">
 <br>
+<input type="radio" name="search_type" value="words_match">Match all the words<br>
+<input type="radio" name="search_type" value="phrase_match">Match the phrase<br>
 <input type="submit" value="Search" name="">
 </form>
 
@@ -80,7 +82,10 @@ Search for: <input type="text" name="search_text_1">
     $search_text = $_POST['search_text_1'];
     $params['size'] = 1000;
     $params['body']['query']['match']['_all']['query'] = $search_text;
-    $params['body']['query']['match']['_all']['operator'] = "and";
+    if($_POST['search_type']=="phrase_match")
+        $params['body']['query']['match']['_all']['type'] = "phrase";
+    else if($_POST['search_type']=="words_match")
+        $params['body']['query']['match']['_all']['operator'] = "and";
     $result = $client->search($params);
     $hits = $result['hits']['total'];
     $data = $result['hits']['hits'];
