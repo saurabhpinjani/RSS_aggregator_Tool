@@ -269,11 +269,11 @@ def extractTags(x):
 chemDetectInit()
 
 
-es_clear_feed_database()
-es_database_setup()
+#es_clear_feed_database()
+#es_database_setup()
 #es_clear_user_database()
-es_database_populate()
-
+#es_database_populate()
+print get_material_list()
 
 #print get_property_dict().keys()
 

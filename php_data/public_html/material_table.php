@@ -59,6 +59,10 @@ li a.active {
 
 <?php 
   require 'vendor/autoload.php';
+    $clientBuilder = Elasticsearch\ClientBuilder::create();   // Instantiate a new ClientBuilder
+    $clientBuilder->setHosts(['http://localhost:9200']);           // Set the hosts
+    $client = $clientBuilder->build();          // Build the client object
+    // $search_text = $_POST['search_tex
 
   function add_arrays($a,$b)
   {
@@ -73,6 +77,41 @@ li a.active {
     return $sum;
   }
   
+  if(isset($_POST['action']))
+    {  $table_name = $_POST['table_name'];
+      $user_details=$_SESSION['User_details'];
+      $net_results_array=$_SESSION['query_result']; // store the results in the session variable
+      $net_count_array=$_SESSION['net_count'];
+
+       $saved_table=array();
+      $saved_table['count_array']=$net_count_array;
+        $saved_table['results_array']=$net_results_array;
+
+      if(array_key_exists('saved_tables',$user_details['_source'])==false)
+      {
+       
+        $saved_tables_array=array();
+        $saved_tables_array['table_name']=$saved_table;
+      }
+      else
+      {
+        $saved_tables_array=$user_details['saved_tables'];
+        $saved_tables_array['table_name']=$saved_table;
+      }
+
+      
+       $params['index'] = $user_data['_index'];
+        $params['type'] = $user_data['_type'];
+        $params['id'] = $user_data['_id'];
+        $params['body'] = array('username' => $user_details['_source']['username'],
+                                'password' => $user_details['_source']['password'],
+                                'journals' => $user_details['_source']['journals'],
+                                'compounds' => $user_details['_source']['compounds'],
+                                'properties' => $$user_details['_source']['properties'],
+                                'saved_tables' => $saved_tables_array);
+         $res = $client->index($params);
+         $_SESSION['User_details']['_source']['saved_tables']= $saved_tables_array;
+    }
   $dir = "properties/";
   $files = scandir($dir);
   $files = array_slice($files,2);
@@ -158,7 +197,7 @@ li a.active {
   }
 
   $_SESSION['query_result'] = $net_results_array; // store the results in the session variable
-  
+  $_SESSION['net_count']= $net_count_array;
   echo '<table border="7" cellpadding="10">' ;
   echo '<tr>' ;
   array_push ($property_array ,'Others');
@@ -193,6 +232,14 @@ li a.active {
 ?>  
     
 </table>
+
+
+
+<form action="material.php" method="post">
+Table Name<input type="text" name="table_name"><br>
+<input type="submit" value="Save Table" name="sign_up_click">
+</form>
+
 </center>
 </body>
 

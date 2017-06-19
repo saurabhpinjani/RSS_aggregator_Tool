@@ -58,4 +58,4 @@ def read_feed():
 	return full_feed;
 
 
-#print rss_url_read("http://feeds.nature.com/nmat/rss/aop")
+print rss_url_read("")

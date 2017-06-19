@@ -1,5 +1,5 @@
-http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=apm|4.326|APL Materials
-http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=apl|3.293|Applied Physics Letters
-http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=are|14.310|Applied Physics Reviews
-http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jap|2.126|Journal of Applied Physics
-http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jcp|2.950|Journal of Chemical Physics
+http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=apm|4.326|APL Materials|AIP
+http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=apl|3.293|Applied Physics Letters|AIP
+http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=are|14.310|Applied Physics Reviews|AIP
+http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jap|2.126|Journal of Applied Physics|AIP
+http://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jcp|2.950|Journal of Chemical Physics|AIP

@@ -1,8 +1,10 @@
-http://feeds.feedburner.com/acs/aamick|7.332|Applied Materials & Interfaces
-http://feeds.feedburner.com/acs/cmatex|9.363|Chemistry of Materials
-http://feeds.feedburner.com/acs/acsccc|3.192|ACS Combinatorial Science
-http://feeds.feedburner.com/acs/aelccp|0|ACS Energy Letters
-http://feeds.feedburner.com/acs/ancac3|14.486|ACS Nano
-http://feeds.feedburner.com/acs/nalefd|14.867|Nano Letters
-http://feeds.feedburner.com/acs/jpccck|4.919|Journal of Physical Chemistry C
-http://feeds.feedburner.com/acs/jpclcd|7.803|Journal of Physical Chemistry Letters
+http://feeds.feedburner.com/acs/aamick|7.332|Applied Materials & Interfaces|ACS
+http://feeds.feedburner.com/acs/cmatex|9.363|Chemistry of Materials|ACS
+http://feeds.feedburner.com/acs/acsccc|3.192|ACS Combinatorial Science|ACS
+http://feeds.feedburner.com/acs/aelccp|0|ACS Energy Letters|ACS
+http://feeds.feedburner.com/acs/ancac3|14.486|ACS Nano|ACS
+http://feeds.feedburner.com/acs/nalefd|14.867|Nano Letters|ACS
+http://feeds.feedburner.com/acs/jpccck|4.919|Journal of Physical Chemistry C|ACS
+http://feeds.feedburner.com/acs/jpclcd|7.803|Journal of Physical Chemistry Letters|ACS
+http://feeds.feedburner.com/acs/jacsat|13.858|Journal of the American Chemical Society|ACS
+http://feeds.feedburner.com/acs/langd5|3.883|Langmuir|ACS
