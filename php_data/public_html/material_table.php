@@ -96,7 +96,7 @@ li a.active {
       else
       {
         $saved_tables_array=$user_details['saved_tables'];
-        $saved_tables_array['table_name']=$saved_table;
+        $saved_tables_array[$table_name]=$saved_table;
       }
 
       

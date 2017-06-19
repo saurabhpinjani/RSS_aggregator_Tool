@@ -1,0 +1,101 @@
+Size-dependent nonlocal effects in plasmonic semiconductor particles. (arXiv:1706.03813v2 [cond-mat.mes-hall] UPDATED)|99
+Schwinger-Keldysh formalism I: BRST symmetries and superspace. (arXiv:1610.01940v4 [hep-th] UPDATED)|71
+First detection of a quantum walker on an infinite line. (arXiv:1706.05168v1 [cond-mat.stat-mech])|25
+Preisach models of hysteresis driven by Markovian input processes. (arXiv:1706.05182v1 [cond-mat.stat-mech])|29
+Quasiparticle Interference in the Dirac Line Node Material ZrSiS. (arXiv:1706.05165v1 [cond-mat.mtrl-sci])|24
+Parity-Forbidden Transitions and Their Impacts on the Optical Absorption Properties of Lead-Free Metal Halide Perovskites and Double Perovskites. (arXiv:1702.03593v3 [cond-mat.mtrl-sci] UPDATED)|82
+Thermalization as an Invisibility Cloak for Fragile Quantum Superpositions. (arXiv:1705.06467v2 [quant-ph] UPDATED)|93
+The Self-Organization of Dragon Kings. (arXiv:1705.10831v2 [physics.soc-ph] UPDATED)|96
+Pechukas-Yukawa approach to the evolution of the quantum state of a parametrically perturbed system. (arXiv:1706.05243v1 [cond-mat.stat-mech])|45
+Preliminary corrosion studies of IN-RAFM steel with stagnant Lead Lithium at 550 C. (arXiv:1706.05000v1 [physics.ins-det])|1
+Ashkin-Teller criticality and weak-first-order behavior of phase transition to four-fold degenerate state in two-dimensional frustrated Ising antiferromagnets. (arXiv:1706.05126v1 [cond-mat.stat-mech])|15
+Background force compensation in dynamic atomic force microscopy. (arXiv:1701.04638v2 [cond-mat.mes-hall] UPDATED)|79
+Quantum Optical Sum Rules and Field Fluctuations inside Natural Hyperbolic Media: Hexagonal Boron Nitride and Bismuth Selenide. (arXiv:1702.01862v2 [physics.optics] UPDATED)|81
+Magnetic order, hysteresis and phase coexistence in magnetoelectric LiCoPO$_4$. (arXiv:1706.05203v1 [cond-mat.str-el])|37
+Thermodynamics of a Periodically Driven Qubit. (arXiv:1706.05235v1 [quant-ph])|42
+Universal fluctuations of Floquet topological invariants at low frequencies. (arXiv:1706.05303v1 [cond-mat.mes-hall])|52
+Phase separation dynamics of polydisperse colloids: a mean-field lattice-gas theory. (arXiv:1706.05316v1 [cond-mat.soft])|54
+Damping of Rabi oscillations in intensity-dependent photon echoes from exciton complexes in a CdTe/(Cd,Mg)Te single quantum well. (arXiv:1706.05327v1 [cond-mat.mes-hall])|57
+Finite-temperature phase transition to the Kitaev spin liquid on a hyperoctagon lattice: a large-scale quantum Monte Carlo study. (arXiv:1706.05057v1 [cond-mat.str-el])|7
+Effects of strain on the electronic structure, superconductivity, and nematicity in FeSe studied by angle-resolved photoemission spectroscopy. (arXiv:1706.05129v1 [cond-mat.supr-con])|17
+Average Length of Cycles in Rectangular Lattice. (arXiv:1706.05184v1 [cond-mat.stat-mech])|31
+Josephson effect in multiterminal topological junctions. (arXiv:1706.05332v1 [cond-mat.mes-hall])|58
+The isotropic--nematic transition for hard rods on a three--dimensional (3D) cubic lattice. (arXiv:1706.05185v1 [cond-mat.soft])|32
+Slow Dynamics in Translation-Invariant Quantum Lattice Models. (arXiv:1706.05026v1 [cond-mat.dis-nn])|6
+Thermal decay of the Coulomb blockade oscillations. (arXiv:1706.05251v1 [cond-mat.mes-hall])|46
+Non-Hermiticity Induced Flat Band. (arXiv:1701.00291v4 [physics.optics] UPDATED)|77
+Kondo Insulator to Semimetal Transformation Tuned by Spin-Orbit Coupling. (arXiv:1612.03972v3 [cond-mat.str-el] UPDATED)|76
+Magnetoresistance of vertical Co-graphene-NiFe junctions controlled by charge transfer and proximity-induced spin splitting in graphene. (arXiv:1607.00983v3 [cond-mat.mes-hall] UPDATED)|69
+Nonequilibrium gas$-$liquid transition in the driven-dissipative photonic lattice. (arXiv:1611.00697v3 [physics.optics] UPDATED)|73
+Towards a Finite-$N$ Hologram. (arXiv:1706.05364v1 [hep-th])|64
+Accessing the dark exciton in deterministic quantum-dot microlenses. (arXiv:1706.05164v1 [quant-ph])|23
+Direct observation of ultrafast thermal and non-thermal lattice deformation of polycrystalline Aluminum film. (arXiv:1706.05131v1 [cond-mat.mtrl-sci])|18
+Virial coefficients, equation of state, and demixing of binary asymmetric nonadditive hard-disk mixtures. (arXiv:1706.05317v1 [cond-mat.soft])|55
+Observation of topological superconductivity on the surface of iron-based superconductor. (arXiv:1706.05163v1 [cond-mat.supr-con])|22
+Photoinduced filling of near nodal gap in Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$. (arXiv:1703.07860v2 [cond-mat.supr-con] UPDATED)|87
+A new family of field-stable and highly sensitive SQUID current sensors based on sub-micrometer cross-type Josephson junctions. (arXiv:1706.05189v1 [cond-mat.supr-con])|34
+Optimal inhomogeneity for pairing in Hubbard systems with next-nearest-neighbor hopping. (arXiv:1706.05023v1 [cond-mat.supr-con])|5
+Discovery of slow magnetic fluctuations and critical slowing down in the pseudogap phase of YBa$_2$Cu$_3$O$_y$. (arXiv:1703.06799v2 [cond-mat.supr-con] UPDATED)|86
+Low-Energy True Random Number Generation with Superparamagnetic Tunnel Junctions for Unconventional Computing. (arXiv:1706.05262v1 [physics.app-ph])|47
+Gate-tunable large magnetoresistance in an all-semiconductor spin-transistor-like device. (arXiv:1706.05239v1 [cond-mat.mtrl-sci])|43
+Plasmon-assisted resonant tunneling in graphene-based heterostructures. (arXiv:1706.05216v1 [cond-mat.mes-hall])|40
+Correlations between thresholds and degrees: An analytic approach to model attacks and failure cascades. (arXiv:1706.04451v2 [nlin.AO] UPDATED)|101
+Fermion bound states in geometrically deformed backgrounds. (arXiv:1706.04406v2 [hep-th] UPDATED)|100
+The effects of Moire lattice on the electronic properties of graphene. (arXiv:1706.05345v1 [cond-mat.mes-hall])|61
+Striped anyonic fluids. (arXiv:1706.05006v1 [hep-th])|2
+Nonlinear scattering of atomic bright solitons in disorder. (arXiv:1701.00414v2 [physics.atom-ph] UPDATED)|78
+Towards colloidal spintronics through Rashba spin-orbit interaction in lead sulphide nanosheets. (arXiv:1706.05315v1 [cond-mat.mtrl-sci])|53
+Schwinger-Keldysh formalism II: Thermal equivariant cohomology. (arXiv:1610.01941v4 [hep-th] UPDATED)|72
+Strain Fields and the Electronic Structure of Antiferromagnetic CrN. (arXiv:1706.05119v1 [cond-mat.mtrl-sci])|14
+Dynamical amplification of magnetoresistances and Hall currents up to the THz regime. (arXiv:1703.04493v2 [cond-mat.mes-hall] UPDATED)|85
+Finite-size corrections to quantized particle transport in topological charge pumps. (arXiv:1705.11179v2 [cond-mat.quant-gas] UPDATED)|97
+Tuning Edge States in Strained-Layer InAs/GaInSb Quantum Spin Hall Insulators. (arXiv:1608.06588v2 [cond-mat.mes-hall] UPDATED)|70
+Bulk Renormalization Group Flows and Boundary States in Conformal Field Theories. (arXiv:1706.01568v2 [hep-th] UPDATED)|98
+Fermi surface, pressure-induced antiferromagnetic order, and superconductivity in FeSe. (arXiv:1706.05191v1 [cond-mat.supr-con])|35
+More On Supersymmetric And 2d Analogs of the SYK Model. (arXiv:1706.05362v1 [hep-th])|63
+Emerging critical behavior at a first-order phase transition rounded by disorder. (arXiv:1602.04508v2 [cond-mat.dis-nn] UPDATED)|67
+Exact diagonalization of $\mathrm{SU}(N)$ Heisenberg and AKLT chains using the full $\mathrm{SU}(N)$ symmetry. (arXiv:1706.05009v1 [cond-mat.str-el])|3
+Thermoelectric Band Engineering: The Role of Carrier Scattering. (arXiv:1706.05241v1 [cond-mat.mtrl-sci])|44
+A unified ab-initio approach to the correlated quantum dynamics of ultracold fermionic and bosonic mixtures. (arXiv:1704.03810v2 [quant-ph] UPDATED)|90
+Benchmarking measures of network controllability on canonical graph models. (arXiv:1706.05117v1 [physics.soc-ph])|13
+Nanoconstriction spin-Hall oscillator with perpendicular magnetic anisotropy. (arXiv:1706.05302v1 [cond-mat.mes-hall])|51
+Topological semimetals with double-helix nodal link. (arXiv:1703.10886v2 [cond-mat.str-el] UPDATED)|88
+Effects of charge noise on a pulse-gated singlet-triplet $S-T_-$ qubit. (arXiv:1701.06971v3 [cond-mat.mes-hall] UPDATED)|80
+Short time dynamics of molecular junctions after projective measurement. (arXiv:1706.05158v1 [cond-mat.mes-hall])|21
+Atomic white-out: Enabling atomic circuitry through mechanically induced bonding of single H atoms to a silicon surface. (arXiv:1706.05287v1 [cond-mat.mes-hall])|50
+The grasshopper problem. (arXiv:1705.07621v3 [cond-mat.stat-mech] UPDATED)|94
+Multiple amplitude modes in strongly-coupled phonon-mediated superconductors. (arXiv:1511.06105v3 [cond-mat.supr-con] UPDATED)|66
+Full-counting statistics of energy transport of molecular junctions in the polaronic regime. (arXiv:1612.02887v3 [cond-mat.mes-hall] UPDATED)|75
+Luminescence in germania-silica fibers in 1-2 {\mu}m region. (arXiv:1706.05078v1 [cond-mat.mtrl-sci])|11
+Multifractality without fine-tuning in a Floquet quasiperiodic chain. (arXiv:1706.05012v1 [cond-mat.dis-nn])|4
+Contact angle entropy and macroscopic friction in non-cohesive two dimensional granular packings. (arXiv:1611.02352v2 [cond-mat.soft] UPDATED)|74
+Encoding Mechano-Memories in Actin Networks. (arXiv:1706.05336v1 [cond-mat.soft])|59
+Manifestation of higher-order inter-granular exchange in magnetic recording media. (arXiv:1706.05188v1 [cond-mat.mtrl-sci])|33
+Anisotropic spin-density distribution and magnetic anisotropy of strained thin films: Angle-dependent x-ray magnetic circular dichroism. (arXiv:1706.05183v1 [cond-mat.mtrl-sci])|30
+Efficient Quantum Monte Carlo simulations of highly frustrated magnets: the frustrated spin-1/2 ladder. (arXiv:1704.01973v2 [cond-mat.str-el] UPDATED)|89
+Anisotropic magnetothermoelectric power of ferromagnetic thin films. (arXiv:1206.1527v2 [cond-mat.mtrl-sci] UPDATED)|65
+Radiative corrections to the quark masses in the ferromagnetic Ising and Potts field theories. (arXiv:1706.05281v1 [cond-mat.stat-mech])|49
+Chaotic dynamical ferromagnetic phase induced by non-equilibrium quantum fluctuations. (arXiv:1706.05062v1 [cond-mat.stat-mech])|8
+A Josephson thermal memory. (arXiv:1706.05323v1 [cond-mat.supr-con])|56
+Photoinduced electromotive force on the surface of InN epitaxial layers. (arXiv:1706.05359v1 [cond-mat.mtrl-sci])|62
+Many-body electrostatics of quantum wires and nanotubes. (arXiv:1706.05149v1 [cond-mat.mes-hall])|20
+On the persistence of polar domains in ultrathin ferroelectric capacitors. (arXiv:1705.05641v2 [cond-mat.mtrl-sci] UPDATED)|92
+Automated construction of $U(1)$-invariant matrix-product operators from graph representations. (arXiv:1706.05338v1 [cond-mat.str-el])|60
+The Aharonov-Bohm effect in mesoscopic Bose-Einstein condensates. (arXiv:1706.05180v1 [cond-mat.quant-gas])|28
+Orientation of topological defects in 2D nematic liquid crystals. (arXiv:1706.05065v1 [cond-mat.soft])|9
+Power-law out of time order correlation functions in the SYK model. (arXiv:1702.08902v2 [cond-mat.str-el] UPDATED)|84
+Effect of phonon bath dimensionality on the spectral efficiency of single-photon emitters in the Purcell regime. (arXiv:1706.05204v1 [cond-mat.mes-hall])|38
+Anomalous tunneling conductance in 2D metallic junctions with Rashba spin-orbit coupling and magnetization. (arXiv:1705.10328v2 [cond-mat.mes-hall] UPDATED)|95
+Thermodynamic evidence for nematic phase transition at the onset of pseudogap in YBa$_2$Cu$_3$O$_y$. (arXiv:1706.05214v1 [cond-mat.supr-con])|39
+Quantum lattice Boltzmann study of random-mass Dirac fermions in one dimension. (arXiv:1706.05138v1 [physics.comp-ph])|19
+Orthotropic Piezoelectricity in 2D Nanocellulose. (arXiv:1706.05072v1 [cond-mat.mtrl-sci])|10
+Entanglement Entropy in Excited States of the Quantum Lifshitz Model. (arXiv:1702.07433v2 [cond-mat.stat-mech] UPDATED)|83
+Nonlocal tensor order parameter of the deformed state of liquid crystals. (arXiv:1706.05220v1 [cond-mat.soft])|41
+Electrical Stressing Induced Monolayer Vacancy Island Growth on TiSe2. (arXiv:1706.05096v1 [cond-mat.mes-hall])|12
+Observation of Various and Spontaneous Magnetic Skyrmionic Bubbles at Room-Temperature in a Frustrated Kagome Magnet with Uniaxial Magnetic Anisotropy. (arXiv:1706.05177v1 [cond-mat.mtrl-sci])|27
+Synthesis of Polar Ordered Oxynitride Perovskite. (arXiv:1604.03989v2 [cond-mat.mtrl-sci] UPDATED)|68
+Enhancement of the upper critical field in disordered transition metal dichalcogenide monolayers. (arXiv:1705.01865v2 [cond-mat.supr-con] UPDATED)|91
+Long-distance spin transport in a disordered magnetic insulator. (arXiv:1706.05196v1 [cond-mat.mes-hall])|36
+Heterogeneous nucleation of pits via step pinning during Si(100) homoepitaxy. (arXiv:1706.05127v1 [cond-mat.mtrl-sci])|16
+Mechanisms of Cooperation and Competition of two Species Transport in Narrow Nanochannels. (arXiv:1706.05172v1 [cond-mat.soft])|26
+Solvable models of an open well and a bottomless barrier in 1-D. (arXiv:1706.05275v1 [quant-ph])|48
