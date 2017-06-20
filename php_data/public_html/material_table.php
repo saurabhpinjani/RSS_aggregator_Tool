@@ -64,7 +64,7 @@ li a.active {
     $client = $clientBuilder->build();          // Build the client object
     // $search_text = $_POST['search_tex
 
-  function add_arrays($a,$b)
+    function add_arrays($a,$b)
   {
     $sum= array();
     $len=count($a);
@@ -77,41 +77,7 @@ li a.active {
     return $sum;
   }
   
-  if(isset($_POST['action']))
-    {  $table_name = $_POST['table_name'];
-      $user_details=$_SESSION['User_details'];
-      $net_results_array=$_SESSION['query_result']; // store the results in the session variable
-      $net_count_array=$_SESSION['net_count'];
-
-       $saved_table=array();
-      $saved_table['count_array']=$net_count_array;
-        $saved_table['results_array']=$net_results_array;
-
-      if(array_key_exists('saved_tables',$user_details['_source'])==false)
-      {
-       
-        $saved_tables_array=array();
-        $saved_tables_array['table_name']=$saved_table;
-      }
-      else
-      {
-        $saved_tables_array=$user_details['saved_tables'];
-        $saved_tables_array[$table_name]=$saved_table;
-      }
-
-      
-       $params['index'] = $user_data['_index'];
-        $params['type'] = $user_data['_type'];
-        $params['id'] = $user_data['_id'];
-        $params['body'] = array('username' => $user_details['_source']['username'],
-                                'password' => $user_details['_source']['password'],
-                                'journals' => $user_details['_source']['journals'],
-                                'compounds' => $user_details['_source']['compounds'],
-                                'properties' => $$user_details['_source']['properties'],
-                                'saved_tables' => $saved_tables_array);
-         $res = $client->index($params);
-         $_SESSION['User_details']['_source']['saved_tables']= $saved_tables_array;
-    }
+  
   $dir = "properties/";
   $files = scandir($dir);
   $files = array_slice($files,2);
@@ -198,6 +164,8 @@ li a.active {
 
   $_SESSION['query_result'] = $net_results_array; // store the results in the session variable
   $_SESSION['net_count']= $net_count_array;
+  echo "<br>";
+  echo "<br>";  
   echo '<table border="7" cellpadding="10">' ;
   echo '<tr>' ;
   array_push ($property_array ,'Others');
@@ -233,12 +201,66 @@ li a.active {
     
 </table>
 
+<br>
+<br>
 
-
-<form action="material.php" method="post">
+<form action="material_table.php" method="post">
 Table Name<input type="text" name="table_name"><br>
-<input type="submit" value="Save Table" name="sign_up_click">
+<input type ="hidden" name= "action" value="save_table"><br>
+<input type="submit" value="Save Table" name="save_table">
 </form>
+<?php
+  
+if(isset($_POST['action']))
+    {  
+      $table_name = $_POST['table_name'];
+      
+      $user_details=$_SESSION['User_details'];
+      $net_results_array=$_SESSION['query_result']; // store the results in the session variable
+      $net_count_array=$_SESSION['net_count'];
+      echo "<br>";
+      //echo "<br>";print_r($net_results_array);
+      $saved_table=array();
+     
+      $saved_table['journals']= $user_details['_source']['journals'];
+      $saved_table['compounds']= $user_details['_source']['compounds'];
+      
+      if(array_key_exists('saved_tables',$user_details['_source'])==false)
+      {
+        
+        $saved_tables_array=array();
+        $saved_tables_array[$table_name]=$saved_table;
+      }
+      else
+      {
+        
+        $saved_tables_array=$user_details['saved_tables'];
+        $saved_tables_array[$table_name]=$saved_table;
+      }
+
+        $params=array();
+        $params['index'] = $user_data['_index'];
+        $params['type'] = $user_data['_type'];
+        $params['id'] = $user_data['_id'];
+        $params['body'] = array('username' => $user_details['_source']['username'],
+                                'password' => $user_details['_source']['password'],
+                                'journals' => $user_details['_source']['journals'],
+                                'compounds' => $user_details['_source']['compounds'],
+                                'properties' => $user_details['_source']['properties'],
+                                'saved_tables' => $saved_tables_array);
+        //print_r($params);
+        $_SESSION['User_details']['_source']['saved_tables']= $saved_tables_array;
+        
+        $res = $client->index($params);
+        if($res["result"]=="updated")
+        {
+            echo "<h2> Table saved</h2>";
+        }
+        
+        
+    }
+
+?>
 
 </center>
 </body>
