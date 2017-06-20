@@ -1,5 +1,5 @@
-http://iopscience.iop.org/journal/rss/2053-1583|9.611|2D Materials
-http://iopscience.iop.org/0295-5075/?rss=1|1.931|EPL (Europhysics Letters)
-http://iopscience.iop.org/0953-8984/?rss=1|2.199|Journal of Physics: Condensed Matter
-http://iopscience.iop.org/0957-4484/?rss=1|3.611|Nanotechnology
-http://iopscience.iop.org/1367-2630/?rss=1|3.501|New Journal of Physics
+http://iopscience.iop.org/journal/rss/2053-1583|9.611|2D Materials|IOP
+http://iopscience.iop.org/0295-5075/?rss=1|1.931|EPL (Europhysics Letters)|IOP
+http://iopscience.iop.org/0953-8984/?rss=1|2.199|Journal of Physics: Condensed Matter|IOP
+http://iopscience.iop.org/0957-4484/?rss=1|3.611|Nanotechnology|IOP
+http://iopscience.iop.org/1367-2630/?rss=1|3.501|New Journal of Physics|IOP

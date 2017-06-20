@@ -1,2 +1,9 @@
-http://feeds.rsc.org/rss/tc|5.076|Journal of Materials Chemistry C
-http://feeds.rsc.org/rss/cp|4.273|Physical Chemistry Chemical Physics
+http://feeds.rsc.org/rss/tc|5.076|Journal of Materials Chemistry C|RSC
+http://feeds.rsc.org/rss/cp|4.273|Physical Chemistry Chemical Physics|RSC
+http://feeds.rsc.org/rss/ta|8.867|Journal of Materials Chemistry A|RSC
+http://feeds.rsc.org/rss/dt|4.029|Dalton Transactions|RSC
+http://feeds.rsc.org/rss/ee|29.518|Energy & Environmental Science|RSC
+http://feeds.rsc.org/rss/nr|7.367|Nanoscale|RSC
+http://feeds.rsc.org/rss/cc|6.319|Chemical Communication|RSC
+http://feeds.rsc.org/rss/sc|8.668|Chemical Science|RSC
+http://feeds.rsc.org/rss/ra|3.108|RSC Advances|RSC

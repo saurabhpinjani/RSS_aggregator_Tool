@@ -1,11 +1,11 @@
 import feedparser
 import os
 
-def add_journal_impact_factor(feed,journal,impact_factor):
+def add_journal_impact_factor(feed,journal,impact_factor,publisher):
 	for item in feed:
 		item['journal']=journal
 		item['impact_factor']=impact_factor
-
+		item['publisher']=publisher
 	
 	return feed	
 
@@ -33,11 +33,11 @@ def read_feed_from_file(file_name):
 	url_list= read_urls_from_file(file_name)
 	file_feed_list= []
 	for url in url_list:
-		[url,impact_fact,journal]=url.split('|')
+		[url,impact_fact,journal,publisher]=url.split('|')
 		journal= journal.lower()
 		impact_fact=float(impact_fact)
 		feed= rss_url_read(url)
-		feed=add_journal_impact_factor(feed,journal,impact_fact)
+		feed=add_journal_impact_factor(feed,journal,impact_fact,publisher)
 		file_feed_list= file_feed_list+ feed;
 	
 		

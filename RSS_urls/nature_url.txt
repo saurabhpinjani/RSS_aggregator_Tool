@@ -1,10 +1,13 @@
-http://feeds.nature.com/nature/rss/current|41.458|Nature - Issue
-http://feeds.nature.com/nchem/rss/current|27.567|Nature Chemistry
-http://feeds.nature.com/ncomms/rss/current|12.001|Nature Communications
-http://feeds.nature.com/nenergy/rss/current|0|Nature Energy
-http://feeds.nature.com/nmat/rss/current|45.772|Nature Materials
-http://feeds.nature.com/nnano/rss/current|40.632|Nature Nanotechnology
-http://feeds.nature.com/npjquantmats/rss/current|0|npj Quantum Materials
-http://feeds.nature.com/nphys/rss/current|20.042|Nature Physics
-http://feeds.nature.com/srep/rss/current|5.525|Scientific Reports
-http://feeds.nature.com/am/rss/current|10.995|NPG Asia Materials
+http://feeds.nature.com/nature/rss/current|41.458|Nature - Issue|Nature
+http://feeds.nature.com/nchem/rss/current|27.567|Nature Chemistry|Nature
+http://feeds.nature.com/ncomms/rss/current|12.001|Nature Communications|Nature
+http://feeds.nature.com/nenergy/rss/current|0|Nature Energy|Nature
+http://feeds.nature.com/nmat/rss/current|45.772|Nature Materials|Nature
+http://feeds.nature.com/nnano/rss/current|40.632|Nature Nanotechnology|Nature
+http://feeds.nature.com/npjquantmats/rss/current|0|npj Quantum Materials|Nature
+http://feeds.nature.com/nphys/rss/current|20.042|Nature Physics|Nature
+http://feeds.nature.com/srep/rss/current|5.525|Scientific Reports|Nature
+http://feeds.nature.com/am/rss/current|10.995|NPG Asia Materials|Nature
+http://feeds.nature.com/nphoton/rss/current|37.852|Nature Photonics|Nature
+http://feeds.nature.com/npj2dmaterials/rss/current|0|npj 2D Materials and Applications|Nature
+http://feeds.nature.com/npjcompumats/rss/current|0|npj Computational Materials|Nature

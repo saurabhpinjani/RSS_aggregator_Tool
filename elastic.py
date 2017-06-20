@@ -48,6 +48,13 @@ def es_database_setup():
 	cwd = os.getcwd()
 	file_obj=open(cwd+"/Data_Files/"+'title_hash_file.txt','w') # clears the file containing the title of the journal in the database
 	file_obj.close() 
+
+def add_journal_to_count(journal):
+	res=es.get(index="rss_feed", doc_type="info", id=0)
+	count =res['_source']['count']
+	count[journal]=0
+	es.index(index="rss_feed", doc_type="info", id=0, body={"count": count})
+	return count
 	
 def es_clear_user_database(): #This function is used to remove all the users from the database
 	es.indices.delete(index="users", ignore=[400, 404])
@@ -222,6 +229,8 @@ def es_database_populate():
 		if(title_hash.has_key(title_str )== False): # if this article is not already in the database
 			print 'title_str',title_str
 			compounds = extractTags(entry) # this function extracts all the compounds that exist within the rss feed of this article
+			if(entry['journal'] not in count.keys()):
+				count=add_journal_to_count(entry['journal'])
 			count[entry['journal']]=int(count[entry['journal']]) +1
 			new_title_hash[title_str]=count[unicode(entry['journal'],'utf-8')]
 			
@@ -269,11 +278,11 @@ def extractTags(x):
 chemDetectInit()
 
 
-#es_clear_feed_database()
-#es_database_setup()
+es_clear_feed_database()
+es_database_setup()
 #es_clear_user_database()
-#es_database_populate()
-print get_material_list()
+es_database_populate()
+#print get_material_list()
 
 #print get_property_dict().keys()
 

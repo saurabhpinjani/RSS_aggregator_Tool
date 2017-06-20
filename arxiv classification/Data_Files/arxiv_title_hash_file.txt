@@ -99,3 +99,173 @@ Long-distance spin transport in a disordered magnetic insulator. (arXiv:1706.051
 Heterogeneous nucleation of pits via step pinning during Si(100) homoepitaxy. (arXiv:1706.05127v1 [cond-mat.mtrl-sci])|16
 Mechanisms of Cooperation and Competition of two Species Transport in Narrow Nanochannels. (arXiv:1706.05172v1 [cond-mat.soft])|26
 Solvable models of an open well and a bottomless barrier in 1-D. (arXiv:1706.05275v1 [quant-ph])|48
+Navigating at Will on the Water Phase Diagram. (arXiv:1703.00753v3 [cond-mat.mtrl-sci] UPDATED)|242
+Mechanochemical fluctuation theorem and thermodynamics of self-phoretic motors. (arXiv:1706.05691v1 [cond-mat.stat-mech])|149
+Investigation of the Dzyaloshinskii-Moriya interaction and room temperature skyrmions in W/CoFeB/MgO thin films and microwires. (arXiv:1706.05987v1 [cond-mat.mtrl-sci])|197
+Comment on "The renormalized superperturbation theory (rSPT) approach to the Anderson model in and out of equilibrium". (arXiv:1706.06029v1 [cond-mat.str-el])|207
+Perturbative approach to weakly driven many-particle systems in the presence of approximate conservation laws. (arXiv:1706.05700v1 [cond-mat.str-el])|151
+Mass-Imbalanced Fermionic Mixture in a Harmonic Trap. (arXiv:1706.05623v1 [cond-mat.quant-gas])|141
+Orbiton-magnon interplay in the spin-orbital polarons of KCuF3 and LaMnO3. (arXiv:1706.06071v1 [cond-mat.str-el])|214
+Enhanced ferromagnetic transition temperature induced by a microscopic structural rearrangement in the diluted magnetic semiconductor Ge$_{1-x}$Mn$_{x}$Te. (arXiv:1706.05775v1 [cond-mat.str-el])|156
+$d_{xz/yz}$ Orbital Subband Structures and Chiral Orbital Angular Momentum in the (001) Surface States of SrTiO$_3$. (arXiv:1706.05488v1 [cond-mat.mtrl-sci])|121
+Topological strings linking with quasi-particle exchange in superconducting Dirac semimetals. (arXiv:1703.08185v2 [cond-mat.mes-hall] UPDATED)|246
+Relaxation Oscillations and Ultrafast Emission Pulses in a Disordered Expanding Polariton Condensate. (arXiv:1706.06040v1 [cond-mat.quant-gas])|209
+Edge States of a Periodic Chain with Four-Band Energy Spectrum. (arXiv:1706.05522v1 [cond-mat.mes-hall])|128
+Asymmetry-Induced Synchronization in Oscillator Networks. (arXiv:1705.07907v2 [nlin.AO] UPDATED)|261
+The Majorana-Hubbard model on the square lattice. (arXiv:1706.05469v1 [cond-mat.str-el])|114
+Fluctuation spectroscopy as a probe of granular superconducting diamond films. (arXiv:1706.05845v1 [cond-mat.supr-con])|169
+Kinetic theory of transport for inhomogeneous electron fluids. (arXiv:1706.04621v2 [cond-mat.str-el] UPDATED)|268
+Fano interference for tailoring near-field radiative heat transfer. (arXiv:1706.01550v2 [cond-mat.mes-hall] UPDATED)|265
+Drop impact experiments of non-Newtonian liquids on micro-structured surfaces. (arXiv:1706.05732v1 [physics.flu-dyn])|154
+Investigating charge transfer dynamics at the nanoscale. (arXiv:1705.03027v2 [cond-mat.mes-hall] UPDATED)|258
+Schwinger Boson Mean Field Theories of Spin Liquid States on Honeycomb Lattice: Projective Symmetry Group Analysis and Critical Field Theory. (arXiv:1004.2693v3 [cond-mat.str-el] UPDATED)|218
+Hydrothermal Synthesis of Carbon Nanospheres. (arXiv:1701.06908v3 [cond-mat.mtrl-sci] UPDATED)|238
+Direct-exchange duality of the Coulomb interaction and collective excitations in graphene in a magnetic field. (arXiv:1706.05545v1 [cond-mat.mes-hall])|130
+Probing helicity and the topological origins of helicity via non-local Hanbury-Brown and Twiss correlations. (arXiv:1609.03978v4 [cond-mat.mes-hall] UPDATED)|228
+How fast does a random walk cover a torus?. (arXiv:1704.05039v3 [cond-mat.stat-mech] UPDATED)|253
+Suppression of crystalline fluctuations by competing structures in a supercooled liquid. (arXiv:1706.06061v1 [cond-mat.soft])|211
+Folding and cytoplasm viscoelasticity contribute jointly to chromosome dynamics. (arXiv:1703.10841v2 [physics.bio-ph] UPDATED)|248
+Optimization of the Crystal Growth of the Superconductor CaKFe$_{4}$As$_{4}$ from Solution in the FeAs-CaFe$_{2}$As$_{2}$-KFe$_{2}$As$_{2}$ System. (arXiv:1704.09025v2 [cond-mat.mtrl-sci] UPDATED)|256
+Strain control of real-and lattice-spin currents in a silicene junction. (arXiv:1702.07875v2 [cond-mat.mes-hall] UPDATED)|241
+Zone folding induced topological insulators in phononic crystals. (arXiv:1706.05668v1 [cond-mat.mes-hall])|146
+Electronic structure of heavy fermion system CePt2In7 from angle-resolved photoemission spectroscopy. (arXiv:1706.05794v1 [cond-mat.str-el])|163
+Continuous easy-plane deconfined phase transition on the kagome lattice. (arXiv:1706.05414v1 [cond-mat.str-el])|108
+Dynamics of hard rods with initial domain wall state. (arXiv:1703.05971v2 [cond-mat.stat-mech] UPDATED)|245
+Multiplet of skyrmion states on a curvilinear defect: skyrmion lattices as a ground state. (arXiv:1706.05653v1 [cond-mat.str-el])|145
+Critical magnetic fields in a superconductor coupled to a superfluid. (arXiv:1704.01575v2 [hep-th] UPDATED)|250
+Magnetization processes of zigzag states on the honeycomb lattice: Identifying spin models for $\alpha$-RuCl$_3$ and Na$_2$IrO$_3$. (arXiv:1706.05380v1 [cond-mat.str-el])|103
+Walls, Anomalies, and (De)Confinement in Quantum Anti-Ferromagnets. (arXiv:1706.05731v1 [cond-mat.str-el])|153
+Competing Ferromagnetic and Anti-Ferromagnetic interactions in Iron Nitride $\zeta$-Fe$_2$N. (arXiv:1706.05879v1 [cond-mat.mtrl-sci])|178
+Unexpected behavior of the systems of particles interacting through the harmonic-repulsive pair potential. (arXiv:1706.05970v1 [cond-mat.soft])|194
+Many-Body Quantum Optics with Decaying Atomic Spin States: ($\gamma$, $\kappa$) Dicke model. (arXiv:1605.07637v3 [cond-mat.quant-gas] UPDATED)|224
+Experimental Observation of Topological Superconductivity and Majorana Zero Modes on beta-Bi2Pd Thin Films. (arXiv:1607.07551v4 [cond-mat.supr-con] UPDATED)|225
+Optical readout of hydrogen storage in films of Au and Pd. (arXiv:1706.05517v1 [cond-mat.mes-hall])|127
+Thermometry of Silicon Nanoparticles. (arXiv:1706.05420v1 [cond-mat.mes-hall])|110
+Coherent transport in a linear triple quantum dot made from a pure-phase InAs nanowire. (arXiv:1706.03715v2 [cond-mat.mes-hall] UPDATED)|266
+Effect of mixed pinning landscapes produced by 6 MeV Oxygen irradiation on the resulting critical current densities J$_c$ in 1.3 $\mu$m thick GdBa$_2$Cu$_3$O$_{7-d}$ coated conductors grown by co-evaporation. (arXiv:1706.04228v2 [cond-mat.supr-con] UPDATED)|267
+Sub-$\mu$eV Decoherence-Induced Population Pulsation Resonances in an InGaN system. (arXiv:1705.10782v2 [cond-mat.mes-hall] UPDATED)|264
+Ising quantum criticality in Majorana nanowires. (arXiv:1706.06033v1 [cond-mat.mes-hall])|208
+Theory-based design of sintered granular composites triples three-phase boundary in fuel cells. (arXiv:1706.05974v1 [cond-mat.mtrl-sci])|195
+Random walks on uniform and non-uniform combs and brushes. (arXiv:1706.05417v1 [cond-mat.stat-mech])|109
+Ferroelectricity and Antiferroelectricity in Elemental Group-V Monolayer Materials. (arXiv:1706.05629v1 [cond-mat.mtrl-sci])|142
+Anomalous transport phenomena from dissipative charge pumping. (arXiv:1706.05787v1 [cond-mat.mes-hall])|159
+Dressed diffusion and friction coefficients in inhomogeneous multicomponent self-gravitating systems. (arXiv:1706.06009v1 [astro-ph.GA])|203
+Spatiotemporal expressions reflecting topological classes of repressor networks. (arXiv:1706.05961v1 [cond-mat.stat-mech])|193
+Direct Imaging and Electrical Detection at Room Temperature of a Single Skyrmion. (arXiv:1706.06024v1 [physics.app-ph])|206
+Scalable quantum computing model in the circuit-QED lattice with circulator function. (arXiv:1706.05793v1 [quant-ph])|162
+Center-of-mass-momentum-dependent interaction between ultracold atoms. (arXiv:1706.05957v1 [cond-mat.quant-gas])|192
+An experimental test for the existence of isomorphs in glass-forming materials. (arXiv:1706.05994v1 [cond-mat.soft])|200
+Buckyball sandwiches. (arXiv:1706.05947v1 [cond-mat.mtrl-sci])|190
+Quantum group symmetries and completeness for A_{2n}^(2) open spin chains. (arXiv:1702.01482v3 [math-ph] UPDATED)|240
+Chaos, Complexity, and Random Matrices. (arXiv:1706.05400v1 [hep-th])|106
+A perturbation theory for water with an associating reference fluid. (arXiv:1706.05725v1 [cond-mat.soft])|152
+Ergodicity and symmetry breaking in disordered spin chains with on-site non-Abelian symmetry. (arXiv:1706.06062v1 [cond-mat.dis-nn])|212
+Quantum De Moivre-Laplace theorem for noninteracting indistinguishable particles. (arXiv:1609.05007v4 [quant-ph] UPDATED)|229
+Sequence transferable coarse-grained model of amphiphilic copolymer. (arXiv:1706.05885v1 [cond-mat.soft])|180
+Self-dual quasiperiodic systems with power-law hopping. (arXiv:1706.05382v1 [cond-mat.dis-nn])|104
+Goldstone and Higgs Hydrodynamics in the BCS-BEC Crossover. (arXiv:1706.05555v1 [cond-mat.quant-gas])|132
+Isotropic-Nematic Phase Transitions in Gravitational Systems. (arXiv:1701.03271v2 [astro-ph.GA] UPDATED)|237
+ThCr2Si2-type Ru-based superconductors LaRu2M2 (M = P and As): An ab-initio investigation. (arXiv:1609.08856v2 [cond-mat.mtrl-sci] UPDATED)|230
+The Electron Pairing of K$_x$Fe$_{2-y}$Se$_2$. (arXiv:1101.4390v3 [cond-mat.supr-con] UPDATED)|219
+Rare quantum fluctuations in the strongly dispersive Jaynes-Cummings oscillator. (arXiv:1706.05337v1 [quant-ph] CROSS LISTED)|271
+A first-principles study of carbon-related energy levels in GaN: Part II - Complexes formed by carbon and hydrogen, silicon or oxygen. (arXiv:1706.05574v1 [cond-mat.mtrl-sci])|135
+Manipulating topological-insulator properties using quantum confinement. (arXiv:1703.09356v2 [cond-mat.mes-hall] UPDATED)|247
+Density matrices in full configuration interaction quantum Monte Carlo: Excited states, transition dipole moments and parallel distribution. (arXiv:1704.00864v2 [physics.comp-ph] UPDATED)|249
+The Ferromagnetism in the Vicinity of Lifshitz Topological Transitions. (arXiv:1706.05490v1 [cond-mat.mes-hall])|122
+Swelling of ionic microgel particles in the presence of excluded-volume interactions: a density functional approach. (arXiv:1706.05620v1 [cond-mat.soft])|140
+A first-principles study of carbon-related energy levels in GaN. Part I - complexes formed by substitutional/interstitial carbons and gallium/nitrogen vacancies. (arXiv:1507.06969v3 [cond-mat.mtrl-sci] UPDATED)|221
+Evidence for hard and soft substructures in thermoelectric SnSe. (arXiv:1706.06004v1 [cond-mat.mtrl-sci])|202
+Unwanted electroless zinc plating on current collectors in zinc air batteries. (arXiv:1706.05929v1 [cond-mat.mtrl-sci])|187
+Cavity-enhanced optical readout of a single solid-state spin. (arXiv:1706.05582v1 [quant-ph])|136
+On the geometry of carbon nanostructures formed at reaction of organic compounds at high pressure and temperature. (arXiv:1705.07247v2 [cond-mat.mes-hall] UPDATED)|260
+Quantum anomalous Hall effect in Mn doped HgTe quantum wells. (arXiv:1706.05789v1 [cond-mat.mes-hall])|160
+Entanglement across extended random defects in the XX spin chain. (arXiv:1706.05915v1 [cond-mat.dis-nn])|183
+An efficient and reliable growth method for epitaxial complex oxide films by molecular beam epitaxy. (arXiv:1706.05797v1 [cond-mat.mtrl-sci])|164
+The lure of ice-templating: recent trends and opportunities for porous materials. (arXiv:1706.05875v1 [cond-mat.mtrl-sci])|176
+Spin Hall effect from hybridized 3$d$-4$p$ orbitals. (arXiv:1706.05846v1 [cond-mat.mtrl-sci])|170
+\emph{Ab initio} calculation of spin-orbit coupling for NV center in diamond exhibiting dynamic Jahn-Teller effect. (arXiv:1706.05523v1 [cond-mat.mtrl-sci])|129
+Magnon-phonon coupling effects on the indirect K-edge resonant inelastic X-ray scattering spectrum of a 2D Heisenberg antiferromagnet. (arXiv:1706.05478v1 [cond-mat.str-el])|118
+Approximating quantum many-body wave-functions using artificial neural networks. (arXiv:1704.05148v3 [cond-mat.str-el] UPDATED)|254
+Tuning Edge States in Strained-Layer InAs/GaInSb Quantum Spin Hall Insulators. (arXiv:1608.06588v3 [cond-mat.mes-hall] UPDATED)|227
+Spin order and dynamics in the diamond-lattice Heisenberg antiferromagnets CuRh2O4 and CoRh2O4. (arXiv:1706.05881v1 [cond-mat.str-el])|179
+Competing interactions in artificial spin chains. (arXiv:1706.05485v1 [cond-mat.mes-hall])|120
+Electrical signature of individual magnetic skyrmions in multilayered systems. (arXiv:1706.05809v1 [cond-mat.mes-hall])|165
+Supersymmetric SYK Model: Bi-local Collective Superfield/Supermatrix Formulation. (arXiv:1706.05914v1 [hep-th])|182
+Local inversion symmetry breaking and spin-phonon coupling in perovskite GdCrO3. (arXiv:1706.05547v1 [cond-mat.str-el])|131
+Enhanced interlayer excitonic systems in WSe2-MoSe2-WSe2 trilayer van der Waals heterostructures. (arXiv:1706.05857v1 [cond-mat.mes-hall])|172
+Collective emission of matter-wave jets from driven Bose-Einstein condensates. (arXiv:1706.05560v1 [cond-mat.quant-gas])|134
+Photodiodes based in La0.7Sr0.3MnO3/single layer MoS2 hybrid vertical heterostructures. (arXiv:1706.05860v1 [cond-mat.mes-hall])|173
+Aging Dynamics in Ferroelectric Deuterated Potassium Dihydrogen Phosphate. (arXiv:1706.05559v1 [cond-mat.mtrl-sci])|133
+Classification of out-of-time-order correlators. (arXiv:1701.02820v2 [hep-th] UPDATED)|236
+Cosmology in the laboratory: an analogy between hyperbolic metamaterials and the Milne universe. (arXiv:1706.05470v1 [gr-qc])|115
+Coherent control in quantum transport: amplification, filtering and switching at finite bias. (arXiv:1703.03672v2 [cond-mat.mes-hall] UPDATED)|243
+Ballistic transport in the one-dimensional Hubbard model: hydrodynamic approach. (arXiv:1706.05931v1 [cond-mat.stat-mech])|188
+Testing self-energy embedding theory in combination with GW. (arXiv:1706.05774v1 [cond-mat.str-el])|155
+Influence of electrical and magnetic fields on the excess current in HTSC - normal metal point contacts. (arXiv:1706.06073v1 [cond-mat.supr-con])|215
+Dynamic induced softening in frictional granular material investigated by DEM simulation. (arXiv:1706.05898v1 [physics.geo-ph])|181
+Neuron-inspired flexible memristive device on silicon (100). (arXiv:1706.05645v1 [physics.app-ph])|144
+Orbital optimization in the perfect pairing hierarchy. Applications to full-valence calculations on linear polyacenes. (arXiv:1705.01678v2 [cond-mat.str-el] UPDATED)|257
+Spin flip statistics and Spin wave interference patterns in Ising ferromagnetic films: A Monte Carlo study. (arXiv:1410.7023v4 [cond-mat.stat-mech] UPDATED)|220
+Injection locking at 2f of spin torque oscillators under influence of thermal noise. (arXiv:1706.05998v1 [physics.app-ph])|201
+Electronic Structure and Magnetic Properties of Half-metallic Ferrimagnet Mn$_{2}$VAl Probed by Soft X-ray Spectroscopies. (arXiv:1705.10027v2 [cond-mat.str-el] UPDATED)|263
+Solvable models of an open well and a bottomless barrier in 1-D. (arXiv:1706.05275v2 [quant-ph] UPDATED)|270
+Topological quantum phase transition in the Ising-like antiferromagnetic spin chain BaCo$_2$V$_2$O$_8$. (arXiv:1706.05848v1 [cond-mat.str-el])|171
+Molecular dynamics simulations in hybrid particle-continuum schemes: Pitfalls and caveats. (arXiv:1706.05923v1 [cond-mat.soft])|185
+Electronic and magnetic properties of epitaxial SrRhO3 films. (arXiv:1706.05409v1 [cond-mat.str-el])|107
+In situ characterization of qubit control lines: a qubit as a vector network analyzer. (arXiv:1706.05829v1 [quant-ph])|167
+Thermodynamic States of the Mixed Spin 1/2 and Spin 1 Hexagonal Nanowire System Obtained from a Seven-Site Cluster Within an Improved Mean Field Approximation. (arXiv:1706.05630v1 [cond-mat.stat-mech])|143
+Anomalous strain effect on the thermal conductivity of borophene: a reactive molecular dynamics study. (arXiv:1706.05842v1 [cond-mat.mtrl-sci])|168
+Inner products in integrable Richardson-Gaudin models. (arXiv:1706.05511v1 [math-ph])|126
+Duality relations for charge transfer statistics. (arXiv:1706.05992v1 [cond-mat.mes-hall])|199
+On a type of non-classical boundary condition of Lagrangian field. (arXiv:1706.05615v1 [math-ph])|139
+Squeezed Dirac and Topological Magnons in a Bosonic Honeycomb Optical Lattice. (arXiv:1706.04974v2 [cond-mat.str-el] UPDATED)|269
+Attractor metadynamics: adiabatic vs. symmetry protected flow in a recurrent neural network. (arXiv:1611.00174v3 [cond-mat.dis-nn] UPDATED)|231
+Emergence of a fluctuation relation for heat in typical open quantum processes. (arXiv:1510.08219v2 [quant-ph] UPDATED)|222
+Diffusion of Zwitterion Glycine, Diglycine, and Triglycine in Water. (arXiv:1706.05491v1 [cond-mat.mtrl-sci])|123
+Using forces to accelerate first-principles anharmonic vibrational calculations. (arXiv:1706.05387v1 [cond-mat.mtrl-sci])|105
+Effects of interaction between nanopore and polymer on translocation time. (arXiv:1706.05810v1 [physics.comp-ph])|166
+Uncovering the influence of common nonmetal impurities on the stability and strength of metallic grain boundaries. (arXiv:1706.05606v1 [cond-mat.mtrl-sci])|137
+Dynamic scaling in the 2D Ising spin glass with Gaussian couplings. (arXiv:1706.05472v1 [cond-mat.stat-mech])|116
+Pinned domain wall oscillator as tunable direct current spin wave emitter. (arXiv:1706.05873v1 [cond-mat.mes-hall])|175
+Ab-initio modeling of electrolyte molecule Ethylene Carbonate decomposition reaction on Li(Ni,Mn,Co)O2 cathode surface. (arXiv:1706.05784v1 [cond-mat.mtrl-sci])|158
+Observation of pristine Majorana bound state in iron-based superconductor. (arXiv:1706.06074v1 [cond-mat.supr-con])|216
+Chiral and Topological Orbital Magnetism of Spin Textures. (arXiv:1706.06068v1 [cond-mat.mtrl-sci])|213
+Experimental discovery of nodal chains. (arXiv:1706.05500v1 [cond-mat.mtrl-sci])|124
+Moir\'e band model and band gaps of graphene on hexagonal boron nitride. (arXiv:1706.06016v1 [cond-mat.mes-hall])|204
+Interfacial fluid instabilities and Kapitsa pendula. (arXiv:1512.04423v2 [physics.flu-dyn] UPDATED)|223
+Universal Entanglement Dynamics following a Local Quench. (arXiv:1701.08866v3 [cond-mat.str-el] UPDATED)|239
+Surface Chiral Spin Mode on Topological Insulator Bi$_2$Se$_3$. (arXiv:1706.05776v1 [cond-mat.mtrl-sci])|157
+Electronic structure and nematic phase transition in superconducting multi-layer FeSe films grown by pulsed laser deposition method. (arXiv:1706.05790v1 [cond-mat.supr-con])|161
+Dynamic wrinkling and strengthening of a filament in a viscous fluid. (arXiv:1701.01488v2 [cond-mat.soft] UPDATED)|235
+Effect of Long-Range Dielectric Screening on Charge Transfer States. (arXiv:1706.06045v1 [cond-mat.mes-hall])|210
+A Thermodynamic Perspective of Negative-capacitance Field-effect-transistors. (arXiv:1706.05464v1 [physics.app-ph])|112
+Explosive Percolation on Directed Networks Due to Monotonic Flow of Activity. (arXiv:1706.06077v1 [physics.soc-ph])|217
+Atomic-scale observation and manipulation of plaquette antiferromagnetic order in iron-based superconductor. (arXiv:1608.00884v3 [cond-mat.supr-con] UPDATED)|226
+Resilience of the quantum Rabi model in circuit QED. (arXiv:1612.03096v2 [quant-ph] UPDATED)|232
+Magnetization of potassium doped p-terphenyl and p-quaterphenyl by high pressure synthesis. (arXiv:1706.06018v1 [cond-mat.supr-con])|205
+Conservation of spin supercurrents in superconductors. (arXiv:1706.05377v1 [cond-mat.supr-con])|102
+Fractional Bhatnagar-Gross-Krook kinetic equation. (arXiv:1706.05475v1 [cond-mat.stat-mech])|117
+On the origin of magnetic anisotropy in two dimensional CrI$_3$. (arXiv:1704.03849v3 [cond-mat.mes-hall] UPDATED)|252
+The BCS critical temperature in a weak homogeneous magnetic field. (arXiv:1706.05686v1 [math-ph])|148
+Electrical and Thermal Transport at the Planckian Bound of Dissipation in the Hydrodynamic Electron Fluid of WP2. (arXiv:1706.05925v1 [cond-mat.str-el])|186
+Extremely fast simulations of heat transfer in fluidized beds. (arXiv:1706.05934v1 [cond-mat.soft])|189
+The influence of localization transition on dynamical properties for an extended Aubry-Andr\'e-Harper model. (arXiv:1704.02159v2 [cond-mat.dis-nn] UPDATED)|251
+All-optical logic gates in Stub photonic lattices. (arXiv:1706.05437v1 [physics.optics])|111
+Unfolding energy spectra of multi-periodicity materials. (arXiv:1706.05921v1 [cond-mat.mtrl-sci])|184
+Many-body localization dynamics from gauge invariance. (arXiv:1706.05878v1 [cond-mat.str-el])|177
+Stochastic modelling of dynamical systems with several attractors. (arXiv:1706.05866v1 [cond-mat.stat-mech])|174
+Theoretical evidence for unexpected O-rich phases at corners of MgO surfaces. (arXiv:1706.05695v1 [cond-mat.mtrl-sci])|150
+Spin susceptibility and effects of a harmonic trap in the BCS-BEC crossover regime of an ultracold Fermi gas. (arXiv:1706.05679v1 [cond-mat.quant-gas])|147
+Physical observables of the Ising spin glass in 6-epsilon dimensions: asymptotical behavior around the critical fixed point. (arXiv:1612.09211v2 [cond-mat.dis-nn] UPDATED)|234
+Plasmonic modes of polygonal particles calculated using a quantum hydrodynamics method. (arXiv:1706.05465v1 [cond-mat.mes-hall])|113
+Effective mobility for sequential carrier transport in multiple quantum well structures. (arXiv:1706.05608v1 [cond-mat.mtrl-sci])|138
+Effect of increasing disorder on domains of the two-dimensional Coulomb glass. (arXiv:1706.05954v1 [cond-mat.dis-nn])|191
+Single crystal growth and physical property characterizations of mixed valent compound YbFe$_2$Al$_{10}$. (arXiv:1612.03421v2 [cond-mat.str-el] UPDATED)|233
+Electron-phonon coupling in the spin-split valence band of single layer WS$_2$. (arXiv:1706.05484v1 [cond-mat.str-el])|119
+A sidewall friction driven ordering transition in granular channel flows: Implications for granular rheology. (arXiv:1706.05503v1 [cond-mat.soft])|125
+Nonlinear transport theory in the metal with tunnel barrier. (arXiv:1706.05981v1 [cond-mat.stat-mech])|196
+The Structural Fate of Individual Multicomponent Metal-Oxide Nanoparticles in Polymer Nanoreactors. (arXiv:1705.05760v2 [physics.chem-ph] UPDATED)|259
+Ultra-fast Vapor Generation by a Graphene Nano-ratchet. (arXiv:1703.05473v2 [cond-mat.mes-hall] UPDATED)|244
+Topological Magnon Bands and Unconventional Thermal Hall Effect on the Frustrated Honeycomb and Bilayer Triangular Lattice. (arXiv:1705.08892v4 [cond-mat.str-el] UPDATED)|262
+Universal linear and nonlinear electrodynamics of the Dirac fluid. (arXiv:1704.07334v3 [cond-mat.other] UPDATED)|255
+Magnon transport through a quantum dot: Conversion to electronic spin and charge currents. (arXiv:1706.05991v1 [cond-mat.mes-hall])|198

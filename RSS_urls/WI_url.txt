@@ -1,6 +1,5 @@
-http://advances.sciencemag.org/rss/current.xml|34.921|Science Advances
-http://journals.iucr.org/a/rss10.xml|2.17|Acta Crystallographica Section A
-http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1614-6840|16.757|Advanced Energy Materials
-http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1616-3028|11.774|Advanced Functional Materials
-http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-4095|18.862|Advanced Materials
-http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1613-6829|8.375|Small
+http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1614-6840|16.757|Advanced Energy Materials|Wiley
+http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1616-3028|11.774|Advanced Functional Materials|Wiley
+http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-4095|18.862|Advanced Materials|Wiley
+http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1613-6829|8.375|Small|Wiley
+http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1613-6829|11.994|Angewandte Chemie International Edition|Wiley
