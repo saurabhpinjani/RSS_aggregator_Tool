@@ -16,8 +16,8 @@ es = Elasticsearch(['http://localhost:9200']) # to create the elastic search obj
 
 def classified_feed_meta_setup(journals_array):
 	
-	print("Setup \n")
-	for journal in journals_array:
+	print("=====================META DATA SETUP======================= \n")
+	for journal in journals_array:	
 		try:
 			res = es.get(index="classified_feed", doc_type=journal, id= 0)
 			print(journal+" is already in meta data. So it is ignored \n")
@@ -25,9 +25,19 @@ def classified_feed_meta_setup(journals_array):
 			res = es.index(index="classified_feed", doc_type=journal, id= 0, body={"all_titles": {}, "classified_titles" : {} })
 			print(journal+" is added to meta data \n") 
 
+	print("======================ALLOTED/NOT DATA SETUP=================== \n")
+	for journal in journals_array:
+		try:
+			res = es.get(index="classified_feed", doc_type=journal, id= -1)
+			print(journal+" is already in alloted/not data. So it is ignored \n")
+		except:
+			res = es.index(index="classified_feed", doc_type=journal, id= -1, body={"alloted": "no", "completed" : "no" })
+			print(journal+" is added to alloted/not data \n")
+
 
 
 def classified_feed_db_setup(journals_array):
+	print("======================FEED DB SETUP =================== \n")
 	total_new = 0
 	for journal in journals_array:
 		#get meta data of that particular journal
@@ -45,14 +55,19 @@ def classified_feed_db_setup(journals_array):
 				all_titles[new_id] = article_title
 				push_data =es.index(index="classified_feed", doc_type=journal, id = new_id, body=article['_source'])
 				new_articles = new_articles+1
+		
 		print( str(new_articles)+" new articles from "+ journal+" added to DB \n")
 		res_class['_source']['all_titles'] = all_titles
+		if(new_articles>0):
+			res = es.index(index="classified_feed", doc_type=journal, id= -1, body={"alloted": "no", "completed" : "no" })
+			print("ALLOT/NOT reset for "+journal+'\n')
 		push_titles = es.index(index="classified_feed", doc_type=journal, id= 0, body=res_class['_source'])
 		total_new = total_new + new_articles
 
 	print("In total, "+str(total_new)+" articles added to DB from various journals \n")
 
 #list of jounals in an array
+print("=======================================================================================")
 print("=======================================================================================\n")
 print(str(datetime.now())+'\n')
 f = open(os.getcwd()+'/RSS_urls/journals.txt','r')
