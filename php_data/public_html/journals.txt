@@ -1,3 +1,4 @@
+Science Advances
 Applied Materials & Interfaces
 Chemistry of Materials
 ACS Combinatorial Science
@@ -6,6 +7,8 @@ ACS Nano
 Nano Letters
 Journal of Physical Chemistry C
 Journal of Physical Chemistry Letters
+Journal of the American Chemical Society
+Langmuir
 APL Materials
 Applied Physics Letters
 Applied Physics Reviews
@@ -16,14 +19,34 @@ Physical Review B
 Physical Review Letters
 Physical Review X
 Reviews of Modern Physics
+Journal of the electrochemical society
 Journal of Materiomics
 Journal of Magnetism and Magnetic Materials
 Solar Energy Materials & Solar Cells
+Solid State Communications
 2D Materials
 EPL (Europhysics Letters)
 Journal of Physics: Condensed Matter
 Nanotechnology
 New Journal of Physics
+Acta Crystallographica Section A
+Proceeding of the National Academy of Science (PNAS)
+Journal of Materials Chemistry C
+Physical Chemistry Chemical Physics
+Journal of Materials Chemistry A
+Dalton Transactions
+Energy & Environmental Science
+Nanoscale
+Chemical Communication
+Chemical Science
+RSC Advances
+Advanced Energy Materials
+Advanced Functional Materials
+Advanced Materials
+Small
+Angewandte Chemie International Edition
+arXiv Materials Science
+arXiv Mesoscopic and Nanoscale Physics
 Nature - Issue
 Nature Chemistry
 Nature Communications
@@ -34,11 +57,6 @@ npj Quantum Materials
 Nature Physics
 Scientific Reports
 NPG Asia Materials
-Journal of Materials Chemistry C
-Physical Chemistry Chemical Physics
-Science Advances
-Acta Crystallographica Section A
-Advanced Energy Materials
-Advanced Functional Materials
-Advanced Materials
-Small
+Nature Photonics
+npj 2D Materials and Applications
+npj Computational Materials
