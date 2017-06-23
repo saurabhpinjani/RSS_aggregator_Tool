@@ -234,7 +234,7 @@ if(isset($_POST['action']))
       else
       {
         
-        $saved_tables_array=$user_details['saved_tables'];
+        $saved_tables_array=$user_details['_source']['saved_tables'];
         $saved_tables_array[$table_name]=$saved_table;
       }
 
