@@ -212,11 +212,20 @@ def es_database_populate():
 	new_title_hash={}
 	title_hash =fill_title_hash()
 	
-	comp_file = open(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt","r")
+	# comp_file = open(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt","r")
 	
-	compounds_list=comp_file.readlines();	
-	comp_file.close()
-	comp_file = open(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt","w")
+	# compounds_list=comp_file.readlines();	
+	# comp_file.close()
+
+	
+
+	try:
+		compounds_list = read_list_from_file(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt")
+	except IOError:
+		compounds_list = []
+
+	comp_file = open(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt","a+")
+	new_compounds = 0
 	for entry in aggr_feed:
 		 # this part of code removes all the new line characters that might be present between the title as in teh fees and replaces them with spaces
 		title_parts= entry['title'].encode('utf-8').split("\n")
@@ -243,6 +252,7 @@ def es_database_populate():
 				if (not (comp in compounds_list)) and (len(comp)>3):
 					compounds_list.append(comp)
 					comp_file.write(comp+"\n")
+					new_compounds = new_compounds + 1
 			entry = json.dumps(entry, default=to_json)
 			res = es.index(index="rss_feed", doc_type=journal_name, id=int(count[journal_name]), body=entry)
 	comp_file.close()
@@ -251,6 +261,7 @@ def es_database_populate():
 	title_hash_file_update(new_title_hash)
 	
 	comp_file.close()
+	print("Number of new compounds found are: "+str(new_compounds))
 	material_table_update()
 
 def extractTags(x):
