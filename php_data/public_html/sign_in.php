@@ -2,11 +2,41 @@
 session_start();
 ?>
 <html>
-<body style="background-color: #E8F0F5" > 
+<head>
+<style>
+.button {
+  background-color: #bbb;
+  padding: .5em;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Oswald';
+  font-size: 20px;
+  text-decoration: none;
+  border: none;
+}
 
+.button:hover {
+  border: none;
+  background: teal;
+  box-shadow: 0px 0px 1px #777;
+}
+</style>
+</head>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<body> 
+<div id="topLine">
+  <div id="header">
+    <ul class="nav">
+      <li><a href="http://material.ie">Home</a></li>
+    </ul>
+    <h1><span>   C</span>erebro</h1>
+  </div>
+</div>
 <center>
-<h1>Cerebro</h1>
-<a href="index.php"><img src="cerebro.jpg" style="width:50%; height:50%;"></a> 
+
+<a href="index.php"><img src="cerebro.png"></a> 
 <h2>Sign in</h2>
 
 
@@ -14,9 +44,10 @@ session_start();
 Username: <input type="text" name="sign_in_username"><br>
 Password: <input type ="password" name="sign_in_password"><br>
 <input type ="hidden" name= "action" value="sign_in"><br>
-<input type="submit" value="Log in" name="sign_in_click">
+<input class="button" type="submit" value="Log in" name="sign_in_click">
 </form>
-
+<br>
+<br>
 <h2> Sign Up</h2>
 
 <form action="sign_in.php" method="post">
@@ -24,7 +55,7 @@ Select Username: <input type="text" name="sign_up_username"><br>
 Password: <input type ="password" name="sign_up_password"><br>
 Confirm Password: <input type="password" name ="sign_up_password2"><br>
 <input type ="hidden" name= "action" value="sign_up"><br>
-<input type="submit" value="Sign up" name="sign_up_click">
+<input class="button" type="submit" value="Sign up" name="sign_up_click">
 </form>
 
 <?php

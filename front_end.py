@@ -10,6 +10,10 @@ import numpy as np
 reload(sys)
 sys.setdefaultencoding('utf8')
 
+# import io, json
+# with io.open('data.txt', 'w', encoding='utf-8') as f:
+#    f.write(json.dumps(data, ensure_ascii=False))
+
 
 os.system('sudo service elasticsearch start')
 es = Elasticsearch(['http://localhost:9200'])

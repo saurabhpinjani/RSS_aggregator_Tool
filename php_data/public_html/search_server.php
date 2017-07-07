@@ -1,13 +1,35 @@
+<!DOCTYPE HTML>  
+
 <html>
 <head>
 <style>
+.button {
+  background-color: #bbb;
+  padding: .5em;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Oswald';
+  font-size: 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.button:hover {
+  border: none;
+  background: teal;
+  box-shadow: 0px 0px 1px #777;
+}
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
+    background-color: #bbb;
+    font-family: 'Oswald';
+    font-size: 17px;
 }
 
 li {
@@ -16,23 +38,24 @@ li {
 
 li a {
     display: block;
-    color: #666;
+    color: #fff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: #DFEAF1;
+    background-color: teal;
+    color: #fff;
 }
 
 li a.active {
     color: white;
-    background-color: #8796CD;
+    background-color: teal;
 }
 </style>
 </head>
-<body style="background-color: #E8F0F5"> 
+<body>  
 <?php
     session_start();
     $user_data = $_SESSION["User_details"];
@@ -41,17 +64,18 @@ li a.active {
 ?>
 <center>
 <ul>
-  <li><a href="material_table.php">Materials Table</a></li>
+  <li><a href="material_table.php">New table</a></li>
+  <li><a href="load_material_table.php">Load previous tables</a></li>
   <li><a class="active" href="search_server.php">Search Page</a></li>
   <li style="float:right"><a href="sign_out.php">
       <?php echo $user_name." (sign out)" ?>
   </a></li>
-  <li style="float:right"><a href="userdata_properties.php">Properties</a></li>
+  <li style="float:right"><a href="userdata_properties.php">Submit</a></li>
   <li style="float:right"><a href="userdata_compounds.php">Compounds</a></li>
   <li style="float:right"><a href="userdata_journals.php">Journals</a></li>
 </ul>
 <br>
-<a href="index.php"><img src="cerebro.jpg" style="width:50%; height:50%;"></a> 
+<a href="index.php"><img src="cerebro.png"></a> 
 <!--<a href="magnetic_table.php"><h2>Click here for magnetic materials table</h2></a>
 
 <form action="push_server.php" method="post">
@@ -68,7 +92,7 @@ Search for: <input type="text" name="search_text_1">
 <br>
 <input type="radio" name="search_type" value="words_match">Match all the words<br>
 <input type="radio" name="search_type" value="phrase_match">Match the phrase<br>
-<input type="submit" value="Search" name="">
+<input class="button" type="submit" value="Search" name="">
 </form>
 
 <?php

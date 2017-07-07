@@ -1,19 +1,44 @@
 <?php
 // Start the session
-session_start();
+    session_start();
+    $user_data = $_SESSION["User_details"];
+    if(sizeof($user_data)==0){header('Location:sign_in.php');}
+    $user_name = $user_data['_source']['username'];
 ?>
 <!DOCTYPE HTML>  
 
 <html>
+
 <head>
 <style>
+.button {
+  background-color: #bbb;
+  padding: .5em;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Oswald';
+  font-size: 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.button:hover {
+  border: none;
+  background: teal;
+  box-shadow: 0px 0px 1px #777;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
+    background-color: #bbb;
+    font-family: 'Oswald';
+    font-size: 17px;
 }
 
 li {
@@ -22,31 +47,33 @@ li {
 
 li a {
     display: block;
-    color: #666;
+    color: #fff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: #ddd;
+    background-color: teal;
+    color: #fff;
 }
 
 li a.active {
     color: white;
-    background-color: #4CAF50;
+    background-color: teal;
 }
 </style>
 </head>
-<body>  
+<body>    
 <center>
 <ul>
-  <li><a class="active"  href="material_table.php">Materials Table</a></li>
+  <li><a href="material_table.php">New table</a></li>
+  <li><a class="active"  href="load_material_table.php">Load previous tables</a></li>
   <li><a href="search_server.php">Search Page</a></li>
   <li style="float:right"><a href="sign_out.php">
       <?php echo $user_name." (sign out)" ?>
   </a></li>
-  <li style="float:right"><a href="userdata_properties.php">Properties</a></li>
+  <li style="float:right"><a href="userdata_properties.php">Submit</a></li>
   <li style="float:right"><a href="userdata_compounds.php">Compounds</a></li>
   <li style="float:right"><a href="userdata_journals.php">Journals</a></li>
 </ul>
@@ -60,7 +87,8 @@ li a.active {
     if(array_key_exists('saved_tables',$user_data['_source']))
     {
         $table_list=$user_data['_source']['saved_tables'];
-    }  
+    }
+    // print_r($table_list);  
     require 'vendor/autoload.php';
     $clientBuilder = Elasticsearch\ClientBuilder::create();   // Instantiate a new ClientBuilder
     $clientBuilder->setHosts(['http://localhost:9200']);           // Set the hosts
@@ -121,7 +149,7 @@ li a.active {
     </select>
 <br>
 <input type ="hidden" name= "action" value="load"><br>
-<input type="submit" value="Load Table" name="Load_button">
+<input class="button" type="submit" value="Load Table" name="Load_button">
 
 </form>
 

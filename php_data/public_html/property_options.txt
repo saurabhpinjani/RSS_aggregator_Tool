@@ -1,0 +1,11 @@
+electric
+electronic_structure
+energy_or_electrochemical
+magnetism
+mechanical
+optical
+thermal
+transport
+superconductivity
+others
+cant_decide

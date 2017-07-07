@@ -1,14 +1,35 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>  
+
 <html>
 <head>
 <style>
+.button {
+  background-color: #bbb;
+  padding: .5em;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Oswald';
+  font-size: 20px;
+  text-decoration: none;
+  border: none;
+}
+
+.button:hover {
+  border: none;
+  background: teal;
+  box-shadow: 0px 0px 1px #777;
+}
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
+    background-color: #bbb;
+    font-family: 'Oswald';
+    font-size: 17px;
 }
 
 li {
@@ -17,23 +38,24 @@ li {
 
 li a {
     display: block;
-    color: #666;
+    color: #fff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: #DFEAF1;
+    background-color: teal;
+    color: #fff;
 }
 
 li a.active {
     color: white;
-    background-color: #8796CD;
+    background-color: teal;
 }
 </style>
 </head>
-<body style="background-color: #E8F0F5"> 
+<body>  
 <center>
 <?php
     session_start();
@@ -42,12 +64,13 @@ li a.active {
     $user_name = $user_data['_source']['username'];
 ?>
 <ul>
-  <li><a href="material_table.php">Materials Table</a></li>
+  <li><a href="material_table.php">New table</a></li>
+  <li><a href="load_material_table.php">Load previous tables</a></li>
   <li><a href="search_server.php">Search Page</a></li>
   <li style="float:right"><a href="sign_out.php">
       <?php echo $user_name." (sign out)" ?>
   </a></li>
-  <li style="float:right"><a href="userdata_properties.php">Properties</a></li>
+  <li style="float:right"><a href="userdata_properties.php">Submit</a></li>
   <li style="float:right"><a class="active" href="userdata_compounds.php">Compounds</a></li>
   <li style="float:right"><a href="userdata_journals.php">Journals</a></li>
 </ul>
@@ -133,14 +156,18 @@ li a.active {
     echo '<br>';
     echo "Search for: <input type=".'"text"'."name=".'"search_text"'.">";
     echo '<br>';
-    echo "<input type=".'"submit"'." name=".'"submit_name"'." value=".'"SEARCH"'." style=".'"height:40px; width:80px;"'." >";
+    echo "<input class=".'"button"'." type=".'"submit"'." name=".'"submit_name"'." value=".'"SEARCH"'." >";
     
     echo '</form>';
-
+    /*if (in_array("", $compounds_choice))
+    {
+        $key = array_search("", $compounds_choice);
+        unset($compounds_choice,$key);
+    }*/
     $search_text = $_POST["search_text"];
     if (in_array($search_text, $compounds))
     {
-        if (!in_array($search_text, $compounds_choice))
+        if ((!in_array($search_text, $compounds_choice)) && ($search_text!= ""))
             {array_push($compounds_choice, $search_text);}
         echo "FOUND";
         echo '<br>';
@@ -159,7 +186,7 @@ li a.active {
         // echo "'";
         echo '<br>';
     }
-    echo "<input type=".'"submit"'." name=".'"remove"'." value=".'"remove selected"'." style=".'"height:40px; width:120px;"'." >";
+    echo "<input class=".'"button"'." type=".'"submit"'." name=".'"remove"'." value=".'"remove selected"'." >";
     echo "</form>";
     // echo "<a href=".'"userdata_properties.php"'.">NEXT </a>";
 ?>
@@ -168,7 +195,7 @@ li a.active {
 <br>
 <br>
 <form action="userdata_properties.php">
-    <input type="submit" name="next" value="NEXT" style="height: 80px;width: 160px; font-size: 200%">
+    <input class="button" type="submit" name="next" value="NEXT">
 </form>
 </center>
 </body>
