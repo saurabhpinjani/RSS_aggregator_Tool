@@ -75,6 +75,13 @@ li a.active {
   <li style="float:right"><a href="userdata_journals.php">Journals</a></li>
 </ul>
 
+<br>
+<br>
+
+<h2>
+<a href="/materials/compounds_found.txt" target="_blank">List of compounds on the database as of now</a>
+</h2>
+<br>    
 
 <form action="userdata_compounds.php" method="post">
 <?php 
@@ -155,7 +162,7 @@ li a.active {
     }
     echo '<br>';
     echo "Search for: <input type=".'"text"'."name=".'"search_text"'.">";
-    echo '<br>';
+    echo '<br> <br>';
     echo "<input class=".'"button"'." type=".'"submit"'." name=".'"submit_name"'." value=".'"SEARCH"'." >";
     
     echo '</form>';
