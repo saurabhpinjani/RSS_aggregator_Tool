@@ -168,7 +168,8 @@ if(isset($_POST['action']))
               $user_details=$_SESSION['User_details'];
               $selected_journals=$user_details['_source']['saved_tables'][$table_name]['journals'];
               $selected_materials =$user_details['_source']['saved_tables'][$table_name]['compounds'];
-             
+              $_SESSION['journal_choice'] = $selected_journals;
+              $_SESSION['compounds_choice'] = $selected_materials;
               $count_array=array();
               $results_array=array();
 

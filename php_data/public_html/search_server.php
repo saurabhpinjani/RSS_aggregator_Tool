@@ -127,12 +127,12 @@ Search for: <input type="text" name="search_text_1">
             if($x['_source']['read_yet']=='brahmavishnu') //brahmavishnu means false
             {
                 //ChangeReadYet($x);
-                echo $x['_id'];
+                // echo $x['_id'];
                 echo "<a href= 'changeread.php?i=".$i."' style='color: rgb(0,0,255)'>";
             }
             else 
             {
-                echo $x['_id'];
+                // echo $x['_id'];
                 echo "<a href= '$link' style='color: rgb(255,0,0)'>";
             }   
             echo $x['_source']['title'];
