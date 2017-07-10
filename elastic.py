@@ -73,7 +73,12 @@ def es_clear_feed_database(): #This function is used to remove all the feeds fro
 	for journal in journal_list:
 		count[journal]=int(0)
 	
-
+	#clear compounds file
+	try:
+		os.remove(os.getcwd()+"/php_data/public_html/materials/compounds_found.txt")
+	except:
+		pass
+	
 	es.index(index="rss_feed", doc_type="info", id=0, body={"count": count}) # count stores number of articles of each journal in the database
 	print "RSS Feed database cleared"
 
